@@ -140,3 +140,53 @@
 2021-09-16 22:55:14,842 INFO Password entered
 2021-09-16 22:55:27,388 INFO Login is clicked
 2021-09-16 22:55:41,231 INFO product searched
+2021-09-17 14:44:46,212 INFO Entering Setup
+2021-09-17 14:44:55,721 DEBUG navigating to url
+2021-09-17 14:44:55,722 INFO Exiting setup
+2021-09-17 14:44:59,504 INFO SignIn is Clicked
+2021-09-17 14:45:02,729 INFO email entered
+2021-09-17 14:45:04,032 INFO Password entered
+2021-09-17 14:45:16,664 INFO Login is clicked
+2021-09-17 14:45:27,958 INFO product searched
+2021-09-17 14:49:05,778 INFO Entering Setup
+2021-09-17 14:49:14,202 DEBUG navigating to url
+2021-09-17 14:49:14,202 INFO Exiting setup
+2021-09-17 14:49:17,333 INFO SignIn is Clicked
+2021-09-17 14:49:20,296 INFO email entered
+2021-09-17 14:49:21,621 INFO Password entered
+2021-09-17 14:49:34,557 INFO Login is clicked
+2021-09-17 14:49:45,149 INFO product searched
+2021-09-17 14:59:39,653 INFO Entering Setup
+2021-09-17 14:59:54,746 DEBUG navigating to url
+2021-09-17 14:59:54,747 INFO Exiting setup
+2021-09-17 14:59:59,001 INFO SignIn is Clicked
+2021-09-17 15:00:03,003 INFO email entered
+2021-09-17 15:00:04,293 INFO Password entered
+2021-09-17 15:00:16,944 INFO Login is clicked
+2021-09-17 15:08:44,366 INFO Entering Setup
+2021-09-17 15:08:52,749 DEBUG navigating to url
+2021-09-17 15:08:52,750 INFO Exiting setup
+2021-09-17 15:08:56,375 INFO SignIn is Clicked
+2021-09-17 15:08:59,187 INFO email entered
+2021-09-17 15:09:00,447 INFO Password entered
+2021-09-17 15:09:13,128 INFO Login is clicked
+2021-09-17 15:09:23,517 INFO product searched
+2021-09-17 15:10:36,446 INFO Entering Setup
+2021-09-17 15:10:41,216 ERROR unknown error: net::ERR_INTERNET_DISCONNECTED
+  (Session info: chrome=93.0.4577.82)
+2021-09-17 15:11:16,148 INFO Entering Setup
+2021-09-17 15:11:28,405 DEBUG navigating to url
+2021-09-17 15:11:28,425 INFO Exiting setup
+2021-09-17 15:11:31,827 INFO SignIn is Clicked
+2021-09-17 15:11:36,829 INFO email entered
+2021-09-17 15:11:38,290 INFO Password entered
+2021-09-17 15:11:51,479 INFO Login is clicked
+2021-09-17 15:12:03,796 INFO product searched
+2021-09-17 15:13:33,561 INFO Entering Setup
+2021-09-17 15:13:44,524 DEBUG navigating to url
+2021-09-17 15:13:44,525 INFO Exiting setup
+2021-09-17 15:13:47,517 INFO SignIn is Clicked
+2021-09-17 15:13:50,205 INFO email entered
+2021-09-17 15:13:51,438 INFO Password entered
+2021-09-17 15:14:04,145 INFO Login is clicked
+2021-09-17 15:14:13,594 INFO product searched

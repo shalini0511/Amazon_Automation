@@ -1,8 +1,6 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Text;
 using OpenQA.Selenium;
-using OpenQA.Selenium.Interactions;
+
 
 namespace AmazonApp.DoActions
 {
@@ -87,19 +85,14 @@ namespace AmazonApp.DoActions
                 log.Error(ex.Message);
             }
 
-
         }
-
         //Method for ScreenShot
-         public static void ScreenShot()
-         {
-             ITakesScreenshot screenshotDriver = driver as ITakesScreenshot;
-             Screenshot screenshot = screenshotDriver.GetScreenshot();
-             screenshot.SaveAsFile(@"C:\Users\HP\source\repos\AmazonApp\AmazonApp\ScreenShots\Screenshot-1" + DateTime.Now.ToString("hhmmss") + ".png");
-            
-
-
-         }
+        public static void ScreenShot()
+        {
+            ITakesScreenshot screenshotDriver = driver as ITakesScreenshot;
+            Screenshot screenshot = screenshotDriver.GetScreenshot();
+            screenshot.SaveAsFile(@"C:\Users\HP\source\repos\AmazonApp\AmazonApp\ScreenShots\Screenshot-1" + DateTime.Now.ToString("hhmmss") + ".png");
+        }
     }
 }
 
