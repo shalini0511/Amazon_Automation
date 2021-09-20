@@ -190,3 +190,27 @@
 2021-09-17 15:13:51,438 INFO Password entered
 2021-09-17 15:14:04,145 INFO Login is clicked
 2021-09-17 15:14:13,594 INFO product searched
+2021-09-18 14:17:41,535 INFO Entering Setup
+2021-09-18 14:17:53,777 DEBUG navigating to url
+2021-09-18 14:17:53,778 INFO Exiting setup
+2021-09-18 14:18:02,147 INFO SignIn is Clicked
+2021-09-18 14:18:11,026 INFO email entered
+2021-09-18 14:18:12,435 INFO Password entered
+2021-09-18 14:18:29,856 INFO Login is clicked
+2021-09-18 14:18:48,139 INFO product searched
+2021-09-20 09:44:51,938 INFO Entering Setup
+2021-09-20 09:45:04,029 DEBUG navigating to url
+2021-09-20 09:45:04,030 INFO Exiting setup
+2021-09-20 09:45:10,033 INFO SignIn is Clicked
+2021-09-20 09:45:16,852 INFO email entered
+2021-09-20 09:45:18,118 INFO Password entered
+2021-09-20 09:45:30,777 INFO Login is clicked
+2021-09-20 09:45:40,541 INFO product searched
+2021-09-20 09:49:21,904 INFO Entering Setup
+2021-09-20 09:49:29,186 DEBUG navigating to url
+2021-09-20 09:49:29,187 INFO Exiting setup
+2021-09-20 09:49:32,194 INFO SignIn is Clicked
+2021-09-20 09:49:34,932 INFO email entered
+2021-09-20 09:49:36,260 INFO Password entered
+2021-09-20 09:49:49,274 INFO Login is clicked
+2021-09-20 09:49:59,780 INFO product searched
