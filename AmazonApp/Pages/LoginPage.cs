@@ -37,12 +37,10 @@ namespace AmazonApp.LoginPage
         [CacheLookup]
         public IWebElement loginBtn;
 
-        [FindsBy(How = How.Id, Using = "twotabsearchtextbox")]
+        /*[FindsBy(How = How.Id, Using = "twotabsearchtextbox")]
         [CacheLookup]
-        public IWebElement search;
+        public IWebElement search;*/
 
-        [FindsBy(How = How.XPath, Using = "//span[@class='nav-cart-icon nav-sprite'] ")]
-        [CacheLookup]
-        public IWebElement addToCart;
+        
     }
 }

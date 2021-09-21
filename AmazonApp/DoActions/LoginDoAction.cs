@@ -3,13 +3,20 @@
  * created on = 16/09/21
  */
 using System;
+using NUnit.Framework;
 using OpenQA.Selenium;
 
 
 namespace AmazonApp.DoActions
 {
-    public class DoAction : BaseClass.BaseClass
+    public class LoginDoAction : BaseClass.BaseClass
     {
+        public static void AssertAfterLaunch(IWebDriver driver)
+        {
+            string title1 = "Online Shopping site in India: Shop Online for Mobiles, Books, Watches, Shoes and More - Amazon.in";
+            string title = driver.Title;
+            Assert.AreEqual(title1, title);
+        }
         public static void SignInToAmazon(IWebDriver driver)
         {
             //Path for read data from Excel sheet
@@ -63,6 +70,7 @@ namespace AmazonApp.DoActions
             login.loginBtn.Click();
             System.Threading.Thread.Sleep(12000);
             ScreenShot();
+            Assert.AreEqual(driver.Url, "https://www.amazon.in/?ref_=nav_ya_signin&");
             try
             {
                 log.Info("Login is clicked");
@@ -71,24 +79,6 @@ namespace AmazonApp.DoActions
             {
                 log.Error(ex.Message);
             }
-
-
-            //For search for products
-            login.search.SendKeys(ExcelOperation.ReadData(1, "search"));
-            System.Threading.Thread.Sleep(2000);
-            login.search.SendKeys(Keys.ArrowDown);
-            login.search.SendKeys(Keys.Enter);
-            ScreenShot();
-            System.Threading.Thread.Sleep(1000);
-            try
-            {
-                log.Info("product searched");
-            }
-            catch (Exception ex)
-            {
-                log.Error(ex.Message);
-            }
-
         }
         //Method for ScreenShot
         public static void ScreenShot()
