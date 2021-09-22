@@ -26,7 +26,6 @@ namespace AmazonApp.DoActions
             //For Sign In
             login.signIn.Click();
             System.Threading.Thread.Sleep(1000);
-            ScreenShot();
             try
             {
                 log.Info("SignIn is Clicked");
@@ -41,7 +40,7 @@ namespace AmazonApp.DoActions
             login.email.SendKeys(ExcelOperation.ReadData(1, "email"));
             System.Threading.Thread.Sleep(1000);
             login.click_Continue.Click();
-            ScreenShot();
+           
             try
             {
                 log.Info("email entered");
@@ -55,7 +54,7 @@ namespace AmazonApp.DoActions
             //For password field
             login.password.SendKeys(ExcelOperation.ReadData(1, "password"));
             System.Threading.Thread.Sleep(1000);
-            ScreenShot();
+           
             try
             {
                 log.Info("Password entered");
@@ -69,7 +68,6 @@ namespace AmazonApp.DoActions
             //For log in button
             login.loginBtn.Click();
             System.Threading.Thread.Sleep(12000);
-            ScreenShot();
             Assert.AreEqual(driver.Url, "https://www.amazon.in/?ref_=nav_ya_signin&");
             try
             {
@@ -80,13 +78,7 @@ namespace AmazonApp.DoActions
                 log.Error(ex.Message);
             }
         }
-        //Method for ScreenShot
-        public static void ScreenShot()
-        {
-            ITakesScreenshot screenshotDriver = driver as ITakesScreenshot;
-            Screenshot screenshot = screenshotDriver.GetScreenshot();
-            screenshot.SaveAsFile(@"C:\Users\HP\source\repos\AmazonApp\AmazonApp\ScreenShots\Screenshot-1" + DateTime.Now.ToString("hhmmss") + ".png");
-        }
+        
     }
 }
 
@@ -95,3 +87,4 @@ namespace AmazonApp.DoActions
 
 
     
+

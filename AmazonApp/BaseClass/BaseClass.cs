@@ -60,5 +60,11 @@ namespace AmazonApp.BaseClass
                       
             driver.Quit();
         }
+        public static void Takescreenshot()
+        {
+            ITakesScreenshot screenshotDriver = driver as ITakesScreenshot;
+            Screenshot screenshot = screenshotDriver.GetScreenshot();
+            screenshot.SaveAsFile(@"C:\Users\HP\source\repos\AmazonApp\AmazonApp\Screenshot\test2.jpg");
+        }
     }
 }
