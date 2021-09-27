@@ -1,7 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-using OpenQA.Selenium;
+﻿using OpenQA.Selenium;
 using SeleniumExtras.PageObjects;
 
 namespace AmazonApp.Pages
@@ -16,5 +13,12 @@ namespace AmazonApp.Pages
         [FindsBy(How = How.Id, Using = "twotabsearchtextbox")]
         [CacheLookup]
         public IWebElement search;
+
+        /*[FindsBy(How = How.XPath, Using = "//img[@class='s-image']")]
+        [CacheLookup]
+        public IWebElement dress;*/
+
+        
+
     }
 }

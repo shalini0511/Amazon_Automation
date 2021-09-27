@@ -38,5 +38,26 @@ namespace AmazonApp.Pages
 
             }
         }
+        public static void ProductRatings()
+        {
+            IList<string> productRating = new List<string>();
+            foreach (var r in driver.FindElements(By.XPath("//*[@class='a-popover-trigger a-declarative']")))
+            {
+                r.Click();
+                System.Threading.Thread.Sleep(8000);
+                foreach (var rating in driver.FindElements(By.CssSelector("span[class='a-size-medium a-color-base a-text-beside-button a-text-bold']")))
+                {
+                    if (!string.IsNullOrEmpty(rating.Text))
+                    {
+                        productRating.Add(rating.Text);
+                        Console.WriteLine("Product Rating {0}", rating.Text);
+                    }
+                    else
+                    {
+                        productRating.Remove(rating.Text);
+                    }
+                }
+            }
+        }
     }
 }
