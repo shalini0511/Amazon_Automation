@@ -10,9 +10,11 @@ using log4net.Repository;
 using NUnit.Framework;
 using OpenQA.Selenium;
 using OpenQA.Selenium.Chrome;
+using OpenQA.Selenium.Firefox;
 
 namespace AmazonApp.BaseClass
 {
+   //[TestFixture]
     public class BaseClass
     {
         public static IWebDriver driver;
@@ -21,6 +23,17 @@ namespace AmazonApp.BaseClass
 
         //Get the default ILoggingRepository
         private static readonly ILoggerRepository repository = log4net.LogManager.GetRepository(Assembly.GetCallingAssembly());
+       /* protected string browser;
+        //default constructor
+        public BaseClass()
+        {
+
+        }
+        //parameterized constructor
+        public BaseClass(string browser)
+        {
+            this.browser = browser;
+        }*/
         [SetUp]
         public void SetUp()
         {
@@ -31,40 +44,62 @@ namespace AmazonApp.BaseClass
 
             // Configure default logging repository with Log4Net configurations
             log4net.Config.XmlConfigurator.Configure(repository, fileInfo);
-
+            log.Info("Entering Setup");
             try
             {
-                log.Info("Entering Setup");
-                //local selenium webdriver
+                /* switch (browser)
+                 {
+
+                     case "chrome":
+                         //Creating an instance of chrome webdriver
+                         ChromeOptions options = new ChromeOptions();
+                         options.AddArguments("--disable-notifications");
+                         options.AddArguments("--disable-bubbles");
+                         driver = new ChromeDriver(options);
+                        
+                         break;
+                     case "firefox":
+                         //Creating an instance of firefox webdriver
+                         driver = new FirefoxDriver();
+                        System.Threading.Thread.Sleep(4000);
+                         break;
+                        
+                     default:
+                         driver = new ChromeDriver();
+                         break;
+                 }*/
                 driver = new ChromeDriver();
-                driver.Url = "https://www.amazon.in/";
-                //To Maximize window
-                driver.Manage().Window.Maximize();
-                System.Threading.Thread.Sleep(200);
                 log.Debug("navigating to url");
+                driver.Url = "http://www.amazon.in/";
+                // To maximize browser
+                driver.Manage().Window.Maximize();
+                //driver.Close();s
+
 
                 log.Info("Exiting setup");
-
             }
-            catch (Exception ex)
+            catch (Exception e)
             {
-                log.Error(ex.Message);
+                Console.WriteLine(e.Message);
             }
-
-
         }
-       
-        [TearDown]
-        public void TearDown()
-        {
-                      
-            driver.Quit();
-        }
+
         public static void Takescreenshot()
         {
             ITakesScreenshot screenshotDriver = driver as ITakesScreenshot;
             Screenshot screenshot = screenshotDriver.GetScreenshot();
-            screenshot.SaveAsFile(@"C:\Users\HP\source\repos\AmazonApp\AmazonApp\Screenshot\test2.jpg");
+            screenshot.SaveAsFile(@"C:\Users\HP\source\repos\AmazonApp\AmazonApp\Screenshot\test7.jpg");
         }
+        [TearDown]
+        public void TearDown()
+        {
+
+            driver.Quit();
+        }
+
+
     }
+
+    
+    
 }

@@ -15,15 +15,14 @@ namespace AmazonApp.Pages
         }
         [FindsBy(How = How.XPath, Using = "//img[@class='s-image']")]
         [CacheLookup]
-        public IWebElement dress;
+        public IWebElement product;
 
-        [FindsBy(How = How.XPath, Using = "//*[@class='a-box-inner']")]
+        [FindsBy(How = How.Id, Using = "add-to-cart-button")]
         [CacheLookup]
-        public IWebElement box;
+        public IWebElement addtocartbtn;
 
-        //*[@class='a-box-inner']
-        [FindsBy(How = How.Id, Using = "buy-now-button")]
+        [FindsBy(How = How.PartialLinkText, Using = "Cart")]
         [CacheLookup]
-        public IWebElement buyNow;
+        public IWebElement cart;
     }
 }

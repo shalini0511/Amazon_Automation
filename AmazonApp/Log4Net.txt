@@ -2065,3 +2065,3033 @@ from unknown error: web view not found
 2021-09-27 13:14:20,064 INFO Exiting setup
 2021-09-27 13:14:31,221 INFO product searched
 2021-09-27 13:14:51,650 INFO item Selected
+2021-09-27 15:17:43,661 INFO Entering Setup
+2021-09-27 15:17:52,455 DEBUG navigating to url
+2021-09-27 15:17:52,456 INFO Exiting setup
+2021-09-27 15:17:55,507 INFO SignIn is Clicked
+2021-09-27 15:17:58,088 INFO email entered
+2021-09-27 15:17:59,228 INFO Password entered
+2021-09-27 15:18:11,657 INFO Login is clicked
+2021-09-27 15:18:21,328 INFO Entering Setup
+2021-09-27 15:18:28,657 DEBUG navigating to url
+2021-09-27 15:18:28,657 INFO Exiting setup
+2021-09-27 15:18:42,885 INFO product searched
+2021-09-27 15:18:49,438 INFO Entering Setup
+2021-09-27 15:18:59,481 DEBUG navigating to url
+2021-09-27 15:18:59,482 INFO Exiting setup
+2021-09-27 15:19:06,568 INFO Entering Setup
+2021-09-27 15:19:14,656 DEBUG navigating to url
+2021-09-27 15:19:14,656 INFO Exiting setup
+2021-09-27 15:22:03,489 INFO Entering Setup
+2021-09-27 15:22:10,663 DEBUG navigating to url
+2021-09-27 15:22:10,664 INFO Exiting setup
+2021-09-27 15:22:13,101 INFO SignIn is Clicked
+2021-09-27 15:22:15,587 INFO email entered
+2021-09-27 15:22:16,721 INFO Password entered
+2021-09-27 15:22:28,894 INFO Login is clicked
+2021-09-27 15:22:39,736 INFO Entering Setup
+2021-09-27 15:22:45,995 DEBUG navigating to url
+2021-09-27 15:22:45,995 INFO Exiting setup
+2021-09-27 15:22:58,044 INFO product searched
+2021-09-27 15:23:02,730 INFO Entering Setup
+2021-09-27 15:23:09,295 DEBUG navigating to url
+2021-09-27 15:23:09,295 INFO Exiting setup
+2021-09-27 15:23:15,832 INFO Entering Setup
+2021-09-27 15:23:22,651 DEBUG navigating to url
+2021-09-27 15:23:22,651 INFO Exiting setup
+2021-09-27 21:34:31,397 INFO Entering Setup
+2021-09-27 21:34:45,579 DEBUG navigating to url
+2021-09-27 21:34:45,580 INFO Exiting setup
+2021-09-27 21:34:50,359 INFO SignIn is Clicked
+2021-09-27 21:34:58,018 INFO email entered
+2021-09-27 21:34:59,170 INFO Password entered
+2021-09-27 21:35:11,488 INFO Login is clicked
+2021-09-27 21:35:24,932 INFO Entering Setup
+2021-09-27 21:35:36,367 DEBUG navigating to url
+2021-09-27 21:35:36,367 INFO Exiting setup
+2021-09-27 21:35:54,554 INFO product searched
+2021-09-27 21:36:02,035 INFO Entering Setup
+2021-09-27 21:36:13,976 DEBUG navigating to url
+2021-09-27 21:36:13,977 INFO Exiting setup
+2021-09-27 21:36:23,011 INFO Entering Setup
+2021-09-27 21:36:36,083 DEBUG navigating to url
+2021-09-27 21:36:36,084 INFO Exiting setup
+2021-09-27 21:36:50,391 INFO product searched
+2021-09-27 21:37:10,782 INFO item Selected
+2021-09-27 21:37:15,294 INFO Entering Setup
+2021-09-27 21:37:26,638 DEBUG navigating to url
+2021-09-27 21:37:26,638 INFO Exiting setup
+2021-09-27 21:43:52,255 INFO Entering Setup
+2021-09-27 21:44:00,374 DEBUG navigating to url
+2021-09-27 21:44:00,375 INFO Exiting setup
+2021-09-27 21:44:03,422 INFO SignIn is Clicked
+2021-09-27 21:44:05,770 INFO email entered
+2021-09-27 21:44:06,917 INFO Password entered
+2021-09-27 21:44:19,244 INFO Login is clicked
+2021-09-27 21:44:30,377 INFO Entering Setup
+2021-09-27 21:44:39,079 DEBUG navigating to url
+2021-09-27 21:44:39,080 INFO Exiting setup
+2021-09-27 21:44:49,584 INFO product searched
+2021-09-27 21:44:56,167 INFO Entering Setup
+2021-09-27 21:45:05,394 DEBUG navigating to url
+2021-09-27 21:45:05,395 INFO Exiting setup
+2021-09-27 21:45:11,913 INFO Entering Setup
+2021-09-27 21:45:19,810 DEBUG navigating to url
+2021-09-27 21:45:19,810 INFO Exiting setup
+2021-09-27 21:45:32,747 INFO product searched
+2021-09-27 21:45:53,331 INFO item Selected
+2021-09-27 21:45:54,874 INFO Entering Setup
+2021-09-27 21:46:04,293 DEBUG navigating to url
+2021-09-27 21:46:04,294 INFO Exiting setup
+2021-09-27 21:48:31,733 INFO Entering Setup
+2021-09-27 21:48:41,804 DEBUG navigating to url
+2021-09-27 21:48:41,804 INFO Exiting setup
+2021-09-27 21:48:44,735 INFO SignIn is Clicked
+2021-09-27 21:48:47,229 INFO email entered
+2021-09-27 21:48:48,351 INFO Password entered
+2021-09-27 21:49:00,710 INFO Login is clicked
+2021-09-27 21:49:10,365 INFO Entering Setup
+2021-09-27 21:49:18,569 DEBUG navigating to url
+2021-09-27 21:49:18,570 INFO Exiting setup
+2021-09-27 21:49:30,119 INFO product searched
+2021-09-27 21:49:36,704 INFO Entering Setup
+2021-09-27 21:49:44,437 DEBUG navigating to url
+2021-09-27 21:49:44,437 INFO Exiting setup
+2021-09-27 21:49:54,524 INFO Entering Setup
+2021-09-27 21:50:04,354 DEBUG navigating to url
+2021-09-27 21:50:04,354 INFO Exiting setup
+2021-09-27 21:50:17,732 INFO product searched
+2021-09-27 21:50:38,138 INFO item Selected
+2021-09-27 21:50:39,359 INFO Entering Setup
+2021-09-27 21:50:48,458 DEBUG navigating to url
+2021-09-27 21:50:48,458 INFO Exiting setup
+2021-09-27 21:57:04,516 INFO Entering Setup
+2021-09-27 21:57:15,753 DEBUG navigating to url
+2021-09-27 21:57:15,765 INFO Exiting setup
+2021-09-27 21:57:18,847 INFO SignIn is Clicked
+2021-09-27 21:57:21,202 INFO email entered
+2021-09-27 21:57:22,357 INFO Password entered
+2021-09-27 21:57:34,635 INFO Login is clicked
+2021-09-27 21:57:46,142 INFO Entering Setup
+2021-09-27 21:57:55,851 DEBUG navigating to url
+2021-09-27 21:57:55,851 INFO Exiting setup
+2021-09-27 21:58:07,326 INFO product searched
+2021-09-27 21:58:13,002 INFO Entering Setup
+2021-09-27 21:58:22,677 DEBUG navigating to url
+2021-09-27 21:58:22,678 INFO Exiting setup
+2021-09-27 21:58:30,459 INFO Entering Setup
+2021-09-27 21:58:41,041 DEBUG navigating to url
+2021-09-27 21:58:41,042 INFO Exiting setup
+2021-09-27 21:58:51,874 INFO product searched
+2021-09-27 21:59:12,315 INFO item Selected
+2021-09-27 21:59:13,520 INFO Entering Setup
+2021-09-27 21:59:22,785 DEBUG navigating to url
+2021-09-27 21:59:22,786 INFO Exiting setup
+2021-09-27 22:00:49,759 INFO Entering Setup
+2021-09-27 22:00:56,707 DEBUG navigating to url
+2021-09-27 22:00:56,708 INFO Exiting setup
+2021-09-27 22:00:59,431 INFO SignIn is Clicked
+2021-09-27 22:01:02,201 INFO email entered
+2021-09-27 22:01:03,344 INFO Password entered
+2021-09-27 22:01:15,615 INFO Login is clicked
+2021-09-27 22:01:26,087 INFO Entering Setup
+2021-09-27 22:01:35,625 DEBUG navigating to url
+2021-09-27 22:01:35,626 INFO Exiting setup
+2021-09-27 22:01:51,551 INFO product searched
+2021-09-27 22:01:56,185 INFO Entering Setup
+2021-09-27 22:02:04,858 DEBUG navigating to url
+2021-09-27 22:02:04,858 INFO Exiting setup
+2021-09-27 22:02:12,213 INFO Entering Setup
+2021-09-27 22:02:23,103 DEBUG navigating to url
+2021-09-27 22:02:23,103 INFO Exiting setup
+2021-09-27 22:02:34,653 INFO product searched
+2021-09-27 22:02:55,201 INFO item Selected
+2021-09-27 22:02:56,230 INFO Entering Setup
+2021-09-27 22:03:08,376 DEBUG navigating to url
+2021-09-27 22:03:08,376 INFO Exiting setup
+2021-09-28 21:09:12,784 INFO Entering Setup
+2021-09-28 21:09:22,127 DEBUG navigating to url
+2021-09-28 21:09:22,127 INFO Exiting setup
+2021-09-28 21:09:26,121 INFO SignIn is Clicked
+2021-09-28 21:09:29,142 INFO email entered
+2021-09-28 21:09:30,240 INFO Password entered
+2021-09-28 21:09:42,491 INFO Login is clicked
+2021-09-28 21:09:55,721 INFO Entering Setup
+2021-09-28 21:10:04,768 DEBUG navigating to url
+2021-09-28 21:10:04,768 INFO Exiting setup
+2021-09-28 21:10:11,166 INFO product searched
+2021-09-28 21:10:24,688 ERROR Product not found
+2021-09-28 21:10:42,088 INFO Added to cart successfully
+2021-09-28 21:10:53,402 INFO Entering Setup
+2021-09-28 21:11:04,342 DEBUG navigating to url
+2021-09-28 21:11:04,342 INFO Exiting setup
+2021-09-28 21:11:13,535 INFO Entering Setup
+2021-09-28 21:11:28,557 DEBUG navigating to url
+2021-09-28 21:11:28,560 INFO Exiting setup
+2021-09-28 21:39:16,492 INFO Entering Setup
+2021-09-28 21:39:26,585 DEBUG navigating to url
+2021-09-28 21:39:26,586 INFO Exiting setup
+2021-09-28 21:39:30,415 INFO SignIn is Clicked
+2021-09-28 21:39:33,744 INFO email entered
+2021-09-28 21:39:34,868 INFO Password entered
+2021-09-28 21:39:47,248 INFO Login is clicked
+2021-09-28 21:39:58,499 INFO Entering Setup
+2021-09-28 21:40:07,352 DEBUG navigating to url
+2021-09-28 21:40:07,353 INFO Exiting setup
+2021-09-28 21:40:13,846 INFO product searched
+2021-09-28 21:40:41,456 INFO Entering Setup
+2021-09-28 21:40:54,094 DEBUG navigating to url
+2021-09-28 21:40:54,095 INFO Exiting setup
+2021-09-28 21:41:04,713 INFO Entering Setup
+2021-09-28 21:41:15,810 DEBUG navigating to url
+2021-09-28 21:41:15,811 INFO Exiting setup
+2021-09-28 21:41:22,458 INFO product searched
+2021-09-28 21:41:36,875 INFO Entering Setup
+2021-09-28 21:41:48,850 DEBUG navigating to url
+2021-09-28 21:41:48,850 INFO Exiting setup
+2021-09-28 21:49:06,132 INFO Entering Setup
+2021-09-28 21:49:15,777 DEBUG navigating to url
+2021-09-28 21:49:15,777 INFO Exiting setup
+2021-09-28 21:49:18,650 INFO SignIn is Clicked
+2021-09-28 21:49:22,476 INFO email entered
+2021-09-28 21:49:23,649 INFO Password entered
+2021-09-28 21:49:35,951 INFO Login is clicked
+2021-09-28 21:49:47,288 INFO Entering Setup
+2021-09-28 21:50:01,904 DEBUG navigating to url
+2021-09-28 21:50:01,904 INFO Exiting setup
+2021-09-28 21:50:08,272 INFO product searched
+2021-09-28 21:50:23,915 ERROR Product not found
+2021-09-28 21:50:37,427 INFO Entering Setup
+2021-09-28 21:50:49,396 DEBUG navigating to url
+2021-09-28 21:50:49,397 INFO Exiting setup
+2021-09-28 21:50:56,557 INFO Entering Setup
+2021-09-28 21:51:05,851 DEBUG navigating to url
+2021-09-28 21:51:05,851 INFO Exiting setup
+2021-09-28 21:52:35,437 INFO Entering Setup
+2021-09-28 21:52:47,711 DEBUG navigating to url
+2021-09-28 21:52:47,712 INFO Exiting setup
+2021-09-28 21:52:56,846 INFO Entering Setup
+2021-09-28 21:53:07,449 DEBUG navigating to url
+2021-09-28 21:53:07,450 INFO Exiting setup
+2021-09-28 21:53:11,022 INFO SignIn is Clicked
+2021-09-28 21:53:14,617 INFO email entered
+2021-09-28 21:53:15,785 INFO Password entered
+2021-09-28 21:53:28,058 INFO Login is clicked
+2021-09-28 21:53:40,399 INFO Entering Setup
+2021-09-28 21:53:52,900 DEBUG navigating to url
+2021-09-28 21:53:52,901 INFO Exiting setup
+2021-09-28 21:53:59,227 INFO product searched
+2021-09-28 21:54:15,164 ERROR Product not found
+2021-09-28 21:54:28,498 INFO Entering Setup
+2021-09-28 21:54:37,599 DEBUG navigating to url
+2021-09-28 21:54:37,599 INFO Exiting setup
+2021-09-28 21:54:47,732 INFO Entering Setup
+2021-09-28 21:55:17,120 DEBUG navigating to url
+2021-09-28 21:55:17,120 INFO Exiting setup
+2021-09-28 21:57:09,530 INFO Entering Setup
+2021-09-28 21:57:20,650 DEBUG navigating to url
+2021-09-28 21:57:20,650 INFO Exiting setup
+2021-09-28 21:57:23,635 INFO SignIn is Clicked
+2021-09-28 21:57:27,659 INFO email entered
+2021-09-28 21:57:28,792 INFO Password entered
+2021-09-28 21:57:56,305 INFO Login is clicked
+2021-09-28 21:58:09,037 INFO Entering Setup
+2021-09-28 21:58:38,852 DEBUG navigating to url
+2021-09-28 21:58:38,853 INFO Exiting setup
+2021-09-28 21:58:45,337 INFO product searched
+2021-09-28 21:59:01,735 ERROR Product not found
+2021-09-28 21:59:22,121 INFO Entering Setup
+2021-09-28 21:59:33,783 DEBUG navigating to url
+2021-09-28 21:59:33,784 INFO Exiting setup
+2021-09-28 21:59:43,655 INFO Entering Setup
+2021-09-28 21:59:56,638 DEBUG navigating to url
+2021-09-28 21:59:56,643 INFO Exiting setup
+2021-09-29 20:42:39,286 INFO Entering Setup
+2021-09-29 20:43:06,947 DEBUG navigating to url
+2021-09-29 20:43:06,948 INFO Exiting setup
+2021-09-29 20:43:11,161 INFO SignIn is Clicked
+2021-09-29 20:43:13,999 INFO email entered
+2021-09-29 20:43:15,115 INFO Password entered
+2021-09-29 20:43:27,494 INFO Login is clicked
+2021-09-29 20:43:38,336 INFO Entering Setup
+2021-09-29 20:44:00,945 DEBUG navigating to url
+2021-09-29 20:44:00,946 INFO Exiting setup
+2021-09-29 20:44:07,461 INFO product searched
+2021-09-29 20:44:46,013 ERROR Product not found
+2021-09-29 20:45:01,224 INFO Added to cart successfully
+2021-09-29 20:45:11,843 INFO Entering Setup
+2021-09-29 20:45:19,720 DEBUG navigating to url
+2021-09-29 20:45:19,724 INFO Exiting setup
+2021-09-29 20:45:28,360 INFO Entering Setup
+2021-09-29 20:45:38,164 DEBUG navigating to url
+2021-09-29 20:45:38,164 INFO Exiting setup
+2021-09-29 20:50:47,533 INFO Entering Setup
+2021-09-29 20:51:01,014 DEBUG navigating to url
+2021-09-29 20:51:01,015 INFO Exiting setup
+2021-09-29 20:51:04,636 INFO SignIn is Clicked
+2021-09-29 20:51:07,648 INFO email entered
+2021-09-29 20:51:08,779 INFO Password entered
+2021-09-29 20:51:21,144 INFO Login is clicked
+2021-09-29 20:51:32,388 INFO Entering Setup
+2021-09-29 20:51:40,725 DEBUG navigating to url
+2021-09-29 20:51:40,725 INFO Exiting setup
+2021-09-29 20:51:53,390 INFO product searched
+2021-09-29 20:52:05,851 ERROR Product not found
+2021-09-29 20:52:16,233 INFO Entering Setup
+2021-09-29 20:52:24,252 DEBUG navigating to url
+2021-09-29 20:52:24,253 INFO Exiting setup
+2021-09-29 20:52:31,124 INFO Entering Setup
+2021-09-29 20:52:37,255 DEBUG navigating to url
+2021-09-29 20:52:37,256 INFO Exiting setup
+2021-09-29 20:54:23,090 INFO Entering Setup
+2021-09-29 20:54:51,124 DEBUG navigating to url
+2021-09-29 20:54:51,125 INFO Exiting setup
+2021-09-29 20:54:54,603 INFO SignIn is Clicked
+2021-09-29 20:54:57,230 INFO email entered
+2021-09-29 20:54:58,364 INFO Password entered
+2021-09-29 20:55:10,698 INFO Login is clicked
+2021-09-29 20:55:18,607 INFO Entering Setup
+2021-09-29 20:55:26,931 DEBUG navigating to url
+2021-09-29 20:55:26,931 INFO Exiting setup
+2021-09-29 20:55:33,350 INFO product searched
+2021-09-29 20:55:48,344 ERROR Product not found
+2021-09-29 20:55:58,902 INFO Entering Setup
+2021-09-29 20:56:10,447 DEBUG navigating to url
+2021-09-29 20:56:10,447 INFO Exiting setup
+2021-09-29 20:56:17,054 INFO Entering Setup
+2021-09-29 20:56:24,986 DEBUG navigating to url
+2021-09-29 20:56:24,986 INFO Exiting setup
+2021-09-29 20:59:58,715 INFO Entering Setup
+2021-09-29 21:00:06,809 DEBUG navigating to url
+2021-09-29 21:00:06,810 INFO Exiting setup
+2021-09-29 21:00:10,524 INFO SignIn is Clicked
+2021-09-29 21:00:15,200 INFO email entered
+2021-09-29 21:00:16,334 INFO Password entered
+2021-09-29 21:00:28,668 INFO Login is clicked
+2021-09-29 21:00:38,358 INFO Entering Setup
+2021-09-29 21:00:51,642 DEBUG navigating to url
+2021-09-29 21:00:51,643 INFO Exiting setup
+2021-09-29 21:00:58,231 INFO product searched
+2021-09-29 21:01:14,382 INFO Entering Setup
+2021-09-29 21:01:30,437 DEBUG navigating to url
+2021-09-29 21:01:30,438 INFO Exiting setup
+2021-09-29 21:01:38,662 INFO Entering Setup
+2021-09-29 21:02:02,290 DEBUG navigating to url
+2021-09-29 21:02:02,291 INFO Exiting setup
+2021-09-29 21:04:08,873 INFO Entering Setup
+2021-09-29 21:04:18,637 DEBUG navigating to url
+2021-09-29 21:04:18,638 INFO Exiting setup
+2021-09-29 21:04:21,996 INFO SignIn is Clicked
+2021-09-29 21:04:25,766 INFO email entered
+2021-09-29 21:04:26,893 INFO Password entered
+2021-09-29 21:04:39,249 INFO Login is clicked
+2021-09-29 21:04:48,430 INFO Entering Setup
+2021-09-29 21:04:55,807 DEBUG navigating to url
+2021-09-29 21:04:55,809 INFO Exiting setup
+2021-09-29 21:05:02,030 INFO product searched
+2021-09-29 21:05:13,217 ERROR Product not found
+2021-09-29 21:07:23,248 INFO Entering Setup
+2021-09-29 21:07:31,485 DEBUG navigating to url
+2021-09-29 21:07:31,486 INFO Exiting setup
+2021-09-29 21:07:34,967 INFO SignIn is Clicked
+2021-09-29 21:07:37,505 INFO email entered
+2021-09-29 21:07:38,616 INFO Password entered
+2021-09-29 21:07:50,939 INFO Login is clicked
+2021-09-29 21:08:01,326 INFO Entering Setup
+2021-09-29 21:08:06,954 DEBUG navigating to url
+2021-09-29 21:08:06,954 INFO Exiting setup
+2021-09-29 21:08:13,352 INFO product searched
+2021-09-29 21:08:24,640 ERROR Product not found
+2021-09-29 21:08:32,895 INFO Added to cart successfully
+2021-09-29 21:13:29,088 INFO Entering Setup
+2021-09-29 21:13:36,935 DEBUG navigating to url
+2021-09-29 21:13:36,936 INFO Exiting setup
+2021-09-29 21:13:39,968 INFO SignIn is Clicked
+2021-09-29 21:13:42,631 INFO email entered
+2021-09-29 21:13:43,751 INFO Password entered
+2021-09-29 21:13:56,301 INFO Login is clicked
+2021-09-29 21:14:05,806 INFO Entering Setup
+2021-09-29 21:14:14,955 DEBUG navigating to url
+2021-09-29 21:14:14,956 INFO Exiting setup
+2021-09-29 21:14:21,388 INFO product searched
+2021-09-29 21:14:35,836 INFO Entering Setup
+2021-09-29 21:14:48,131 DEBUG navigating to url
+2021-09-29 21:14:48,131 INFO Exiting setup
+2021-09-29 21:14:54,469 INFO product searched
+2021-09-29 21:15:11,481 INFO Entering Setup
+2021-09-29 21:15:30,751 DEBUG navigating to url
+2021-09-29 21:15:30,751 INFO Exiting setup
+2021-09-29 21:15:35,190 INFO SignIn is Clicked
+2021-09-29 21:15:42,576 INFO email entered
+2021-09-29 21:15:43,689 INFO Password entered
+2021-09-29 21:15:55,920 INFO Login is clicked
+2021-09-29 21:16:07,118 INFO Entering Setup
+2021-09-29 21:16:17,975 DEBUG navigating to url
+2021-09-29 21:16:17,975 INFO Exiting setup
+2021-09-29 21:16:24,295 INFO product searched
+2021-09-29 21:16:40,270 INFO Entering Setup
+2021-09-29 21:16:49,682 DEBUG navigating to url
+2021-09-29 21:16:49,683 INFO Exiting setup
+2021-09-29 21:16:56,639 INFO product searched
+2021-09-29 21:17:31,118 ERROR Product not found
+2021-09-29 21:17:39,468 INFO Added to cart successfully
+2021-09-29 21:28:19,290 INFO Entering Setup
+2021-09-29 21:28:36,542 DEBUG navigating to url
+2021-09-29 21:28:36,545 INFO Exiting setup
+2021-09-29 21:28:39,967 INFO SignIn is Clicked
+2021-09-29 21:28:45,586 INFO email entered
+2021-09-29 21:28:46,748 INFO Password entered
+2021-09-29 21:28:59,944 INFO Entering Setup
+2021-09-29 21:29:13,505 DEBUG navigating to url
+2021-09-29 21:29:13,506 INFO Exiting setup
+2021-09-29 21:29:19,862 INFO product searched
+2021-09-29 21:29:42,274 INFO Entering Setup
+2021-09-29 21:29:56,346 DEBUG navigating to url
+2021-09-29 21:29:56,346 INFO Exiting setup
+2021-09-29 21:30:02,766 INFO product searched
+2021-09-29 21:30:14,747 ERROR Product not found
+2021-09-29 21:30:28,794 INFO Added to cart successfully
+2021-09-29 21:31:50,205 INFO Entering Setup
+2021-09-29 21:31:57,363 DEBUG navigating to url
+2021-09-29 21:31:57,364 INFO Exiting setup
+2021-09-29 21:32:00,599 INFO SignIn is Clicked
+2021-09-29 21:32:04,310 INFO email entered
+2021-09-29 21:32:05,421 INFO Password entered
+2021-09-29 21:32:17,751 INFO Login is clicked
+2021-09-29 21:32:27,214 INFO Entering Setup
+2021-09-29 21:32:35,182 DEBUG navigating to url
+2021-09-29 21:32:35,182 INFO Exiting setup
+2021-09-29 21:32:42,010 INFO product searched
+2021-09-29 21:32:55,627 INFO Entering Setup
+2021-09-29 21:33:24,899 DEBUG navigating to url
+2021-09-29 21:33:24,899 INFO Exiting setup
+2021-09-29 21:33:31,371 INFO product searched
+2021-09-29 21:33:45,007 ERROR Product not found
+2021-09-29 21:33:55,682 INFO Added to cart successfully
+2021-09-29 21:40:08,297 INFO Entering Setup
+2021-09-29 21:40:28,687 DEBUG navigating to url
+2021-09-29 21:40:28,688 INFO Exiting setup
+2021-09-29 21:40:33,672 INFO SignIn is Clicked
+2021-09-29 21:40:37,839 INFO email entered
+2021-09-29 21:40:38,985 INFO Password entered
+2021-09-29 21:40:51,203 INFO Login is clicked
+2021-09-29 21:41:00,966 INFO Entering Setup
+2021-09-29 21:41:17,391 DEBUG navigating to url
+2021-09-29 21:41:17,392 INFO Exiting setup
+2021-09-29 21:41:23,704 INFO product searched
+2021-09-29 21:41:39,685 INFO Entering Setup
+2021-09-29 21:41:54,436 DEBUG navigating to url
+2021-09-29 21:41:54,436 INFO Exiting setup
+2021-09-29 21:42:00,743 INFO product searched
+2021-09-29 21:42:13,056 ERROR Product not found
+2021-09-29 21:42:33,324 INFO Added to cart successfully
+2021-09-29 21:53:13,132 INFO Entering Setup
+2021-09-29 21:53:40,236 DEBUG navigating to url
+2021-09-29 21:53:40,237 INFO Exiting setup
+2021-09-29 21:53:47,478 INFO SignIn is Clicked
+2021-09-29 21:53:50,880 INFO email entered
+2021-09-29 21:53:52,016 INFO Password entered
+2021-09-29 21:54:04,385 INFO Login is clicked
+2021-09-29 21:54:16,459 INFO Entering Setup
+2021-09-29 21:54:33,615 DEBUG navigating to url
+2021-09-29 21:54:33,616 INFO Exiting setup
+2021-09-29 21:54:37,930 INFO SignIn is Clicked
+2021-09-29 21:54:38,656 INFO Entering Setup
+2021-09-29 21:54:54,554 DEBUG navigating to url
+2021-09-29 21:54:54,554 INFO Exiting setup
+2021-09-29 21:54:57,861 INFO SignIn is Clicked
+2021-09-29 22:03:55,896 INFO Entering Setup
+2021-09-29 22:04:14,948 DEBUG navigating to url
+2021-09-29 22:04:14,949 INFO Exiting setup
+2021-09-29 22:04:19,252 INFO SignIn is Clicked
+2021-09-29 22:04:25,281 INFO email entered
+2021-09-29 22:04:26,424 INFO Password entered
+2021-09-29 22:04:38,595 INFO Login is clicked
+2021-09-29 22:04:49,057 INFO Entering Setup
+2021-09-29 22:05:03,401 DEBUG navigating to url
+2021-09-29 22:05:03,402 INFO Exiting setup
+2021-09-29 22:05:09,768 INFO product searched
+2021-09-29 22:05:33,322 INFO Entering Setup
+2021-09-29 22:05:49,376 DEBUG navigating to url
+2021-09-29 22:05:49,376 INFO Exiting setup
+2021-09-29 22:05:50,556 INFO Entering Setup
+2021-09-29 22:06:01,346 DEBUG navigating to url
+2021-09-29 22:06:01,347 INFO Exiting setup
+2021-09-29 22:06:07,786 INFO product searched
+2021-09-29 22:06:19,161 ERROR Product not found
+2021-09-29 22:06:27,437 INFO Added to cart successfully
+2021-09-29 22:08:35,133 INFO Entering Setup
+2021-09-29 22:09:07,972 DEBUG navigating to url
+2021-09-29 22:09:07,973 INFO Exiting setup
+2021-09-29 22:09:13,157 INFO SignIn is Clicked
+2021-09-29 22:09:15,888 INFO email entered
+2021-09-29 22:09:17,061 INFO Password entered
+2021-09-29 22:09:29,446 INFO Login is clicked
+2021-09-29 22:09:43,004 INFO Entering Setup
+2021-09-29 22:10:02,568 DEBUG navigating to url
+2021-09-29 22:10:02,569 INFO Exiting setup
+2021-09-29 22:10:09,110 INFO product searched
+2021-09-29 22:10:24,114 INFO Entering Setup
+2021-09-29 22:10:35,768 DEBUG navigating to url
+2021-09-29 22:10:35,768 INFO Exiting setup
+2021-09-29 22:10:42,519 INFO product searched
+2021-09-29 22:10:53,579 ERROR Product not found
+2021-09-29 22:11:03,898 INFO Added to cart successfully
+2021-09-29 22:11:29,488 INFO Entering Setup
+2021-09-29 22:11:42,074 DEBUG navigating to url
+2021-09-29 22:11:42,076 INFO Exiting setup
+2021-09-29 22:11:48,439 INFO product searched
+2021-09-29 22:12:00,662 ERROR Product not found
+2021-09-29 22:12:11,884 INFO Added to cart successfully
+2021-09-29 22:14:57,195 INFO Entering Setup
+2021-09-29 22:15:05,687 DEBUG navigating to url
+2021-09-29 22:15:05,688 INFO Exiting setup
+2021-09-29 22:15:08,613 INFO SignIn is Clicked
+2021-09-29 22:15:12,582 INFO email entered
+2021-09-29 22:15:13,701 INFO Password entered
+2021-09-29 22:15:26,021 INFO Login is clicked
+2021-09-29 22:15:38,789 INFO Entering Setup
+2021-09-29 22:15:51,409 DEBUG navigating to url
+2021-09-29 22:15:51,410 INFO Exiting setup
+2021-09-29 22:15:57,749 INFO product searched
+2021-09-29 22:16:14,790 INFO Entering Setup
+2021-09-29 22:16:25,331 DEBUG navigating to url
+2021-09-29 22:16:25,334 INFO Exiting setup
+2021-09-29 22:16:32,065 INFO product searched
+2021-09-29 22:16:45,529 ERROR Product not found
+2021-09-29 22:16:58,306 INFO Added to cart successfully
+2021-09-29 22:17:07,786 INFO Entering Setup
+2021-09-29 22:17:22,522 DEBUG navigating to url
+2021-09-29 22:17:22,523 INFO Exiting setup
+2021-09-29 22:17:28,987 INFO product searched
+2021-09-29 22:17:44,431 ERROR Product not found
+2021-09-29 22:18:03,813 INFO Added to cart successfully
+2021-09-30 09:43:07,083 INFO Entering Setup
+2021-09-30 09:43:16,056 DEBUG navigating to url
+2021-09-30 09:43:16,057 INFO Exiting setup
+2021-09-30 09:43:19,074 INFO SignIn is Clicked
+2021-09-30 09:43:23,121 INFO email entered
+2021-09-30 09:43:24,269 INFO Password entered
+2021-09-30 09:43:38,538 INFO Login is clicked
+2021-09-30 09:43:49,710 INFO Entering Setup
+2021-09-30 09:43:57,081 DEBUG navigating to url
+2021-09-30 09:43:57,081 INFO Exiting setup
+2021-09-30 09:44:03,361 INFO product searched
+2021-09-30 09:44:18,424 INFO Entering Setup
+2021-09-30 09:44:23,367 DEBUG navigating to url
+2021-09-30 09:44:23,367 INFO Exiting setup
+2021-09-30 09:44:29,609 INFO product searched
+2021-09-30 09:44:40,826 ERROR Product not found
+2021-09-30 09:44:50,050 INFO Added to cart successfully
+2021-09-30 09:45:10,657 INFO Entering Setup
+2021-09-30 09:45:17,459 DEBUG navigating to url
+2021-09-30 09:45:17,460 INFO Exiting setup
+2021-09-30 09:45:23,665 INFO product searched
+2021-09-30 09:45:35,654 ERROR Product not found
+2021-09-30 09:45:45,443 INFO Added to cart successfully
+2021-09-30 09:49:30,737 INFO Entering Setup
+2021-09-30 09:49:37,791 DEBUG navigating to url
+2021-09-30 09:49:37,792 INFO Exiting setup
+2021-09-30 09:49:40,569 INFO SignIn is Clicked
+2021-09-30 09:49:43,588 INFO email entered
+2021-09-30 09:49:44,728 INFO Password entered
+2021-09-30 09:49:56,968 INFO Login is clicked
+2021-09-30 09:50:07,188 INFO Entering Setup
+2021-09-30 09:50:14,588 DEBUG navigating to url
+2021-09-30 09:50:14,588 INFO Exiting setup
+2021-09-30 09:50:21,010 INFO product searched
+2021-09-30 09:50:35,728 INFO Entering Setup
+2021-09-30 09:50:42,598 DEBUG navigating to url
+2021-09-30 09:50:42,599 INFO Exiting setup
+2021-09-30 09:50:48,803 INFO product searched
+2021-09-30 09:51:07,549 ERROR Product not found
+2021-09-30 09:51:24,183 INFO Added to cart successfully
+2021-09-30 09:51:45,981 INFO Entering Setup
+2021-09-30 09:51:52,690 DEBUG navigating to url
+2021-09-30 09:51:52,691 INFO Exiting setup
+2021-09-30 09:51:58,863 INFO product searched
+2021-09-30 09:52:10,475 ERROR Product not found
+2021-09-30 09:52:19,890 INFO Added to cart successfully
+2021-09-30 10:08:21,394 INFO Entering Setup
+2021-09-30 10:08:28,952 DEBUG navigating to url
+2021-09-30 10:08:28,952 INFO Exiting setup
+2021-09-30 10:08:33,650 INFO SignIn is Clicked
+2021-09-30 10:08:37,265 INFO email entered
+2021-09-30 10:08:38,394 INFO Password entered
+2021-09-30 10:08:50,682 INFO Login is clicked
+2021-09-30 10:08:59,945 INFO Entering Setup
+2021-09-30 10:09:08,361 DEBUG navigating to url
+2021-09-30 10:09:08,362 INFO Exiting setup
+2021-09-30 10:09:14,725 INFO product searched
+2021-09-30 10:09:29,433 INFO Entering Setup
+2021-09-30 10:09:37,473 DEBUG navigating to url
+2021-09-30 10:09:37,475 INFO Exiting setup
+2021-09-30 10:09:43,714 INFO product searched
+2021-09-30 10:09:56,133 ERROR Product not found
+2021-09-30 10:10:05,182 INFO Added to cart successfully
+2021-09-30 10:10:27,183 INFO Entering Setup
+2021-09-30 10:10:34,281 DEBUG navigating to url
+2021-09-30 10:10:34,281 INFO Exiting setup
+2021-09-30 10:10:40,465 INFO product searched
+2021-09-30 10:11:11,975 ERROR Product not found
+2021-09-30 10:12:27,634 INFO Entering Setup
+2021-09-30 10:12:33,905 DEBUG navigating to url
+2021-09-30 10:12:33,906 INFO Exiting setup
+2021-09-30 10:12:37,519 INFO SignIn is Clicked
+2021-09-30 10:12:39,739 INFO email entered
+2021-09-30 10:12:40,884 INFO Password entered
+2021-09-30 10:12:53,083 INFO Login is clicked
+2021-09-30 10:13:02,203 INFO Entering Setup
+2021-09-30 10:13:12,516 DEBUG navigating to url
+2021-09-30 10:13:12,517 INFO Exiting setup
+2021-09-30 10:13:18,740 INFO product searched
+2021-09-30 10:13:32,775 INFO Entering Setup
+2021-09-30 10:13:40,144 DEBUG navigating to url
+2021-09-30 10:13:40,145 INFO Exiting setup
+2021-09-30 10:13:46,443 INFO product searched
+2021-09-30 10:13:57,083 ERROR Product not found
+2021-09-30 10:14:05,414 INFO Added to cart successfully
+2021-09-30 10:14:25,718 INFO Entering Setup
+2021-09-30 10:14:33,514 DEBUG navigating to url
+2021-09-30 10:14:33,515 INFO Exiting setup
+2021-09-30 10:14:39,750 INFO product searched
+2021-09-30 10:14:51,858 ERROR Product not found
+2021-09-30 10:15:01,960 INFO Added to cart successfully
+2021-09-30 11:54:57,873 INFO Entering Setup
+2021-09-30 11:55:11,191 DEBUG navigating to url
+2021-09-30 11:55:11,191 INFO Exiting setup
+2021-09-30 11:55:16,274 INFO SignIn is Clicked
+2021-09-30 11:55:19,002 INFO email entered
+2021-09-30 11:55:20,187 INFO Password entered
+2021-09-30 11:55:32,423 INFO Login is clicked
+2021-09-30 11:55:49,859 INFO Entering Setup
+2021-09-30 11:55:59,669 DEBUG navigating to url
+2021-09-30 11:55:59,670 INFO Exiting setup
+2021-09-30 11:56:06,453 INFO product searched
+2021-09-30 11:56:22,041 INFO Entering Setup
+2021-09-30 11:56:31,027 DEBUG navigating to url
+2021-09-30 11:56:31,027 INFO Exiting setup
+2021-09-30 11:56:37,442 INFO product searched
+2021-09-30 11:56:58,914 INFO Product not found
+2021-09-30 11:57:12,358 INFO Added to cart successfully
+2021-09-30 11:57:35,619 INFO Entering Setup
+2021-09-30 11:57:50,068 DEBUG navigating to url
+2021-09-30 11:57:50,069 INFO Exiting setup
+2021-09-30 11:57:56,342 INFO product searched
+2021-09-30 12:00:03,397 INFO Entering Setup
+2021-09-30 12:00:11,095 DEBUG navigating to url
+2021-09-30 12:00:11,096 INFO Exiting setup
+2021-09-30 12:00:15,979 INFO SignIn is Clicked
+2021-09-30 12:00:18,814 INFO email entered
+2021-09-30 12:00:19,957 INFO Password entered
+2021-09-30 12:00:32,322 INFO Login is clicked
+2021-09-30 12:00:45,758 INFO Entering Setup
+2021-09-30 12:00:53,939 DEBUG navigating to url
+2021-09-30 12:00:53,940 INFO Exiting setup
+2021-09-30 12:01:00,195 INFO product searched
+2021-09-30 12:01:15,103 INFO Entering Setup
+2021-09-30 12:01:25,169 DEBUG navigating to url
+2021-09-30 12:01:25,169 INFO Exiting setup
+2021-09-30 12:01:31,785 INFO product searched
+2021-09-30 12:01:45,156 INFO Product not found
+2021-09-30 12:01:54,369 INFO Entering Setup
+2021-09-30 12:02:00,994 DEBUG navigating to url
+2021-09-30 12:02:01,001 INFO Exiting setup
+2021-09-30 12:02:07,491 INFO product searched
+2021-09-30 12:02:19,143 INFO Product not found
+2021-09-30 12:26:36,865 INFO Entering Setup
+2021-09-30 12:26:44,814 DEBUG navigating to url
+2021-09-30 12:26:44,815 INFO Exiting setup
+2021-09-30 12:26:49,677 INFO SignIn is Clicked
+2021-09-30 12:26:52,161 INFO email entered
+2021-09-30 12:26:53,335 INFO Password entered
+2021-09-30 12:27:05,659 INFO Login is clicked
+2021-09-30 12:27:18,869 INFO Entering Setup
+2021-09-30 12:27:25,603 DEBUG navigating to url
+2021-09-30 12:27:25,604 INFO Exiting setup
+2021-09-30 12:27:32,463 INFO product searched
+2021-09-30 12:27:47,703 INFO Entering Setup
+2021-09-30 12:27:57,233 DEBUG navigating to url
+2021-09-30 12:27:57,236 INFO Exiting setup
+2021-09-30 12:28:03,939 INFO product searched
+2021-09-30 12:28:19,993 INFO Product found
+2021-09-30 12:28:35,630 INFO Added to cart successfully
+2021-09-30 12:28:44,828 INFO Entering Setup
+2021-09-30 12:28:52,015 DEBUG navigating to url
+2021-09-30 12:28:52,015 INFO Exiting setup
+2021-09-30 12:28:58,302 INFO product searched
+2021-09-30 12:32:19,985 INFO Entering Setup
+2021-09-30 12:32:26,851 DEBUG navigating to url
+2021-09-30 12:32:26,852 INFO Exiting setup
+2021-09-30 12:32:32,940 INFO SignIn is Clicked
+2021-09-30 12:32:35,904 INFO email entered
+2021-09-30 12:32:37,076 INFO Password entered
+2021-09-30 12:32:49,320 INFO Login is clicked
+2021-09-30 12:33:03,228 INFO Entering Setup
+2021-09-30 12:33:10,319 DEBUG navigating to url
+2021-09-30 12:33:10,319 INFO Exiting setup
+2021-09-30 12:33:16,791 INFO product searched
+2021-09-30 12:33:30,821 INFO Entering Setup
+2021-09-30 12:33:39,605 DEBUG navigating to url
+2021-09-30 12:33:39,606 INFO Exiting setup
+2021-09-30 12:33:45,847 INFO product searched
+2021-09-30 12:35:08,695 INFO Entering Setup
+2021-09-30 12:35:22,805 DEBUG navigating to url
+2021-09-30 12:35:22,809 INFO Exiting setup
+2021-09-30 12:35:26,459 INFO SignIn is Clicked
+2021-09-30 12:35:29,398 INFO email entered
+2021-09-30 12:35:30,558 INFO Password entered
+2021-09-30 12:35:42,826 INFO Login is clicked
+2021-09-30 12:35:57,881 INFO Entering Setup
+2021-09-30 12:36:13,267 DEBUG navigating to url
+2021-09-30 12:36:13,273 INFO Exiting setup
+2021-09-30 12:36:19,585 INFO product searched
+2021-09-30 12:36:35,972 INFO Entering Setup
+2021-09-30 12:36:44,972 DEBUG navigating to url
+2021-09-30 12:36:44,973 INFO Exiting setup
+2021-09-30 12:36:51,258 INFO product searched
+2021-09-30 12:37:10,168 INFO Product found
+2021-09-30 12:37:23,149 INFO Added to cart successfully
+2021-09-30 13:36:34,724 INFO Entering Setup
+2021-09-30 13:36:42,461 DEBUG navigating to url
+2021-09-30 13:36:42,462 INFO Exiting setup
+2021-09-30 13:36:45,037 INFO SignIn is Clicked
+2021-09-30 13:36:47,563 INFO email entered
+2021-09-30 13:36:48,725 INFO Password entered
+2021-09-30 13:37:00,956 INFO Login is clicked
+2021-09-30 13:37:11,979 INFO Entering Setup
+2021-09-30 13:37:18,151 DEBUG navigating to url
+2021-09-30 13:37:18,152 INFO Exiting setup
+2021-09-30 13:37:24,415 INFO product searched
+2021-09-30 13:37:35,437 INFO Entering Setup
+2021-09-30 13:37:49,069 DEBUG navigating to url
+2021-09-30 13:37:49,070 INFO Exiting setup
+2021-09-30 13:37:55,905 INFO product searched
+2021-09-30 13:38:07,909 INFO Product found
+2021-09-30 13:38:16,224 INFO Added to cart successfully
+2021-09-30 13:38:25,129 INFO Entering Setup
+2021-09-30 13:38:31,980 DEBUG navigating to url
+2021-09-30 13:38:31,982 INFO Exiting setup
+2021-09-30 13:38:38,432 INFO product searched
+2021-09-30 13:38:51,146 INFO Product found
+2021-09-30 13:38:59,898 INFO Added to cart successfully
+2021-09-30 13:40:01,729 INFO Entering Setup
+2021-09-30 13:40:07,512 DEBUG navigating to url
+2021-09-30 13:40:07,513 INFO Exiting setup
+2021-09-30 13:40:10,226 INFO SignIn is Clicked
+2021-09-30 13:40:12,869 INFO email entered
+2021-09-30 13:40:14,002 INFO Password entered
+2021-09-30 13:40:26,241 INFO Login is clicked
+2021-09-30 13:40:34,929 INFO Entering Setup
+2021-09-30 13:40:44,665 DEBUG navigating to url
+2021-09-30 13:40:44,665 INFO Exiting setup
+2021-09-30 13:40:50,980 INFO product searched
+2021-09-30 13:41:04,618 INFO Entering Setup
+2021-09-30 13:41:12,113 DEBUG navigating to url
+2021-09-30 13:41:12,115 INFO Exiting setup
+2021-09-30 13:41:18,419 INFO product searched
+2021-09-30 13:41:29,617 INFO Product found
+2021-09-30 13:41:37,966 INFO Added to cart successfully
+2021-09-30 13:41:46,922 INFO Entering Setup
+2021-09-30 13:41:54,205 DEBUG navigating to url
+2021-09-30 13:41:54,207 INFO Exiting setup
+2021-09-30 13:42:00,473 INFO product searched
+2021-09-30 13:42:13,171 INFO Product found
+2021-09-30 13:42:21,630 INFO Added to cart successfully
+2021-09-30 13:44:09,294 INFO Entering Setup
+2021-09-30 13:44:16,005 DEBUG navigating to url
+2021-09-30 13:44:16,006 INFO Exiting setup
+2021-09-30 13:44:20,683 INFO SignIn is Clicked
+2021-09-30 13:44:23,683 INFO email entered
+2021-09-30 13:44:25,111 INFO Password entered
+2021-09-30 13:44:38,326 INFO Login is clicked
+2021-09-30 13:44:50,951 INFO Entering Setup
+2021-09-30 13:44:57,979 DEBUG navigating to url
+2021-09-30 13:44:57,979 INFO Exiting setup
+2021-09-30 13:45:04,284 INFO product searched
+2021-09-30 13:45:19,902 INFO Entering Setup
+2021-09-30 13:45:26,069 DEBUG navigating to url
+2021-09-30 13:45:26,069 INFO Exiting setup
+2021-09-30 13:45:32,335 INFO product searched
+2021-09-30 13:45:43,320 INFO Product found
+2021-09-30 13:45:52,217 INFO Entering Setup
+2021-09-30 13:45:57,008 DEBUG navigating to url
+2021-09-30 13:45:57,009 INFO Exiting setup
+2021-09-30 13:46:03,662 INFO product searched
+2021-09-30 13:46:14,685 INFO Product found
+2021-09-30 13:46:37,937 INFO Added to cart successfully
+2021-09-30 15:52:09,945 INFO Entering Setup
+2021-09-30 15:52:36,020 DEBUG navigating to url
+2021-09-30 15:52:36,020 INFO Exiting setup
+2021-09-30 15:52:39,756 INFO SignIn is Clicked
+2021-09-30 15:52:47,247 INFO email entered
+2021-09-30 15:52:48,423 INFO Password entered
+2021-09-30 15:53:00,923 INFO Login is clicked
+2021-09-30 15:53:15,128 INFO Entering Setup
+2021-09-30 15:53:25,523 DEBUG navigating to url
+2021-09-30 15:53:25,523 INFO Exiting setup
+2021-09-30 15:53:32,222 INFO product searched
+2021-09-30 15:53:45,654 INFO Entering Setup
+2021-09-30 15:53:57,937 DEBUG navigating to url
+2021-09-30 15:53:57,937 INFO Exiting setup
+2021-09-30 15:54:04,633 INFO product searched
+2021-09-30 15:54:16,365 INFO Product found
+2021-09-30 15:54:24,714 INFO Added to cart successfully
+2021-09-30 15:54:33,611 INFO Entering Setup
+2021-09-30 15:54:42,484 DEBUG navigating to url
+2021-09-30 15:54:42,485 INFO Exiting setup
+2021-09-30 15:54:48,926 INFO product searched
+2021-09-30 15:55:05,209 INFO Product found
+2021-09-30 15:55:16,640 INFO Added to cart successfully
+2021-09-30 16:00:14,473 INFO Entering Setup
+2021-09-30 16:00:23,160 DEBUG navigating to url
+2021-09-30 16:00:23,163 INFO Exiting setup
+2021-09-30 16:00:26,376 INFO SignIn is Clicked
+2021-09-30 16:00:29,023 INFO email entered
+2021-09-30 16:00:30,212 INFO Password entered
+2021-09-30 16:00:43,219 INFO Login is clicked
+2021-09-30 16:00:57,906 INFO Entering Setup
+2021-09-30 16:01:10,347 DEBUG navigating to url
+2021-09-30 16:01:10,348 INFO Exiting setup
+2021-09-30 16:01:16,759 INFO product searched
+2021-09-30 16:01:30,978 INFO Entering Setup
+2021-09-30 16:01:43,008 DEBUG navigating to url
+2021-09-30 16:01:43,008 INFO Exiting setup
+2021-09-30 16:01:49,224 INFO product searched
+2021-09-30 16:02:01,396 INFO Product found
+2021-09-30 16:02:11,709 INFO Added to cart successfully
+2021-09-30 16:02:20,987 INFO Entering Setup
+2021-09-30 16:02:28,415 DEBUG navigating to url
+2021-09-30 16:02:28,416 INFO Exiting setup
+2021-09-30 16:02:34,622 INFO product searched
+2021-09-30 16:02:46,199 INFO Product found
+2021-09-30 16:02:54,468 INFO Added to cart successfully
+2021-09-30 16:04:30,370 INFO Entering Setup
+2021-09-30 16:04:37,536 DEBUG navigating to url
+2021-09-30 16:04:37,536 INFO Exiting setup
+2021-09-30 16:04:42,139 INFO SignIn is Clicked
+2021-09-30 16:04:45,090 INFO email entered
+2021-09-30 16:04:46,231 INFO Password entered
+2021-09-30 16:04:58,555 INFO Login is clicked
+2021-09-30 16:05:15,517 INFO Entering Setup
+2021-09-30 16:05:25,078 DEBUG navigating to url
+2021-09-30 16:05:25,078 INFO Exiting setup
+2021-09-30 16:05:31,577 INFO product searched
+2021-09-30 16:05:52,476 INFO Entering Setup
+2021-09-30 16:06:03,347 DEBUG navigating to url
+2021-09-30 16:06:03,347 INFO Exiting setup
+2021-09-30 16:06:09,613 INFO product searched
+2021-09-30 16:06:25,243 INFO Entering Setup
+2021-09-30 16:06:31,124 DEBUG navigating to url
+2021-09-30 16:06:31,125 INFO Exiting setup
+2021-09-30 16:06:37,482 INFO product searched
+2021-09-30 16:06:48,264 INFO Product found
+2021-09-30 16:06:56,621 INFO Added to cart successfully
+2021-09-30 16:08:01,287 INFO Entering Setup
+2021-09-30 16:08:08,557 DEBUG navigating to url
+2021-09-30 16:08:08,558 INFO Exiting setup
+2021-09-30 16:08:11,238 INFO SignIn is Clicked
+2021-09-30 16:08:14,802 INFO email entered
+2021-09-30 16:08:15,932 INFO Password entered
+2021-09-30 16:08:28,198 INFO Login is clicked
+2021-09-30 16:08:36,352 INFO Entering Setup
+2021-09-30 16:08:43,197 DEBUG navigating to url
+2021-09-30 16:08:43,198 INFO Exiting setup
+2021-09-30 16:08:49,462 INFO product searched
+2021-09-30 16:09:04,489 INFO Entering Setup
+2021-09-30 16:09:18,580 DEBUG navigating to url
+2021-09-30 16:09:18,581 INFO Exiting setup
+2021-09-30 16:09:24,894 INFO product searched
+2021-09-30 16:09:36,603 INFO Product found
+2021-09-30 16:09:44,924 INFO Added to cart successfully
+2021-09-30 16:09:55,599 INFO Entering Setup
+2021-09-30 16:10:01,710 DEBUG navigating to url
+2021-09-30 16:10:01,710 INFO Exiting setup
+2021-09-30 16:10:08,045 INFO product searched
+2021-09-30 16:10:19,235 INFO Product found
+2021-09-30 16:10:27,768 INFO Added to cart successfully
+2021-09-30 16:12:46,351 INFO Entering Setup
+2021-09-30 16:12:54,011 DEBUG navigating to url
+2021-09-30 16:12:54,012 INFO Exiting setup
+2021-09-30 16:12:54,742 INFO Entering Setup
+2021-09-30 16:13:04,066 DEBUG navigating to url
+2021-09-30 16:13:04,067 INFO Exiting setup
+2021-09-30 16:13:33,736 INFO Entering Setup
+2021-09-30 16:13:41,948 DEBUG navigating to url
+2021-09-30 16:13:41,949 INFO Exiting setup
+2021-09-30 16:13:46,375 INFO SignIn is Clicked
+2021-09-30 16:13:49,457 INFO email entered
+2021-09-30 16:13:50,580 INFO Password entered
+2021-09-30 16:14:02,799 INFO Login is clicked
+2021-09-30 16:14:12,740 INFO Entering Setup
+2021-09-30 16:14:21,686 DEBUG navigating to url
+2021-09-30 16:14:21,686 INFO Exiting setup
+2021-09-30 16:14:28,343 INFO product searched
+2021-09-30 16:14:44,790 INFO Entering Setup
+2021-09-30 16:14:57,994 DEBUG navigating to url
+2021-09-30 16:14:57,994 INFO Exiting setup
+2021-09-30 16:15:04,236 INFO product searched
+2021-09-30 16:15:15,961 INFO Product found
+2021-09-30 16:15:27,300 INFO Added to cart successfully
+2021-09-30 16:15:36,170 INFO Entering Setup
+2021-09-30 16:15:45,769 DEBUG navigating to url
+2021-09-30 16:15:45,770 INFO Exiting setup
+2021-09-30 16:15:52,080 INFO product searched
+2021-09-30 16:16:04,093 INFO Product found
+2021-09-30 16:16:13,492 INFO Added to cart successfully
+2021-09-30 16:18:49,965 INFO Entering Setup
+2021-09-30 16:18:57,600 DEBUG navigating to url
+2021-09-30 16:18:57,600 INFO Exiting setup
+2021-09-30 16:19:01,247 INFO SignIn is Clicked
+2021-09-30 16:19:04,806 INFO email entered
+2021-09-30 16:19:05,931 INFO Password entered
+2021-09-30 16:19:18,156 INFO Login is clicked
+2021-09-30 16:19:28,170 INFO Entering Setup
+2021-09-30 16:19:41,035 DEBUG navigating to url
+2021-09-30 16:19:41,040 INFO Exiting setup
+2021-09-30 16:19:47,480 INFO product searched
+2021-09-30 16:20:02,826 INFO Entering Setup
+2021-09-30 16:20:13,966 DEBUG navigating to url
+2021-09-30 16:20:13,967 INFO Exiting setup
+2021-09-30 16:20:20,529 INFO product searched
+2021-09-30 16:20:32,553 INFO Product found
+2021-09-30 16:20:41,083 INFO Added to cart successfully
+2021-09-30 16:20:49,927 INFO Entering Setup
+2021-09-30 16:21:01,243 DEBUG navigating to url
+2021-09-30 16:21:01,243 INFO Exiting setup
+2021-09-30 16:21:07,474 INFO product searched
+2021-09-30 16:21:18,623 INFO Product found
+2021-09-30 16:21:27,007 INFO Added to cart successfully
+2021-09-30 16:32:43,767 INFO Entering Setup
+2021-09-30 16:32:53,571 DEBUG navigating to url
+2021-09-30 16:32:53,571 INFO Exiting setup
+2021-09-30 16:33:02,220 INFO SignIn is Clicked
+2021-09-30 16:33:05,110 INFO email entered
+2021-09-30 16:33:06,250 INFO Password entered
+2021-09-30 16:33:18,875 INFO Login is clicked
+2021-09-30 16:33:35,372 INFO Entering Setup
+2021-09-30 16:33:44,995 DEBUG navigating to url
+2021-09-30 16:33:44,996 INFO Exiting setup
+2021-09-30 16:33:51,245 INFO product searched
+2021-09-30 16:34:06,261 INFO Entering Setup
+2021-09-30 16:34:16,622 DEBUG navigating to url
+2021-09-30 16:34:16,623 INFO Exiting setup
+2021-09-30 16:34:23,474 INFO product searched
+2021-09-30 16:34:36,240 INFO Product found
+2021-09-30 16:34:45,653 INFO Added to cart successfully
+2021-09-30 16:34:54,653 INFO Entering Setup
+2021-09-30 16:35:05,795 DEBUG navigating to url
+2021-09-30 16:35:05,798 INFO Exiting setup
+2021-09-30 16:35:12,331 INFO product searched
+2021-09-30 16:35:24,946 INFO Product found
+2021-09-30 16:35:34,762 INFO Added to cart successfully
+2021-09-30 16:41:06,889 INFO Entering Setup
+2021-09-30 16:41:15,607 DEBUG navigating to url
+2021-09-30 16:41:15,608 INFO Exiting setup
+2021-09-30 16:41:20,652 INFO SignIn is Clicked
+2021-09-30 16:41:23,077 INFO email entered
+2021-09-30 16:41:24,221 INFO Password entered
+2021-09-30 16:41:36,430 INFO Login is clicked
+2021-09-30 16:41:49,949 INFO Entering Setup
+2021-09-30 16:41:56,665 DEBUG navigating to url
+2021-09-30 16:41:56,665 INFO Exiting setup
+2021-09-30 16:42:03,094 INFO product searched
+2021-09-30 16:42:18,799 INFO Entering Setup
+2021-09-30 16:42:26,604 DEBUG navigating to url
+2021-09-30 16:42:26,605 INFO Exiting setup
+2021-09-30 16:42:32,812 INFO product searched
+2021-09-30 16:42:44,271 INFO Product found
+2021-09-30 16:42:52,552 INFO Added to cart successfully
+2021-09-30 16:44:47,872 INFO Entering Setup
+2021-09-30 16:45:03,190 DEBUG navigating to url
+2021-09-30 16:45:03,191 INFO Exiting setup
+2021-09-30 16:45:10,919 INFO SignIn is Clicked
+2021-09-30 16:45:13,979 INFO email entered
+2021-09-30 16:45:15,152 INFO Password entered
+2021-09-30 16:45:27,469 INFO Login is clicked
+2021-09-30 16:45:38,390 INFO Entering Setup
+2021-09-30 16:45:57,323 DEBUG navigating to url
+2021-09-30 16:45:57,324 INFO Exiting setup
+2021-09-30 16:46:03,617 INFO product searched
+2021-09-30 16:46:19,424 INFO Entering Setup
+2021-09-30 16:46:26,168 DEBUG navigating to url
+2021-09-30 16:46:26,169 INFO Exiting setup
+2021-09-30 16:46:32,949 INFO product searched
+2021-09-30 16:46:44,788 INFO Product found
+2021-09-30 16:46:53,111 INFO Added to cart successfully
+2021-09-30 16:50:59,672 INFO Entering Setup
+2021-09-30 16:51:25,148 DEBUG navigating to url
+2021-09-30 16:51:25,149 INFO Exiting setup
+2021-09-30 16:51:30,753 INFO SignIn is Clicked
+2021-09-30 16:51:33,437 INFO email entered
+2021-09-30 16:51:34,593 INFO Password entered
+2021-09-30 16:51:46,870 INFO Login is clicked
+2021-09-30 16:51:57,026 INFO Entering Setup
+2021-09-30 16:52:07,755 DEBUG navigating to url
+2021-09-30 16:52:07,755 INFO Exiting setup
+2021-09-30 16:52:14,177 INFO product searched
+2021-09-30 16:52:29,169 INFO Entering Setup
+2021-09-30 16:52:41,685 DEBUG navigating to url
+2021-09-30 16:52:41,687 INFO Exiting setup
+2021-09-30 16:52:48,225 INFO product searched
+2021-09-30 16:52:59,744 INFO Product found
+2021-09-30 16:53:15,077 INFO Added to cart successfully
+2021-09-30 17:12:04,415 INFO Entering Setup
+2021-09-30 17:12:15,457 DEBUG navigating to url
+2021-09-30 17:12:15,457 INFO Exiting setup
+2021-09-30 17:12:21,870 INFO SignIn is Clicked
+2021-09-30 17:12:24,938 INFO email entered
+2021-09-30 17:12:26,122 INFO Password entered
+2021-09-30 17:12:38,463 INFO Login is clicked
+2021-09-30 17:12:52,131 INFO Entering Setup
+2021-09-30 17:13:06,923 DEBUG navigating to url
+2021-09-30 17:13:06,927 INFO Exiting setup
+2021-09-30 17:13:13,996 INFO product searched
+2021-09-30 17:13:34,907 INFO Entering Setup
+2021-09-30 17:13:57,250 DEBUG navigating to url
+2021-09-30 17:13:57,251 INFO Exiting setup
+2021-09-30 17:14:03,867 INFO product searched
+2021-09-30 17:14:16,767 INFO Product found
+2021-09-30 17:14:29,818 INFO Added to cart successfully
+2021-09-30 17:27:11,883 INFO Entering Setup
+2021-09-30 17:27:24,608 DEBUG navigating to url
+2021-09-30 17:27:24,609 INFO Exiting setup
+2021-09-30 17:27:28,239 INFO SignIn is Clicked
+2021-09-30 17:27:34,001 INFO email entered
+2021-09-30 17:27:35,160 INFO Password entered
+2021-09-30 17:27:47,372 INFO Login is clicked
+2021-09-30 17:28:00,557 INFO Entering Setup
+2021-09-30 17:28:11,077 DEBUG navigating to url
+2021-09-30 17:28:11,079 INFO Exiting setup
+2021-09-30 17:28:17,333 INFO product searched
+2021-09-30 17:28:31,182 INFO Entering Setup
+2021-09-30 17:28:40,942 DEBUG navigating to url
+2021-09-30 17:28:40,942 INFO Exiting setup
+2021-09-30 17:28:47,592 INFO product searched
+2021-09-30 17:29:00,130 INFO Product found
+2021-09-30 17:29:10,022 INFO Added to cart successfully
+2021-09-30 17:29:19,143 INFO Entering Setup
+2021-09-30 17:29:26,834 DEBUG navigating to url
+2021-09-30 17:29:26,835 INFO Exiting setup
+2021-09-30 17:29:33,126 INFO product searched
+2021-09-30 17:29:53,152 INFO Product found
+2021-09-30 17:30:11,771 INFO Added to cart successfully
+2021-09-30 17:30:39,339 INFO Entering Setup
+2021-09-30 17:30:47,264 DEBUG navigating to url
+2021-09-30 17:30:47,265 INFO Exiting setup
+2021-09-30 17:31:08,840 INFO SignIn is Clicked
+2021-09-30 17:31:22,337 INFO Entering Setup
+2021-09-30 17:31:36,266 DEBUG navigating to url
+2021-09-30 17:31:36,267 INFO Exiting setup
+2021-09-30 17:31:42,634 INFO product searched
+2021-09-30 17:31:59,407 INFO Entering Setup
+2021-09-30 17:32:04,935 DEBUG navigating to url
+2021-09-30 17:32:04,936 INFO Exiting setup
+2021-09-30 17:32:11,444 INFO product searched
+2021-09-30 17:32:23,689 INFO Product found
+2021-09-30 17:32:33,452 INFO Added to cart successfully
+2021-09-30 17:32:48,121 INFO Entering Setup
+2021-09-30 17:32:57,196 DEBUG navigating to url
+2021-09-30 17:32:57,196 INFO Exiting setup
+2021-09-30 17:33:03,764 INFO product searched
+2021-09-30 17:33:15,198 INFO Product found
+2021-09-30 17:33:23,968 INFO Added to cart successfully
+2021-09-30 17:38:20,013 INFO Entering Setup
+2021-09-30 17:38:31,398 DEBUG navigating to url
+2021-09-30 17:38:31,400 INFO Exiting setup
+2021-09-30 17:38:34,609 INFO SignIn is Clicked
+2021-09-30 17:38:37,173 INFO email entered
+2021-09-30 17:38:38,304 INFO Password entered
+2021-09-30 17:38:50,515 INFO Login is clicked
+2021-09-30 17:39:11,270 INFO Entering Setup
+2021-09-30 17:39:20,671 DEBUG navigating to url
+2021-09-30 17:39:20,673 INFO Exiting setup
+2021-09-30 17:39:27,179 INFO product searched
+2021-09-30 17:39:41,817 INFO Entering Setup
+2021-09-30 17:39:50,673 DEBUG navigating to url
+2021-09-30 17:39:50,674 INFO Exiting setup
+2021-09-30 17:39:57,093 INFO product searched
+2021-09-30 17:40:09,601 INFO Product found
+2021-09-30 17:40:21,403 INFO Added to cart successfully
+2021-09-30 17:42:09,635 INFO Entering Setup
+2021-09-30 17:42:25,404 DEBUG navigating to url
+2021-09-30 17:42:25,404 INFO Exiting setup
+2021-09-30 17:42:31,870 INFO SignIn is Clicked
+2021-09-30 17:42:34,905 INFO email entered
+2021-09-30 17:42:36,047 INFO Password entered
+2021-09-30 17:42:48,347 INFO Login is clicked
+2021-09-30 17:43:01,424 INFO Entering Setup
+2021-09-30 17:43:26,417 DEBUG navigating to url
+2021-09-30 17:43:26,418 INFO Exiting setup
+2021-09-30 17:43:30,156 INFO SignIn is Clicked
+2021-09-30 17:43:32,718 INFO email entered
+2021-09-30 17:43:33,923 INFO Password entered
+2021-09-30 17:43:46,192 INFO Login is clicked
+2021-09-30 17:43:52,982 INFO product searched
+2021-09-30 17:44:08,249 INFO Entering Setup
+2021-09-30 17:44:20,541 DEBUG navigating to url
+2021-09-30 17:44:20,542 INFO Exiting setup
+2021-09-30 17:44:26,357 INFO SignIn is Clicked
+2021-09-30 17:44:29,713 INFO email entered
+2021-09-30 17:44:31,385 INFO Password entered
+2021-09-30 17:44:43,857 INFO Login is clicked
+2021-09-30 17:44:50,539 INFO product searched
+2021-09-30 17:45:07,901 INFO Product found
+2021-09-30 17:45:25,673 INFO Added to cart successfully
+2021-09-30 17:46:56,303 INFO Entering Setup
+2021-09-30 17:47:03,327 DEBUG navigating to url
+2021-09-30 17:47:03,327 INFO Exiting setup
+2021-09-30 17:47:06,327 INFO SignIn is Clicked
+2021-09-30 17:47:09,171 INFO email entered
+2021-09-30 17:47:10,375 INFO Password entered
+2021-09-30 17:47:22,598 INFO Login is clicked
+2021-09-30 17:47:33,785 INFO Entering Setup
+2021-09-30 17:47:45,297 DEBUG navigating to url
+2021-09-30 17:47:45,300 INFO Exiting setup
+2021-09-30 17:47:49,235 INFO SignIn is Clicked
+2021-09-30 17:47:51,675 INFO email entered
+2021-09-30 17:47:52,809 INFO Password entered
+2021-09-30 17:48:05,041 INFO Login is clicked
+2021-09-30 17:48:11,266 INFO product searched
+2021-09-30 17:48:26,282 INFO Entering Setup
+2021-09-30 17:48:34,339 DEBUG navigating to url
+2021-09-30 17:48:34,340 INFO Exiting setup
+2021-09-30 17:48:37,488 INFO SignIn is Clicked
+2021-09-30 17:48:40,025 INFO email entered
+2021-09-30 17:48:41,176 INFO Password entered
+2021-09-30 17:48:53,653 INFO Login is clicked
+2021-09-30 17:49:00,035 INFO product searched
+2021-09-30 17:49:11,649 INFO Product found
+2021-09-30 17:49:27,867 INFO Added to cart successfully
+2021-09-30 20:52:58,257 INFO Entering Setup
+2021-09-30 20:53:07,598 DEBUG navigating to url
+2021-09-30 20:53:07,599 INFO Exiting setup
+2021-09-30 20:53:19,655 INFO SignIn is Clicked
+2021-09-30 20:53:26,814 INFO email entered
+2021-09-30 20:53:27,983 INFO Password entered
+2021-09-30 20:53:40,320 INFO Login is clicked
+2021-09-30 20:53:54,034 INFO Entering Setup
+2021-09-30 20:54:25,957 DEBUG navigating to url
+2021-09-30 20:54:25,958 INFO Exiting setup
+2021-09-30 20:54:27,322 INFO Entering Setup
+2021-09-30 20:54:30,652 ERROR unknown error: net::ERR_INTERNET_DISCONNECTED
+  (Session info: chrome=94.0.4606.61)
+2021-09-30 20:55:20,937 INFO Entering Setup
+2021-09-30 20:55:36,045 DEBUG navigating to url
+2021-09-30 20:55:36,046 INFO Exiting setup
+2021-09-30 20:55:41,856 INFO SignIn is Clicked
+2021-09-30 20:55:45,186 INFO email entered
+2021-09-30 20:55:46,311 INFO Password entered
+2021-09-30 20:55:58,574 INFO Login is clicked
+2021-09-30 20:56:10,418 INFO Entering Setup
+2021-09-30 20:56:19,939 DEBUG navigating to url
+2021-09-30 20:56:19,940 INFO Exiting setup
+2021-09-30 20:56:23,658 INFO SignIn is Clicked
+2021-09-30 20:56:29,722 INFO email entered
+2021-09-30 20:56:30,870 INFO Password entered
+2021-09-30 20:56:43,228 INFO Login is clicked
+2021-09-30 20:56:49,494 INFO product searched
+2021-09-30 20:57:10,496 INFO Entering Setup
+2021-09-30 20:57:34,682 DEBUG navigating to url
+2021-09-30 20:57:34,682 INFO Exiting setup
+2021-09-30 20:57:38,216 INFO SignIn is Clicked
+2021-09-30 20:57:41,240 INFO email entered
+2021-09-30 20:57:42,355 INFO Password entered
+2021-09-30 20:57:54,632 INFO Login is clicked
+2021-09-30 20:58:00,897 INFO product searched
+2021-09-30 20:58:12,916 INFO Product found
+2021-09-30 21:03:36,868 INFO Entering Setup
+2021-09-30 21:03:44,763 DEBUG navigating to url
+2021-09-30 21:03:44,763 INFO Exiting setup
+2021-09-30 21:03:48,568 INFO SignIn is Clicked
+2021-09-30 21:03:51,267 INFO email entered
+2021-09-30 21:03:52,414 INFO Password entered
+2021-09-30 21:04:04,744 INFO Login is clicked
+2021-09-30 21:04:14,482 INFO Entering Setup
+2021-09-30 21:04:24,193 DEBUG navigating to url
+2021-09-30 21:04:24,193 INFO Exiting setup
+2021-09-30 21:04:27,043 INFO SignIn is Clicked
+2021-09-30 21:04:29,658 INFO email entered
+2021-09-30 21:04:30,798 INFO Password entered
+2021-09-30 21:04:43,064 INFO Login is clicked
+2021-09-30 21:04:49,315 INFO product searched
+2021-09-30 21:05:03,449 INFO Entering Setup
+2021-09-30 21:05:13,927 DEBUG navigating to url
+2021-09-30 21:05:13,927 INFO Exiting setup
+2021-09-30 21:05:17,504 INFO SignIn is Clicked
+2021-09-30 21:05:20,495 INFO email entered
+2021-09-30 21:05:21,662 INFO Password entered
+2021-09-30 21:05:33,927 INFO Login is clicked
+2021-09-30 21:05:40,122 INFO product searched
+2021-09-30 21:05:55,620 INFO Product found
+2021-09-30 21:06:04,151 INFO Added to cart successfully
+2021-09-30 21:08:40,754 INFO Entering Setup
+2021-09-30 21:08:47,045 DEBUG navigating to url
+2021-09-30 21:08:47,046 INFO Exiting setup
+2021-09-30 21:08:51,468 INFO SignIn is Clicked
+2021-09-30 21:08:55,071 INFO email entered
+2021-09-30 21:08:56,258 INFO Password entered
+2021-09-30 21:09:08,513 INFO Login is clicked
+2021-09-30 21:09:18,665 INFO Entering Setup
+2021-09-30 21:09:26,587 DEBUG navigating to url
+2021-09-30 21:09:26,588 INFO Exiting setup
+2021-09-30 21:09:30,887 INFO SignIn is Clicked
+2021-09-30 21:09:33,528 INFO email entered
+2021-09-30 21:09:34,680 INFO Password entered
+2021-09-30 21:09:46,954 INFO Login is clicked
+2021-09-30 21:09:53,230 INFO product searched
+2021-09-30 21:10:07,573 INFO Entering Setup
+2021-09-30 21:10:19,108 DEBUG navigating to url
+2021-09-30 21:10:19,109 INFO Exiting setup
+2021-09-30 21:10:23,325 INFO SignIn is Clicked
+2021-09-30 21:10:26,072 INFO email entered
+2021-09-30 21:10:27,202 INFO Password entered
+2021-09-30 21:10:39,514 INFO Login is clicked
+2021-09-30 21:10:45,729 INFO product searched
+2021-09-30 21:10:58,877 INFO Product found
+2021-09-30 21:11:11,684 INFO Added to cart successfully
+2021-09-30 21:16:21,915 INFO Entering Setup
+2021-09-30 21:16:30,871 DEBUG navigating to url
+2021-09-30 21:16:30,872 INFO Exiting setup
+2021-09-30 21:16:34,792 INFO SignIn is Clicked
+2021-09-30 21:16:38,769 INFO email entered
+2021-09-30 21:16:39,898 INFO Password entered
+2021-09-30 21:16:52,263 INFO Login is clicked
+2021-09-30 21:17:03,685 INFO Entering Setup
+2021-09-30 21:17:12,046 DEBUG navigating to url
+2021-09-30 21:17:12,047 INFO Exiting setup
+2021-09-30 21:17:15,728 INFO SignIn is Clicked
+2021-09-30 21:17:18,317 INFO email entered
+2021-09-30 21:17:19,442 INFO Password entered
+2021-09-30 21:17:31,760 INFO Login is clicked
+2021-09-30 21:17:38,558 INFO product searched
+2021-09-30 21:17:52,571 INFO Entering Setup
+2021-09-30 21:17:59,962 DEBUG navigating to url
+2021-09-30 21:17:59,965 INFO Exiting setup
+2021-09-30 21:18:02,964 INFO SignIn is Clicked
+2021-09-30 21:18:05,865 INFO email entered
+2021-09-30 21:18:07,003 INFO Password entered
+2021-09-30 21:18:19,325 INFO Login is clicked
+2021-09-30 21:18:25,535 INFO product searched
+2021-09-30 21:18:36,843 INFO Product found
+2021-09-30 21:18:45,301 INFO Added to cart successfully
+2021-09-30 21:19:35,985 INFO Entering Setup
+2021-09-30 21:19:45,320 DEBUG navigating to url
+2021-09-30 21:19:45,320 INFO Exiting setup
+2021-09-30 21:19:50,089 INFO SignIn is Clicked
+2021-09-30 21:19:52,874 INFO email entered
+2021-09-30 21:19:53,994 INFO Password entered
+2021-09-30 21:20:06,365 INFO Login is clicked
+2021-09-30 21:20:15,310 INFO Entering Setup
+2021-09-30 21:20:24,439 DEBUG navigating to url
+2021-09-30 21:20:24,440 INFO Exiting setup
+2021-09-30 21:20:27,511 INFO SignIn is Clicked
+2021-09-30 21:20:30,235 INFO email entered
+2021-09-30 21:20:31,362 INFO Password entered
+2021-09-30 21:20:43,758 INFO Login is clicked
+2021-09-30 21:20:50,231 INFO product searched
+2021-09-30 21:21:04,210 INFO Entering Setup
+2021-09-30 21:21:13,992 DEBUG navigating to url
+2021-09-30 21:21:13,992 INFO Exiting setup
+2021-09-30 21:21:17,180 INFO SignIn is Clicked
+2021-09-30 21:21:20,961 INFO email entered
+2021-09-30 21:21:22,100 INFO Password entered
+2021-09-30 21:21:34,444 INFO Login is clicked
+2021-09-30 21:21:40,693 INFO product searched
+2021-09-30 21:21:53,427 INFO Product found
+2021-09-30 21:22:01,807 INFO Added to cart successfully
+2021-09-30 21:23:23,187 INFO Entering Setup
+2021-09-30 21:23:31,722 DEBUG navigating to url
+2021-09-30 21:23:31,723 INFO Exiting setup
+2021-09-30 21:23:34,452 INFO SignIn is Clicked
+2021-09-30 21:23:38,499 INFO email entered
+2021-09-30 21:23:39,635 INFO Password entered
+2021-09-30 21:23:51,976 INFO Login is clicked
+2021-09-30 21:24:01,778 INFO Entering Setup
+2021-09-30 21:24:08,777 DEBUG navigating to url
+2021-09-30 21:24:08,778 INFO Exiting setup
+2021-09-30 21:24:13,788 INFO SignIn is Clicked
+2021-09-30 21:24:16,814 INFO email entered
+2021-09-30 21:24:17,961 INFO Password entered
+2021-09-30 21:24:30,183 INFO Login is clicked
+2021-09-30 21:24:36,390 INFO product searched
+2021-09-30 21:24:50,774 INFO Entering Setup
+2021-09-30 21:24:59,187 DEBUG navigating to url
+2021-09-30 21:24:59,188 INFO Exiting setup
+2021-09-30 21:25:02,160 INFO SignIn is Clicked
+2021-09-30 21:25:04,902 INFO email entered
+2021-09-30 21:25:06,090 INFO Password entered
+2021-09-30 21:25:18,395 INFO Login is clicked
+2021-09-30 21:25:24,592 INFO product searched
+2021-09-30 21:25:36,524 INFO Product found
+2021-09-30 21:25:45,011 INFO Added to cart successfully
+2021-09-30 21:27:54,923 INFO Entering Setup
+2021-09-30 21:28:03,820 DEBUG navigating to url
+2021-09-30 21:28:03,820 INFO Exiting setup
+2021-09-30 21:28:06,810 INFO SignIn is Clicked
+2021-09-30 21:28:09,596 INFO email entered
+2021-09-30 21:28:10,721 INFO Password entered
+2021-09-30 21:28:22,998 INFO Login is clicked
+2021-09-30 21:28:32,339 INFO Entering Setup
+2021-09-30 21:28:38,245 DEBUG navigating to url
+2021-09-30 21:28:38,246 INFO Exiting setup
+2021-09-30 21:28:41,466 INFO SignIn is Clicked
+2021-09-30 21:28:44,163 INFO email entered
+2021-09-30 21:28:45,303 INFO Password entered
+2021-09-30 21:28:57,688 INFO Login is clicked
+2021-09-30 21:29:04,003 INFO product searched
+2021-09-30 21:29:20,927 INFO Entering Setup
+2021-09-30 21:29:29,839 DEBUG navigating to url
+2021-09-30 21:29:29,840 INFO Exiting setup
+2021-09-30 21:29:33,231 INFO SignIn is Clicked
+2021-09-30 21:29:35,881 INFO email entered
+2021-09-30 21:29:37,003 INFO Password entered
+2021-09-30 21:29:49,362 INFO Login is clicked
+2021-09-30 21:29:55,560 INFO product searched
+2021-09-30 21:30:07,406 INFO Product found
+2021-09-30 21:30:17,833 INFO Added to cart successfully
+2021-09-30 21:32:44,445 INFO Entering Setup
+2021-09-30 21:32:54,552 DEBUG navigating to url
+2021-09-30 21:32:54,553 INFO Exiting setup
+2021-09-30 21:32:57,670 INFO SignIn is Clicked
+2021-09-30 21:33:01,842 INFO email entered
+2021-09-30 21:33:02,959 INFO Password entered
+2021-09-30 21:33:15,158 INFO Login is clicked
+2021-09-30 21:33:25,048 INFO Entering Setup
+2021-09-30 21:33:31,686 DEBUG navigating to url
+2021-09-30 21:33:31,689 INFO Exiting setup
+2021-09-30 21:33:34,492 INFO SignIn is Clicked
+2021-09-30 21:33:37,464 INFO email entered
+2021-09-30 21:33:38,611 INFO Password entered
+2021-09-30 21:33:50,985 INFO Login is clicked
+2021-09-30 21:33:57,228 INFO product searched
+2021-09-30 21:34:12,063 INFO Entering Setup
+2021-09-30 21:34:22,838 DEBUG navigating to url
+2021-09-30 21:34:22,838 INFO Exiting setup
+2021-09-30 21:34:25,748 INFO SignIn is Clicked
+2021-09-30 21:34:28,708 INFO email entered
+2021-09-30 21:34:29,883 INFO Password entered
+2021-09-30 21:34:42,189 INFO Login is clicked
+2021-09-30 21:34:48,474 INFO product searched
+2021-09-30 21:35:00,347 INFO Product found
+2021-09-30 21:35:10,596 INFO Added to cart successfully
+2021-09-30 21:35:32,442 INFO Entering Setup
+2021-09-30 21:35:44,051 DEBUG navigating to url
+2021-09-30 21:35:44,052 INFO Exiting setup
+2021-09-30 21:35:47,786 INFO SignIn is Clicked
+2021-09-30 21:35:50,489 INFO email entered
+2021-09-30 21:35:51,617 INFO Password entered
+2021-09-30 21:36:03,911 INFO Login is clicked
+2021-09-30 21:36:13,097 INFO Entering Setup
+2021-09-30 21:36:24,164 DEBUG navigating to url
+2021-09-30 21:36:24,165 INFO Exiting setup
+2021-09-30 21:36:26,561 INFO SignIn is Clicked
+2021-09-30 21:36:36,690 INFO email entered
+2021-09-30 21:36:37,816 INFO Password entered
+2021-09-30 21:36:50,473 INFO Login is clicked
+2021-09-30 21:36:56,793 INFO product searched
+2021-09-30 21:37:24,816 INFO Entering Setup
+2021-09-30 21:37:37,993 DEBUG navigating to url
+2021-09-30 21:37:37,993 INFO Exiting setup
+2021-09-30 21:37:41,267 INFO SignIn is Clicked
+2021-09-30 21:37:44,676 INFO email entered
+2021-09-30 21:37:45,872 INFO Password entered
+2021-09-30 21:37:58,200 INFO Login is clicked
+2021-09-30 21:38:04,583 INFO product searched
+2021-09-30 21:38:16,518 INFO Product found
+2021-09-30 21:38:27,053 INFO Added to cart successfully
+2021-09-30 21:40:53,673 INFO Entering Setup
+2021-09-30 21:41:50,727 DEBUG navigating to url
+2021-09-30 21:41:50,728 INFO Exiting setup
+2021-09-30 21:41:54,155 INFO SignIn is Clicked
+2021-09-30 21:41:57,187 INFO email entered
+2021-09-30 21:41:58,301 INFO Password entered
+2021-09-30 21:42:10,555 INFO Login is clicked
+2021-09-30 21:42:25,335 INFO Entering Setup
+2021-09-30 21:43:27,455 ERROR The HTTP request to the remote WebDriver server for URL http://localhost:64893/session/32ae1a227a6cc05bfac1b5dd76c31a56/url timed out after 60 seconds.
+2021-09-30 21:43:41,503 INFO SignIn is Clicked
+2021-09-30 21:43:44,645 INFO email entered
+2021-09-30 21:43:45,780 INFO Password entered
+2021-09-30 21:43:58,138 INFO Login is clicked
+2021-09-30 21:44:04,417 INFO product searched
+2021-09-30 21:44:20,658 INFO Entering Setup
+2021-09-30 21:44:38,557 DEBUG navigating to url
+2021-09-30 21:44:38,558 INFO Exiting setup
+2021-09-30 21:44:41,651 INFO SignIn is Clicked
+2021-09-30 21:45:05,542 INFO email entered
+2021-09-30 21:45:06,654 INFO Password entered
+2021-09-30 21:45:19,021 INFO Login is clicked
+2021-09-30 21:45:25,334 INFO product searched
+2021-09-30 21:45:37,183 INFO Product found
+2021-09-30 21:45:47,498 INFO Added to cart successfully
+2021-10-01 09:50:58,449 INFO Entering Setup
+2021-10-01 09:51:09,319 DEBUG navigating to url
+2021-10-01 09:51:09,320 INFO Exiting setup
+2021-10-01 09:51:12,737 INFO SignIn is Clicked
+2021-10-01 09:51:18,080 INFO email entered
+2021-10-01 09:51:19,225 INFO Password entered
+2021-10-01 09:51:31,454 INFO Login is clicked
+2021-10-01 09:51:43,898 INFO Entering Setup
+2021-10-01 09:52:02,676 DEBUG navigating to url
+2021-10-01 09:52:02,679 INFO Exiting setup
+2021-10-01 09:52:05,262 INFO SignIn is Clicked
+2021-10-01 09:52:08,101 INFO email entered
+2021-10-01 09:52:09,290 INFO Password entered
+2021-10-01 09:52:22,100 INFO Login is clicked
+2021-10-01 09:52:29,369 INFO product searched
+2021-10-01 09:52:47,286 INFO Entering Setup
+2021-10-01 09:52:58,111 DEBUG navigating to url
+2021-10-01 09:52:58,112 INFO Exiting setup
+2021-10-01 09:53:01,547 INFO SignIn is Clicked
+2021-10-01 09:53:04,143 INFO email entered
+2021-10-01 09:53:05,278 INFO Password entered
+2021-10-01 09:53:17,506 INFO Login is clicked
+2021-10-01 09:53:23,730 INFO product searched
+2021-10-01 09:53:35,397 INFO Product found
+2021-10-01 09:53:48,483 INFO Added to cart successfully
+2021-10-01 09:55:39,666 INFO Entering Setup
+2021-10-01 09:55:51,465 DEBUG navigating to url
+2021-10-01 09:55:51,465 INFO Exiting setup
+2021-10-01 09:55:58,437 INFO SignIn is Clicked
+2021-10-01 09:56:00,969 INFO email entered
+2021-10-01 09:56:02,126 INFO Password entered
+2021-10-01 09:56:14,385 INFO Login is clicked
+2021-10-01 09:56:22,808 INFO Entering Setup
+2021-10-01 09:56:32,202 DEBUG navigating to url
+2021-10-01 09:56:32,203 INFO Exiting setup
+2021-10-01 09:56:35,249 INFO SignIn is Clicked
+2021-10-01 09:56:37,623 INFO email entered
+2021-10-01 09:56:38,769 INFO Password entered
+2021-10-01 09:56:50,978 INFO Login is clicked
+2021-10-01 09:56:57,165 INFO product searched
+2021-10-01 09:57:10,185 INFO Entering Setup
+2021-10-01 09:57:19,947 DEBUG navigating to url
+2021-10-01 09:57:19,947 INFO Exiting setup
+2021-10-01 09:57:22,509 INFO SignIn is Clicked
+2021-10-01 09:57:25,059 INFO email entered
+2021-10-01 09:57:26,193 INFO Password entered
+2021-10-01 09:57:38,397 INFO Login is clicked
+2021-10-01 09:57:44,596 INFO product searched
+2021-10-01 09:57:55,906 INFO Product found
+2021-10-01 09:58:06,213 INFO Added to cart successfully
+2021-10-01 10:04:30,314 INFO Entering Setup
+2021-10-01 10:04:37,489 DEBUG navigating to url
+2021-10-01 10:04:37,491 INFO Exiting setup
+2021-10-01 10:04:40,652 INFO SignIn is Clicked
+2021-10-01 10:04:42,980 INFO email entered
+2021-10-01 10:04:44,117 INFO Password entered
+2021-10-01 10:04:56,391 INFO Login is clicked
+2021-10-01 10:05:06,557 INFO Entering Setup
+2021-10-01 10:05:15,126 DEBUG navigating to url
+2021-10-01 10:05:15,127 INFO Exiting setup
+2021-10-01 10:05:18,300 INFO SignIn is Clicked
+2021-10-01 10:05:21,147 INFO email entered
+2021-10-01 10:05:22,323 INFO Password entered
+2021-10-01 10:05:34,538 INFO Login is clicked
+2021-10-01 10:05:40,741 INFO product searched
+2021-10-01 10:05:53,988 INFO Entering Setup
+2021-10-01 10:06:00,630 DEBUG navigating to url
+2021-10-01 10:06:00,631 INFO Exiting setup
+2021-10-01 10:06:03,458 INFO SignIn is Clicked
+2021-10-01 10:06:05,790 INFO email entered
+2021-10-01 10:06:06,894 INFO Password entered
+2021-10-01 10:06:19,155 INFO Login is clicked
+2021-10-01 10:06:25,323 INFO product searched
+2021-10-01 10:06:36,027 INFO Product found
+2021-10-01 10:06:46,331 INFO Added to cart successfully
+2021-10-01 10:17:00,435 INFO Entering Setup
+2021-10-01 10:17:07,483 DEBUG navigating to url
+2021-10-01 10:17:07,483 INFO Exiting setup
+2021-10-01 10:17:10,069 INFO SignIn is Clicked
+2021-10-01 10:17:12,559 INFO email entered
+2021-10-01 10:17:13,720 INFO Password entered
+2021-10-01 10:17:25,930 INFO Login is clicked
+2021-10-01 10:17:35,743 INFO Entering Setup
+2021-10-01 10:17:43,260 DEBUG navigating to url
+2021-10-01 10:17:43,260 INFO Exiting setup
+2021-10-01 10:17:45,549 INFO SignIn is Clicked
+2021-10-01 10:17:48,345 INFO email entered
+2021-10-01 10:17:49,476 INFO Password entered
+2021-10-01 10:18:01,687 INFO Login is clicked
+2021-10-01 10:18:07,962 INFO product searched
+2021-10-01 10:18:21,056 INFO Entering Setup
+2021-10-01 10:18:28,573 DEBUG navigating to url
+2021-10-01 10:18:28,576 INFO Exiting setup
+2021-10-01 10:18:30,980 INFO SignIn is Clicked
+2021-10-01 10:18:33,287 INFO email entered
+2021-10-01 10:18:34,450 INFO Password entered
+2021-10-01 10:18:59,566 INFO Login is clicked
+2021-10-01 10:19:05,760 INFO product searched
+2021-10-01 10:19:23,012 INFO Product found
+2021-10-01 10:19:33,227 INFO Added to cart successfully
+2021-10-01 10:19:50,517 INFO Entering Setup
+2021-10-01 10:19:58,038 DEBUG navigating to url
+2021-10-01 10:19:58,039 INFO Exiting setup
+2021-10-01 10:20:00,461 INFO SignIn is Clicked
+2021-10-01 10:20:02,939 INFO email entered
+2021-10-01 10:20:04,049 INFO Password entered
+2021-10-01 10:20:16,260 INFO Login is clicked
+2021-10-01 10:20:22,455 INFO product searched
+2021-10-01 10:20:33,297 INFO Product found
+2021-10-01 10:20:44,904 INFO Added to cart successfully
+2021-10-01 10:24:19,262 INFO Entering Setup
+2021-10-01 10:24:30,047 DEBUG navigating to url
+2021-10-01 10:24:30,047 INFO Exiting setup
+2021-10-01 10:24:32,861 INFO SignIn is Clicked
+2021-10-01 10:24:35,128 INFO email entered
+2021-10-01 10:24:36,255 INFO Password entered
+2021-10-01 10:24:48,473 INFO Login is clicked
+2021-10-01 10:24:57,149 INFO Entering Setup
+2021-10-01 10:25:05,040 DEBUG navigating to url
+2021-10-01 10:25:05,040 INFO Exiting setup
+2021-10-01 10:25:07,762 INFO SignIn is Clicked
+2021-10-01 10:25:10,316 INFO email entered
+2021-10-01 10:25:11,424 INFO Password entered
+2021-10-01 10:25:23,620 INFO Login is clicked
+2021-10-01 10:25:29,842 INFO product searched
+2021-10-01 10:25:42,731 INFO Entering Setup
+2021-10-01 10:25:50,658 DEBUG navigating to url
+2021-10-01 10:25:50,659 INFO Exiting setup
+2021-10-01 10:25:52,982 INFO SignIn is Clicked
+2021-10-01 10:25:55,412 INFO email entered
+2021-10-01 10:25:56,523 INFO Password entered
+2021-10-01 10:26:08,742 INFO Login is clicked
+2021-10-01 10:26:14,936 INFO product searched
+2021-10-01 10:26:25,810 INFO Product found
+2021-10-01 10:26:37,732 INFO Added to cart successfully
+2021-10-01 10:30:21,273 INFO Entering Setup
+2021-10-01 10:30:27,852 DEBUG navigating to url
+2021-10-01 10:30:27,853 INFO Exiting setup
+2021-10-01 10:30:30,242 INFO SignIn is Clicked
+2021-10-01 10:30:32,576 INFO email entered
+2021-10-01 10:30:33,751 INFO Password entered
+2021-10-01 10:30:45,958 INFO Login is clicked
+2021-10-01 10:30:54,511 INFO Entering Setup
+2021-10-01 10:31:00,829 DEBUG navigating to url
+2021-10-01 10:31:00,830 INFO Exiting setup
+2021-10-01 10:31:03,565 INFO SignIn is Clicked
+2021-10-01 10:31:06,811 INFO email entered
+2021-10-01 10:31:07,955 INFO Password entered
+2021-10-01 10:31:20,157 INFO Login is clicked
+2021-10-01 10:31:26,395 INFO product searched
+2021-10-01 10:31:40,574 INFO Entering Setup
+2021-10-01 10:31:46,556 DEBUG navigating to url
+2021-10-01 10:31:46,557 INFO Exiting setup
+2021-10-01 10:31:49,219 INFO SignIn is Clicked
+2021-10-01 10:31:52,568 INFO email entered
+2021-10-01 10:31:53,726 INFO Password entered
+2021-10-01 10:32:06,027 INFO Login is clicked
+2021-10-01 10:32:12,386 INFO product searched
+2021-10-01 10:32:24,239 INFO Product found
+2021-10-01 10:32:34,569 INFO Added to cart successfully
+2021-10-01 10:35:33,724 INFO Entering Setup
+2021-10-01 10:35:43,064 DEBUG navigating to url
+2021-10-01 10:35:43,065 INFO Exiting setup
+2021-10-01 10:35:46,539 INFO SignIn is Clicked
+2021-10-01 10:35:51,175 INFO email entered
+2021-10-01 10:35:52,320 INFO Password entered
+2021-10-01 10:36:04,704 INFO Login is clicked
+2021-10-01 10:36:13,932 INFO Entering Setup
+2021-10-01 10:36:20,343 DEBUG navigating to url
+2021-10-01 10:36:20,344 INFO Exiting setup
+2021-10-01 10:36:22,677 INFO SignIn is Clicked
+2021-10-01 10:36:25,080 INFO email entered
+2021-10-01 10:36:26,208 INFO Password entered
+2021-10-01 10:36:38,447 INFO Login is clicked
+2021-10-01 10:36:44,698 INFO product searched
+2021-10-01 10:36:59,066 INFO Entering Setup
+2021-10-01 10:37:05,887 DEBUG navigating to url
+2021-10-01 10:37:05,887 INFO Exiting setup
+2021-10-01 10:37:08,454 INFO SignIn is Clicked
+2021-10-01 10:37:10,857 INFO email entered
+2021-10-01 10:37:11,962 INFO Password entered
+2021-10-01 10:37:24,162 INFO Login is clicked
+2021-10-01 10:37:30,457 INFO product searched
+2021-10-01 10:37:42,259 INFO Product found
+2021-10-01 10:37:52,654 INFO Added to cart successfully
+2021-10-01 15:02:29,227 INFO Entering Setup
+2021-10-01 15:02:40,040 DEBUG navigating to url
+2021-10-01 15:02:40,041 INFO Exiting setup
+2021-10-01 15:02:44,568 INFO SignIn is Clicked
+2021-10-01 15:02:47,302 INFO email entered
+2021-10-01 15:02:48,439 INFO Password entered
+2021-10-01 15:03:00,688 INFO Login is clicked
+2021-10-01 15:03:15,685 INFO Entering Setup
+2021-10-01 15:03:27,319 DEBUG navigating to url
+2021-10-01 15:03:27,320 INFO Exiting setup
+2021-10-01 15:03:31,540 INFO SignIn is Clicked
+2021-10-01 15:03:33,978 INFO email entered
+2021-10-01 15:03:35,120 INFO Password entered
+2021-10-01 15:03:47,458 INFO Login is clicked
+2021-10-01 15:03:53,701 INFO product searched
+2021-10-01 15:04:07,486 INFO Entering Setup
+2021-10-01 15:04:18,674 DEBUG navigating to url
+2021-10-01 15:04:18,675 INFO Exiting setup
+2021-10-01 15:04:21,619 INFO SignIn is Clicked
+2021-10-01 15:04:24,163 INFO email entered
+2021-10-01 15:04:25,275 INFO Password entered
+2021-10-01 15:04:37,511 INFO Login is clicked
+2021-10-01 15:04:43,772 INFO product searched
+2021-10-01 15:04:56,373 INFO Product found
+2021-10-01 15:05:06,570 INFO Added to cart successfully
+2021-10-01 20:41:41,642 INFO Entering Setup
+2021-10-01 20:41:45,490 ERROR unknown error: net::ERR_INTERNET_DISCONNECTED
+  (Session info: chrome=94.0.4606.61)
+2021-10-01 20:41:46,781 INFO Entering Setup
+2021-10-01 20:41:50,080 ERROR unknown error: net::ERR_INTERNET_DISCONNECTED
+  (Session info: chrome=94.0.4606.61)
+2021-10-01 20:41:50,933 INFO Entering Setup
+2021-10-01 20:41:54,268 ERROR unknown error: net::ERR_INTERNET_DISCONNECTED
+  (Session info: chrome=94.0.4606.61)
+2021-10-01 20:42:02,710 INFO Entering Setup
+2021-10-01 20:42:06,163 ERROR unknown error: net::ERR_INTERNET_DISCONNECTED
+  (Session info: chrome=94.0.4606.61)
+2021-10-01 20:42:07,031 INFO Entering Setup
+2021-10-01 20:42:09,903 ERROR unknown error: net::ERR_INTERNET_DISCONNECTED
+  (Session info: chrome=94.0.4606.61)
+2021-10-01 20:43:00,000 INFO Entering Setup
+2021-10-01 20:43:14,324 DEBUG navigating to url
+2021-10-01 20:43:14,325 INFO Exiting setup
+2021-10-01 20:43:18,292 INFO SignIn is Clicked
+2021-10-01 20:43:24,045 INFO email entered
+2021-10-01 20:43:25,182 INFO Password entered
+2021-10-01 20:43:37,460 INFO Login is clicked
+2021-10-01 20:43:48,771 INFO Entering Setup
+2021-10-01 20:44:00,065 DEBUG navigating to url
+2021-10-01 20:44:00,065 INFO Exiting setup
+2021-10-01 20:44:03,178 INFO SignIn is Clicked
+2021-10-01 20:44:07,303 INFO email entered
+2021-10-01 20:44:08,505 INFO Password entered
+2021-10-01 20:44:20,746 INFO Login is clicked
+2021-10-01 20:44:27,197 INFO product searched
+2021-10-01 20:44:46,210 INFO Entering Setup
+2021-10-01 20:44:54,901 DEBUG navigating to url
+2021-10-01 20:44:54,901 INFO Exiting setup
+2021-10-01 20:45:04,077 INFO Entering Setup
+2021-10-01 20:45:19,053 DEBUG navigating to url
+2021-10-01 20:45:19,054 INFO Exiting setup
+2021-10-01 20:45:23,410 INFO SignIn is Clicked
+2021-10-01 20:45:26,084 INFO email entered
+2021-10-01 20:45:27,224 INFO Password entered
+2021-10-01 20:45:39,475 INFO Login is clicked
+2021-10-01 20:45:45,765 INFO product searched
+2021-10-01 20:46:00,006 INFO Product found
+2021-10-01 20:46:10,343 INFO Add to cart is clicked
+2021-10-01 20:46:10,343 INFO Added to cart Sucessfully
+2021-10-01 20:46:22,133 INFO cart button clicked
+2021-10-01 20:46:32,822 INFO proceed to buy is clicked
+2021-10-01 20:46:42,326 INFO Address button is clicked
+2021-10-01 20:46:48,848 INFO Entering Setup
+2021-10-01 20:46:58,024 DEBUG navigating to url
+2021-10-01 20:46:58,024 INFO Exiting setup
+2021-10-01 21:51:02,106 INFO Entering Setup
+2021-10-01 21:51:04,906 DEBUG navigating to url
+2021-10-01 21:51:10,897 INFO Exiting setup
+2021-10-01 21:51:15,150 INFO SignIn is Clicked
+2021-10-01 21:51:18,527 INFO email entered
+2021-10-01 21:51:19,653 INFO Password entered
+2021-10-01 21:51:31,914 INFO Login is clicked
+2021-10-01 21:51:45,443 INFO Entering Setup
+2021-10-01 21:53:25,767 INFO Entering Setup
+2021-10-01 21:53:27,933 DEBUG navigating to url
+2021-10-01 21:53:35,773 INFO Exiting setup
+2021-10-01 21:53:39,697 INFO SignIn is Clicked
+2021-10-01 21:53:42,248 INFO email entered
+2021-10-01 21:53:43,384 INFO Password entered
+2021-10-01 21:53:55,638 INFO Login is clicked
+2021-10-01 21:54:09,719 INFO Entering Setup
+2021-10-01 21:54:20,501 DEBUG navigating to url
+2021-10-01 21:54:42,845 INFO Exiting setup
+2021-10-01 21:54:52,242 INFO SignIn is Clicked
+2021-10-01 21:55:03,841 INFO email entered
+2021-10-01 21:55:09,041 INFO Password entered
+2021-10-01 21:55:32,715 INFO Login is clicked
+2021-10-01 21:57:02,345 INFO Entering Setup
+2021-10-01 21:57:02,347 INFO Entering Setup
+2021-10-01 21:57:05,125 DEBUG navigating to url
+2021-10-01 21:57:16,936 DEBUG navigating to url
+2021-10-01 21:57:30,857 INFO Exiting setup
+2021-10-01 21:57:33,183 INFO Exiting setup
+2021-10-01 22:00:09,628 INFO Entering Setup
+2021-10-01 22:00:09,630 INFO Entering Setup
+2021-10-01 22:00:11,976 DEBUG navigating to url
+2021-10-01 22:00:24,542 DEBUG navigating to url
+2021-10-01 22:00:53,069 INFO Exiting setup
+2021-10-01 22:00:55,150 INFO Exiting setup
+2021-10-01 22:02:27,855 INFO Entering Setup
+2021-10-01 22:02:27,853 INFO Entering Setup
+2021-10-01 22:02:30,043 DEBUG navigating to url
+2021-10-01 22:02:39,146 INFO Exiting setup
+2021-10-01 22:02:44,832 DEBUG navigating to url
+2021-10-01 22:02:44,950 INFO SignIn is Clicked
+2021-10-01 22:02:47,893 INFO email entered
+2021-10-01 22:02:49,141 INFO Password entered
+2021-10-01 22:03:03,993 INFO Exiting setup
+2021-10-02 19:05:48,751 INFO Entering Setup
+2021-10-02 19:05:48,749 INFO Entering Setup
+2021-10-02 19:05:52,148 DEBUG navigating to url
+2021-10-02 19:06:05,642 INFO Exiting setup
+2021-10-02 19:06:07,552 DEBUG navigating to url
+2021-10-02 19:06:17,474 INFO Exiting setup
+2021-10-02 19:07:19,650 INFO Entering Setup
+2021-10-02 19:07:22,247 DEBUG navigating to url
+2021-10-02 19:07:34,778 INFO Exiting setup
+2021-10-02 19:09:36,365 INFO Entering Setup
+2021-10-02 19:09:36,378 DEBUG navigating to url
+2021-10-02 20:53:40,478 INFO Entering Setup
+2021-10-02 20:53:40,494 DEBUG navigating to url
+2021-10-02 21:14:40,289 INFO Entering Setup
+2021-10-02 21:14:42,804 DEBUG navigating to url
+2021-10-02 21:14:51,074 INFO Exiting setup
+2021-10-02 21:14:54,105 INFO SignIn is Clicked
+2021-10-02 21:14:58,220 INFO email entered
+2021-10-02 21:14:59,383 INFO Password entered
+2021-10-02 21:15:11,746 INFO Login is clicked
+2021-10-02 21:16:45,653 INFO Entering Setup
+2021-10-02 21:16:45,655 INFO Entering Setup
+2021-10-02 21:16:47,371 DEBUG navigating to url
+2021-10-02 21:16:59,287 DEBUG navigating to url
+2021-10-02 21:17:15,780 INFO Exiting setup
+2021-10-02 21:17:17,857 INFO Exiting setup
+2021-10-02 21:28:36,551 INFO Entering Setup
+2021-10-02 21:28:38,896 DEBUG navigating to url
+2021-10-02 21:28:47,520 INFO Exiting setup
+2021-10-02 21:28:52,522 INFO SignIn is Clicked
+2021-10-02 21:28:56,172 INFO email entered
+2021-10-02 21:28:57,307 INFO Password entered
+2021-10-02 21:29:09,656 INFO Login is clicked
+2021-10-02 21:32:19,315 INFO Entering Setup
+2021-10-02 21:32:21,231 DEBUG navigating to url
+2021-10-02 21:32:29,213 INFO Exiting setup
+2021-10-02 21:32:32,262 INFO SignIn is Clicked
+2021-10-02 21:32:34,960 INFO email entered
+2021-10-02 21:32:36,066 INFO Password entered
+2021-10-02 21:32:48,292 INFO Login is clicked
+2021-10-02 21:33:04,035 INFO Entering Setup
+2021-10-02 21:33:14,190 DEBUG navigating to url
+2021-10-02 21:33:25,198 INFO Exiting setup
+2021-10-02 21:33:35,670 INFO SignIn is Clicked
+2021-10-02 21:33:48,162 INFO email entered
+2021-10-02 21:33:53,466 INFO Password entered
+2021-10-02 21:34:22,904 INFO Login is clicked
+2021-10-02 21:35:00,240 INFO Entering Setup
+2021-10-02 21:35:00,239 INFO Entering Setup
+2021-10-02 21:35:02,707 DEBUG navigating to url
+2021-10-02 21:35:12,070 INFO Exiting setup
+2021-10-02 21:35:13,558 DEBUG navigating to url
+2021-10-02 21:35:16,514 INFO SignIn is Clicked
+2021-10-02 21:35:20,725 INFO email entered
+2021-10-02 21:35:22,247 INFO Password entered
+2021-10-02 21:35:23,850 INFO Exiting setup
+2021-10-02 21:35:36,565 INFO SignIn is Clicked
+2021-10-02 21:37:43,735 INFO Entering Setup
+2021-10-02 21:37:43,734 INFO Entering Setup
+2021-10-02 21:37:45,836 DEBUG navigating to url
+2021-10-02 21:37:58,165 INFO Exiting setup
+2021-10-02 21:38:04,079 DEBUG navigating to url
+2021-10-02 21:38:18,965 INFO SignIn is Clicked
+2021-10-02 21:38:27,679 INFO email entered
+2021-10-02 21:38:31,489 INFO Password entered
+2021-10-02 21:38:34,763 INFO Exiting setup
+2021-10-02 21:38:44,991 INFO Login is clicked
+2021-10-02 21:38:50,688 INFO SignIn is Clicked
+2021-10-02 21:40:15,793 INFO Entering Setup
+2021-10-02 21:40:15,791 INFO Entering Setup
+2021-10-02 21:40:17,686 DEBUG navigating to url
+2021-10-02 21:40:24,355 INFO Exiting setup
+2021-10-02 21:40:31,257 DEBUG navigating to url
+2021-10-02 21:40:31,569 INFO SignIn is Clicked
+2021-10-02 21:40:34,530 INFO email entered
+2021-10-02 21:40:36,155 INFO Password entered
+2021-10-02 21:40:43,922 INFO Exiting setup
+2021-10-02 21:40:49,025 INFO Login is clicked
+2021-10-02 21:40:54,426 INFO SignIn is Clicked
+2021-10-02 21:41:07,192 INFO email entered
+2021-10-02 21:43:20,250 INFO Entering Setup
+2021-10-02 21:43:20,248 INFO Entering Setup
+2021-10-02 21:43:22,292 DEBUG navigating to url
+2021-10-02 21:43:28,845 INFO Exiting setup
+2021-10-02 21:43:35,518 INFO SignIn is Clicked
+2021-10-02 21:43:36,459 DEBUG navigating to url
+2021-10-02 21:43:38,513 INFO email entered
+2021-10-02 21:43:39,702 INFO Password entered
+2021-10-02 21:43:46,114 INFO Exiting setup
+2021-10-02 21:43:48,037 INFO Login is clicked
+2021-10-02 21:43:56,577 INFO SignIn is Clicked
+2021-10-02 21:44:14,124 INFO email entered
+2021-10-02 21:46:31,580 INFO Entering Setup
+2021-10-02 21:46:31,578 INFO Entering Setup
+2021-10-02 21:46:33,662 DEBUG navigating to url
+2021-10-02 21:46:39,461 INFO Exiting setup
+2021-10-02 21:46:45,204 INFO SignIn is Clicked
+2021-10-02 21:46:47,982 DEBUG navigating to url
+2021-10-02 21:46:49,677 INFO email entered
+2021-10-02 21:46:50,928 INFO Password entered
+2021-10-02 21:46:59,233 INFO Login is clicked
+2021-10-02 21:47:00,587 INFO Exiting setup
+2021-10-02 21:47:11,662 INFO SignIn is Clicked
+2021-10-02 21:48:33,411 INFO Entering Setup
+2021-10-02 21:48:35,494 DEBUG navigating to url
+2021-10-02 21:48:41,869 INFO Exiting setup
+2021-10-02 21:48:48,385 INFO SignIn is Clicked
+2021-10-02 21:48:52,316 INFO email entered
+2021-10-02 21:48:53,443 INFO Password entered
+2021-10-02 21:49:01,671 INFO Login is clicked
+2021-10-02 21:49:16,755 INFO Entering Setup
+2021-10-02 21:49:27,324 DEBUG navigating to url
+2021-10-02 21:49:36,429 INFO Exiting setup
+2021-10-02 21:49:45,247 INFO SignIn is Clicked
+2021-10-02 21:49:55,897 INFO email entered
+2021-10-02 21:50:01,143 INFO Password entered
+2021-10-02 21:50:16,327 INFO Login is clicked
+2021-10-02 21:51:58,551 INFO Entering Setup
+2021-10-02 21:52:08,325 DEBUG navigating to url
+2021-10-02 21:52:16,251 INFO Exiting setup
+2021-10-02 21:52:25,490 INFO SignIn is Clicked
+2021-10-02 21:52:36,479 INFO email entered
+2021-10-02 21:52:41,774 INFO Password entered
+2021-10-02 21:52:56,521 INFO Login is clicked
+2021-10-02 21:54:23,351 INFO Entering Setup
+2021-10-02 21:54:37,615 DEBUG navigating to url
+2021-10-02 21:54:46,317 INFO Exiting setup
+2021-10-02 21:55:01,991 INFO SignIn is Clicked
+2021-10-02 21:55:15,794 INFO email entered
+2021-10-02 21:55:21,043 INFO Password entered
+2021-10-02 21:55:40,608 INFO Login is clicked
+2021-10-02 21:56:51,111 INFO Entering Setup
+2021-10-02 21:56:51,113 INFO Entering Setup
+2021-10-02 21:56:53,754 DEBUG navigating to url
+2021-10-02 21:57:00,099 INFO Exiting setup
+2021-10-02 21:57:06,694 INFO SignIn is Clicked
+2021-10-02 21:57:09,517 DEBUG navigating to url
+2021-10-02 21:57:09,862 INFO email entered
+2021-10-02 21:57:11,052 INFO Password entered
+2021-10-02 21:57:19,331 INFO Login is clicked
+2021-10-02 21:57:19,641 INFO Exiting setup
+2021-10-02 21:57:29,892 INFO SignIn is Clicked
+2021-10-02 21:58:32,282 INFO Entering Setup
+2021-10-02 21:58:32,285 INFO Entering Setup
+2021-10-02 21:58:34,037 DEBUG navigating to url
+2021-10-02 21:58:45,719 INFO Exiting setup
+2021-10-02 21:58:55,748 INFO SignIn is Clicked
+2021-10-02 21:58:55,994 DEBUG navigating to url
+2021-10-02 21:59:00,554 INFO email entered
+2021-10-02 21:59:07,474 INFO Exiting setup
+2021-10-02 21:59:09,136 INFO Password entered
+2021-10-02 21:59:17,434 INFO Login is clicked
+2021-10-02 21:59:18,267 INFO SignIn is Clicked
+2021-10-02 21:59:30,677 INFO email entered
+2021-10-02 21:59:43,742 INFO Password entered
+2021-10-02 22:00:23,282 INFO Entering Setup
+2021-10-02 22:00:23,284 INFO Entering Setup
+2021-10-02 22:00:25,154 DEBUG navigating to url
+2021-10-02 22:00:40,497 INFO Exiting setup
+2021-10-02 22:00:40,917 DEBUG navigating to url
+2021-10-02 22:00:51,739 INFO Exiting setup
+2021-10-02 22:01:01,669 INFO SignIn is Clicked
+2021-10-02 22:03:57,997 INFO Entering Setup
+2021-10-02 22:03:57,999 INFO Entering Setup
+2021-10-02 22:03:59,613 DEBUG navigating to url
+2021-10-02 22:04:11,053 INFO Exiting setup
+2021-10-02 22:04:16,022 DEBUG navigating to url
+2021-10-02 22:04:16,081 INFO SignIn is Clicked
+2021-10-02 22:04:19,745 INFO email entered
+2021-10-02 22:04:28,136 INFO Password entered
+2021-10-02 22:04:35,439 INFO Exiting setup
+2021-10-02 22:04:40,416 INFO Login is clicked
+2021-10-02 22:04:44,325 INFO SignIn is Clicked
+2021-10-02 22:04:54,925 INFO email entered
+2021-10-02 22:19:22,126 INFO Entering Setup
+2021-10-02 22:19:22,131 INFO Entering Setup
+2021-10-02 22:19:23,865 DEBUG navigating to url
+2021-10-02 22:19:37,007 DEBUG navigating to url
+2021-10-02 22:19:51,563 INFO Exiting setup
+2021-10-02 22:19:53,772 INFO Exiting setup
+2021-10-02 22:20:45,404 INFO Entering Setup
+2021-10-02 22:20:45,405 INFO Entering Setup
+2021-10-02 22:20:46,824 DEBUG navigating to url
+2021-10-02 22:20:51,251 INFO Exiting setup
+2021-10-02 22:20:55,033 INFO SignIn is Clicked
+2021-10-02 22:20:59,127 INFO email entered
+2021-10-02 22:21:02,541 DEBUG navigating to url
+2021-10-02 22:21:07,327 INFO Password entered
+2021-10-02 22:21:14,772 INFO Exiting setup
+2021-10-02 22:21:19,503 INFO Login is clicked
+2021-10-02 22:21:23,461 INFO SignIn is Clicked
+2021-10-02 22:21:34,158 INFO email entered
+2021-10-02 22:23:58,203 INFO Entering Setup
+2021-10-02 22:23:58,205 INFO Entering Setup
+2021-10-02 22:24:00,458 DEBUG navigating to url
+2021-10-02 22:24:11,407 DEBUG navigating to url
+2021-10-02 22:24:24,618 INFO Exiting setup
+2021-10-02 22:24:34,235 INFO SignIn is Clicked
+2021-10-02 22:24:45,441 INFO email entered
+2021-10-02 22:24:57,662 INFO Password entered
+2021-10-02 22:25:17,426 INFO Login is clicked
+2021-10-02 22:25:38,775 INFO Entering Setup
+2021-10-02 22:25:38,777 INFO Entering Setup
+2021-10-02 22:25:40,208 DEBUG navigating to url
+2021-10-02 22:25:46,841 INFO Exiting setup
+2021-10-02 22:25:51,773 INFO SignIn is Clicked
+2021-10-02 22:25:55,105 INFO email entered
+2021-10-02 22:25:55,750 DEBUG navigating to url
+2021-10-02 22:26:03,277 INFO Password entered
+2021-10-02 22:26:07,062 INFO Exiting setup
+2021-10-02 22:26:15,826 INFO Login is clicked
+2021-10-02 22:26:17,753 INFO SignIn is Clicked
+2021-10-02 22:26:29,105 INFO email entered
+2021-10-02 22:27:26,244 INFO Entering Setup
+2021-10-02 22:27:26,245 INFO Entering Setup
+2021-10-02 22:27:27,651 DEBUG navigating to url
+2021-10-02 22:27:33,833 INFO Exiting setup
+2021-10-02 22:27:41,157 DEBUG navigating to url
+2021-10-02 22:27:56,978 INFO SignIn is Clicked
+2021-10-02 22:28:00,287 INFO email entered
+2021-10-02 22:28:12,478 INFO Password entered
+2021-10-02 22:28:24,609 INFO Login is clicked
+2021-10-02 22:28:48,537 INFO Entering Setup
+2021-10-02 22:28:48,539 INFO Entering Setup
+2021-10-02 22:28:50,643 DEBUG navigating to url
+2021-10-02 22:29:02,222 DEBUG navigating to url
+2021-10-02 22:29:03,513 INFO Exiting setup
+2021-10-02 22:29:11,358 INFO Exiting setup
+2021-10-02 22:29:17,297 INFO SignIn is Clicked
+2021-10-02 22:29:30,172 INFO email entered
+2021-10-02 23:05:37,527 INFO Entering Setup
+2021-10-02 23:05:40,281 DEBUG navigating to url
+2021-10-02 23:05:46,464 INFO Exiting setup
+2021-10-02 23:05:50,113 INFO SignIn is Clicked
+2021-10-02 23:05:53,220 INFO email entered
+2021-10-02 23:06:05,378 INFO Password entered
+2021-10-02 23:06:17,592 INFO Login is clicked
+2021-10-02 23:06:31,263 INFO Entering Setup
+2021-10-02 23:06:33,350 DEBUG navigating to url
+2021-10-02 23:06:44,606 INFO Exiting setup
+2021-10-02 23:06:48,687 INFO SignIn is Clicked
+2021-10-02 23:06:51,647 INFO email entered
+2021-10-02 23:07:03,781 INFO Password entered
+2021-10-02 23:07:15,991 INFO Login is clicked
+2021-10-02 23:07:22,218 INFO product searched
+2021-10-02 23:07:43,274 INFO Entering Setup
+2021-10-02 23:07:45,136 DEBUG navigating to url
+2021-10-02 23:08:03,780 INFO Exiting setup
+2021-10-02 23:08:08,020 INFO SignIn is Clicked
+2021-10-02 23:08:12,080 INFO email entered
+2021-10-02 23:08:24,203 INFO Password entered
+2021-10-02 23:08:40,771 INFO Entering Setup
+2021-10-02 23:08:42,716 DEBUG navigating to url
+2021-10-02 23:09:00,651 INFO Exiting setup
+2021-10-02 23:09:18,819 INFO Entering Setup
+2021-10-02 23:09:20,241 DEBUG navigating to url
+2021-10-02 23:09:29,592 INFO Exiting setup
+2021-10-02 23:09:33,980 INFO SignIn is Clicked
+2021-10-02 23:09:36,928 INFO email entered
+2021-10-02 23:09:49,059 INFO Password entered
+2021-10-02 23:10:01,232 INFO Login is clicked
+2021-10-02 23:10:11,834 INFO Entering Setup
+2021-10-02 23:10:13,684 DEBUG navigating to url
+2021-10-02 23:10:20,937 INFO Exiting setup
+2021-10-02 23:10:24,030 INFO SignIn is Clicked
+2021-10-02 23:10:26,888 INFO email entered
+2021-10-02 23:10:39,011 INFO Password entered
+2021-10-02 23:10:51,180 INFO Login is clicked
+2021-10-02 23:10:57,354 INFO product searched
+2021-10-02 23:11:17,602 INFO Entering Setup
+2021-10-02 23:11:19,353 DEBUG navigating to url
+2021-10-02 23:11:26,180 INFO Exiting setup
+2021-10-02 23:11:30,294 INFO SignIn is Clicked
+2021-10-02 23:11:32,745 INFO email entered
+2021-10-02 23:11:44,847 INFO Password entered
+2021-10-02 23:11:57,021 INFO Login is clicked
+2021-10-02 23:12:03,229 INFO product searched
+2021-10-02 23:12:14,040 INFO Product found
+2021-10-02 23:12:24,279 INFO Entering Setup
+2021-10-02 23:12:26,245 DEBUG navigating to url
+2021-10-02 23:12:38,906 INFO Exiting setup
+2021-10-02 23:13:35,084 INFO Entering Setup
+2021-10-02 23:13:36,490 DEBUG navigating to url
+2021-10-02 23:13:52,947 INFO Exiting setup
+2021-10-02 23:13:58,326 INFO SignIn is Clicked
+2021-10-02 23:14:00,743 INFO email entered
+2021-10-02 23:14:12,861 INFO Password entered
+2021-10-02 23:14:25,505 INFO Entering Setup
+2021-10-02 23:14:27,527 DEBUG navigating to url
+2021-10-02 23:14:33,984 INFO Entering Setup
+2021-10-02 23:14:35,831 DEBUG navigating to url
+2021-10-02 23:14:43,991 INFO Entering Setup
+2021-10-02 23:14:45,711 DEBUG navigating to url
+2021-10-02 23:18:44,794 INFO Entering Setup
+2021-10-02 23:18:46,455 DEBUG navigating to url
+2021-10-02 23:18:53,648 INFO Exiting setup
+2021-10-02 23:18:57,109 INFO SignIn is Clicked
+2021-10-02 23:18:59,611 INFO email entered
+2021-10-02 23:19:11,735 INFO Password entered
+2021-10-02 23:19:23,966 INFO Login is clicked
+2021-10-02 23:19:36,683 INFO Entering Setup
+2021-10-02 23:19:38,813 DEBUG navigating to url
+2021-10-02 23:19:45,574 INFO Exiting setup
+2021-10-02 23:19:48,390 INFO SignIn is Clicked
+2021-10-02 23:19:50,692 INFO email entered
+2021-10-02 23:20:02,879 INFO Password entered
+2021-10-02 23:20:15,080 INFO Login is clicked
+2021-10-02 23:20:21,320 INFO product searched
+2021-10-02 23:20:38,470 INFO Entering Setup
+2021-10-02 23:20:40,338 DEBUG navigating to url
+2021-10-02 23:20:49,459 INFO Exiting setup
+2021-10-02 23:20:53,846 INFO SignIn is Clicked
+2021-10-02 23:20:57,558 INFO email entered
+2021-10-02 23:21:09,665 INFO Password entered
+2021-10-02 23:21:21,828 INFO Login is clicked
+2021-10-02 23:21:28,049 INFO product searched
+2021-10-02 23:21:40,870 INFO Product found
+2021-10-02 23:21:56,760 INFO Entering Setup
+2021-10-02 23:21:58,836 DEBUG navigating to url
+2021-10-02 23:22:07,808 INFO Exiting setup
+2021-10-02 23:29:00,581 INFO Entering Setup
+2021-10-02 23:29:02,459 DEBUG navigating to url
+2021-10-02 23:29:07,451 INFO Exiting setup
+2021-10-02 23:29:11,213 INFO SignIn is Clicked
+2021-10-02 23:29:14,089 INFO email entered
+2021-10-02 23:29:26,252 INFO Password entered
+2021-10-02 23:29:38,447 INFO Login is clicked
+2021-10-02 23:29:44,666 INFO product searched
+2021-10-02 23:29:57,008 INFO Product found
+2021-10-02 23:30:12,584 INFO Entering Setup
+2021-10-02 23:30:14,597 DEBUG navigating to url
+2021-10-02 23:30:20,119 INFO Exiting setup
+2021-10-02 23:31:58,504 INFO Entering Setup
+2021-10-02 23:32:00,356 DEBUG navigating to url
+2021-10-02 23:32:02,222 INFO Entering Setup
+2021-10-02 23:32:04,533 DEBUG navigating to url
+2021-10-02 23:32:27,583 INFO Entering Setup
+2021-10-02 23:32:29,584 DEBUG navigating to url
+2021-10-02 23:32:39,180 INFO Exiting setup
+2021-10-02 23:32:44,446 INFO SignIn is Clicked
+2021-10-02 23:32:47,027 INFO email entered
+2021-10-02 23:32:59,157 INFO Password entered
+2021-10-02 23:33:11,428 INFO Login is clicked
+2021-10-02 23:33:17,670 INFO product searched
+2021-10-02 23:33:28,235 INFO Product found
+2021-10-02 23:33:41,230 INFO Add to cart is clicked
+2021-10-02 23:33:41,231 INFO Added to cart Sucessfully
+2021-10-02 23:33:54,404 INFO cart button clicked
+2021-10-02 23:34:02,713 INFO proceed to buy is clicked
+2021-10-02 23:34:11,214 INFO Address button is clicked
+2021-10-02 23:34:15,492 INFO Entering Setup
+2021-10-02 23:34:17,326 DEBUG navigating to url
+2021-10-02 23:34:28,973 INFO Exiting setup
+2021-10-02 23:46:24,289 INFO Entering Setup
+2021-10-02 23:46:26,041 DEBUG navigating to url
+2021-10-02 23:46:33,190 INFO Exiting setup
+2021-10-02 23:46:36,639 INFO SignIn is Clicked
+2021-10-02 23:46:40,050 INFO email entered
+2021-10-02 23:46:52,133 INFO Password entered
+2021-10-02 23:47:04,317 INFO Login is clicked
+2021-10-02 23:47:10,594 INFO product searched
+2021-10-02 23:47:23,664 INFO Product found
+2021-10-02 23:47:40,787 INFO Entering Setup
+2021-10-02 23:47:42,828 DEBUG navigating to url
+2021-10-02 23:47:49,900 INFO Exiting setup
+2021-10-02 23:54:02,919 INFO Entering Setup
+2021-10-02 23:54:04,548 DEBUG navigating to url
+2021-10-02 23:54:12,478 INFO Exiting setup
+2021-10-02 23:54:15,954 INFO SignIn is Clicked
+2021-10-02 23:54:19,807 INFO email entered
+2021-10-02 23:54:31,924 INFO Password entered
+2021-10-02 23:54:44,127 INFO Login is clicked
+2021-10-02 23:54:50,369 INFO product searched
+2021-10-02 23:55:02,336 INFO Product found
+2021-10-02 23:59:17,097 INFO Entering Setup
+2021-10-02 23:59:19,248 DEBUG navigating to url
+2021-10-02 23:59:26,610 INFO Exiting setup
+2021-10-02 23:59:30,551 INFO SignIn is Clicked
+2021-10-02 23:59:33,145 INFO email entered
+2021-10-02 23:59:45,294 INFO Password entered
+2021-10-02 23:59:57,488 INFO Login is clicked
+2021-10-03 00:00:03,727 INFO product searched
+2021-10-03 00:00:14,512 INFO Product found
+2021-10-03 00:01:04,082 INFO Entering Setup
+2021-10-03 00:01:05,472 DEBUG navigating to url
+2021-10-03 00:01:13,182 INFO Exiting setup
+2021-10-03 00:01:16,747 INFO SignIn is Clicked
+2021-10-03 00:01:20,270 INFO email entered
+2021-10-03 00:01:32,385 INFO Password entered
+2021-10-03 00:01:44,561 INFO Login is clicked
+2021-10-03 00:01:50,789 INFO product searched
+2021-10-03 00:02:02,301 INFO Product found
+2021-10-03 00:02:14,373 INFO Add to cart is clicked
+2021-10-03 00:02:14,374 INFO Added to cart Sucessfully
+2021-10-03 00:02:25,486 INFO cart button clicked
+2021-10-03 00:02:34,364 INFO proceed to buy is clicked
+2021-10-03 00:02:43,793 INFO Address button is clicked
+2021-10-03 00:11:34,422 INFO Entering Setup
+2021-10-03 00:11:36,499 DEBUG navigating to url
+2021-10-03 00:11:41,652 INFO Exiting setup
+2021-10-03 00:11:44,968 INFO SignIn is Clicked
+2021-10-03 00:11:47,442 INFO email entered
+2021-10-03 00:11:59,566 INFO Password entered
+2021-10-03 00:12:11,730 INFO Login is clicked
+2021-10-03 00:12:17,988 INFO product searched
+2021-10-03 00:12:28,757 INFO Product found
+2021-10-03 00:12:43,316 INFO Add to cart is clicked
+2021-10-03 00:12:43,317 INFO Added to cart Sucessfully
+2021-10-03 00:12:54,966 INFO cart button clicked
+2021-10-03 00:13:02,216 INFO proceed to buy is clicked
+2021-10-03 00:17:51,546 INFO Entering Setup
+2021-10-03 00:17:53,366 DEBUG navigating to url
+2021-10-03 00:17:59,010 INFO Exiting setup
+2021-10-03 00:18:01,814 INFO SignIn is Clicked
+2021-10-03 00:18:05,548 INFO email entered
+2021-10-03 00:18:17,686 INFO Password entered
+2021-10-03 00:18:29,876 INFO Login is clicked
+2021-10-03 00:18:36,063 INFO product searched
+2021-10-03 00:18:48,900 INFO Product found
+2021-10-03 00:19:04,920 INFO Add to cart is clicked
+2021-10-03 00:19:04,920 INFO Added to cart Sucessfully
+2021-10-03 00:19:18,410 INFO cart button clicked
+2021-10-03 00:19:25,565 INFO proceed to buy is clicked
+2021-10-03 00:19:34,228 INFO Address button is clicked
+2021-10-03 10:25:18,804 INFO Entering Setup
+2021-10-03 10:25:20,884 DEBUG navigating to url
+2021-10-03 10:25:25,899 INFO Exiting setup
+2021-10-03 10:25:29,077 INFO SignIn is Clicked
+2021-10-03 10:25:31,577 INFO email entered
+2021-10-03 10:25:43,702 INFO Password entered
+2021-10-03 10:25:55,990 INFO Login is clicked
+2021-10-03 10:26:02,295 INFO product searched
+2021-10-03 10:26:12,925 INFO Product found
+2021-10-03 10:26:26,339 INFO Add to cart is clicked
+2021-10-03 10:26:26,340 INFO Added to cart Sucessfully
+2021-10-03 10:26:39,035 INFO cart button clicked
+2021-10-03 10:26:47,863 INFO proceed to buy is clicked
+2021-10-03 10:26:56,511 INFO Address button is clicked
+2021-10-03 10:56:55,692 INFO Entering Setup
+2021-10-03 10:56:57,542 DEBUG navigating to url
+2021-10-03 10:57:03,612 INFO Exiting setup
+2021-10-03 10:57:06,669 INFO SignIn is Clicked
+2021-10-03 10:57:09,103 INFO email entered
+2021-10-03 10:57:21,228 INFO Password entered
+2021-10-03 10:57:33,417 INFO Login is clicked
+2021-10-03 11:07:06,861 INFO Entering Setup
+2021-10-03 11:07:08,604 DEBUG navigating to url
+2021-10-03 11:07:16,609 INFO Exiting setup
+2021-10-03 11:07:20,231 INFO SignIn is Clicked
+2021-10-03 11:07:22,643 INFO email entered
+2021-10-03 11:07:34,802 INFO Password entered
+2021-10-03 11:07:47,027 INFO Login is clicked
+2021-10-03 11:14:23,488 INFO Entering Setup
+2021-10-03 11:14:24,975 DEBUG navigating to url
+2021-10-03 11:14:32,207 INFO Exiting setup
+2021-10-03 11:14:35,019 INFO SignIn is Clicked
+2021-10-03 11:14:39,342 INFO email entered
+2021-10-03 11:14:51,541 INFO Password entered
+2021-10-03 11:15:03,813 INFO Login is clicked
+2021-10-03 11:19:35,683 INFO Entering Setup
+2021-10-03 11:19:37,299 DEBUG navigating to url
+2021-10-03 11:19:45,993 INFO Exiting setup
+2021-10-03 11:19:51,218 INFO SignIn is Clicked
+2021-10-03 11:19:53,564 INFO email entered
+2021-10-03 11:20:05,699 INFO Password entered
+2021-10-03 11:20:17,976 INFO Login is clicked
+2021-10-03 11:24:08,051 INFO Entering Setup
+2021-10-03 11:24:09,549 DEBUG navigating to url
+2021-10-03 11:24:16,411 INFO Exiting setup
+2021-10-03 11:24:19,083 INFO SignIn is Clicked
+2021-10-03 11:24:23,190 INFO email entered
+2021-10-03 11:24:35,308 INFO Password entered
+2021-10-03 11:24:53,873 INFO Entering Setup
+2021-10-03 11:24:55,486 DEBUG navigating to url
+2021-10-03 11:25:05,139 INFO Exiting setup
+2021-10-03 11:25:08,176 INFO SignIn is Clicked
+2021-10-03 11:25:10,897 INFO email entered
+2021-10-03 11:25:23,142 INFO Password entered
+2021-10-03 11:25:35,359 INFO Login is clicked
+2021-10-03 11:25:41,341 INFO email entered
+2021-10-03 11:36:04,441 INFO Entering Setup
+2021-10-03 11:36:06,003 DEBUG navigating to url
+2021-10-03 11:36:09,534 INFO Exiting setup
+2021-10-03 11:36:13,973 INFO SignIn is Clicked
+2021-10-03 11:36:17,403 INFO email entered
+2021-10-03 11:36:29,542 INFO Password entered
+2021-10-03 11:36:41,752 INFO Login is clicked
+2021-10-03 11:36:53,139 INFO Entering Setup
+2021-10-03 11:36:54,941 DEBUG navigating to url
+2021-10-03 11:37:01,129 INFO Exiting setup
+2021-10-03 11:37:04,701 INFO SignIn is Clicked
+2021-10-03 11:37:07,323 INFO email entered
+2021-10-03 11:37:19,439 INFO Password entered
+2021-10-03 11:37:31,652 INFO Login is clicked
+2021-10-03 11:37:38,001 INFO product searched
+2021-10-03 11:37:55,177 INFO Entering Setup
+2021-10-03 11:37:56,961 DEBUG navigating to url
+2021-10-03 11:38:02,943 INFO Exiting setup
+2021-10-03 11:38:07,905 INFO SignIn is Clicked
+2021-10-03 11:38:11,938 INFO email entered
+2021-10-03 11:38:24,049 INFO Password entered
+2021-10-03 11:38:36,258 INFO Login is clicked
+2021-10-03 11:38:42,666 INFO product searched
+2021-10-03 11:38:54,696 INFO Product found
+2021-10-03 11:39:09,261 INFO Add to cart is clicked
+2021-10-03 11:39:09,262 INFO Added to cart Sucessfully
+2021-10-03 11:39:21,282 INFO cart button clicked
+2021-10-03 11:39:26,525 INFO Entering Setup
+2021-10-03 11:39:28,346 DEBUG navigating to url
+2021-10-03 11:39:38,833 INFO Exiting setup
+2021-10-03 11:39:41,813 INFO SignIn is Clicked
+2021-10-03 11:39:44,739 INFO email entered
+2021-10-03 11:39:56,964 INFO Password entered
+2021-10-03 11:40:09,314 INFO Login is clicked
+2021-10-03 11:40:15,606 INFO product searched
+2021-10-03 11:40:27,231 INFO Product found
+2021-10-03 11:40:47,307 INFO Add to cart is clicked
+2021-10-03 11:40:47,307 INFO Added to cart Sucessfully
+2021-10-03 11:41:03,497 INFO cart button clicked
+2021-10-03 11:41:11,559 INFO proceed to buy is clicked
+2021-10-03 11:41:16,726 INFO Entering Setup
+2021-10-03 11:41:18,462 DEBUG navigating to url
+2021-10-03 11:41:31,811 INFO Exiting setup
+2021-10-03 11:41:35,244 INFO SignIn is Clicked
+2021-10-03 11:41:38,364 INFO email entered
+2021-10-03 11:41:50,487 INFO Password entered
+2021-10-03 11:42:02,673 INFO Login is clicked
+2021-10-03 11:42:08,987 INFO product searched
+2021-10-03 11:42:20,859 INFO Product found
+2021-10-03 11:42:35,395 INFO Add to cart is clicked
+2021-10-03 11:42:35,395 INFO Added to cart Sucessfully
+2021-10-03 11:42:47,332 INFO cart button clicked
+2021-10-03 11:42:57,039 INFO proceed to buy is clicked
+2021-10-03 11:43:07,599 INFO Address button is clicked
+2021-10-03 11:43:08,961 INFO Entering Setup
+2021-10-03 11:43:10,735 DEBUG navigating to url
+2021-10-03 11:43:19,954 INFO Exiting setup
+2021-10-03 11:43:22,868 INFO SignIn is Clicked
+2021-10-03 11:43:26,215 INFO email entered
+2021-10-03 11:43:38,327 INFO Password entered
+2021-10-03 11:43:50,556 INFO Login is clicked
+2021-10-03 11:43:56,806 INFO product searched
+2021-10-03 11:44:09,840 INFO Product found
+2021-10-03 11:44:24,768 INFO Add to cart is clicked
+2021-10-03 11:44:24,768 INFO Added to cart Sucessfully
+2021-10-03 11:44:36,631 INFO cart button clicked
+2021-10-03 11:44:49,430 INFO proceed to buy is clicked
+2021-10-03 11:44:58,620 INFO Address button is clicked
+2021-10-03 11:44:59,548 INFO Entering Setup
+2021-10-03 11:45:01,300 DEBUG navigating to url
+2021-10-03 11:45:05,845 INFO Exiting setup
+2021-10-03 11:45:10,016 INFO SignIn is Clicked
+2021-10-03 11:45:13,528 INFO email entered
+2021-10-03 11:45:25,716 INFO Password entered
+2021-10-03 11:45:40,424 INFO Login is clicked
+2021-10-03 11:45:47,910 INFO email entered
+2021-10-03 11:52:20,241 INFO Entering Setup
+2021-10-03 11:52:21,774 DEBUG navigating to url
+2021-10-03 11:52:27,944 INFO Exiting setup
+2021-10-03 11:52:32,413 INFO SignIn is Clicked
+2021-10-03 11:52:35,897 INFO email entered
+2021-10-03 11:52:48,051 INFO Password entered
+2021-10-03 11:53:00,228 INFO Login is clicked
+2021-10-03 11:53:06,480 INFO product searched
+2021-10-03 11:53:18,666 INFO Product found
+2021-10-03 11:54:26,334 INFO Add to cart is clicked
+2021-10-03 11:54:26,334 INFO Added to cart Sucessfully
+2021-10-03 11:54:35,314 INFO Entering Setup
+2021-10-03 11:54:37,066 DEBUG navigating to url
+2021-10-03 11:54:44,425 INFO Exiting setup
+2021-10-03 11:54:48,209 INFO SignIn is Clicked
+2021-10-03 11:54:51,978 INFO email entered
+2021-10-03 11:55:04,104 INFO Password entered
+2021-10-03 11:56:15,306 INFO Entering Setup
+2021-10-03 11:56:17,059 DEBUG navigating to url
+2021-10-03 11:56:31,683 INFO Exiting setup
+2021-10-03 11:56:35,974 INFO SignIn is Clicked
+2021-10-03 11:56:40,036 INFO email entered
+2021-10-03 11:56:52,165 INFO Password entered
+2021-10-03 11:57:04,352 INFO Login is clicked
+2021-10-03 11:57:10,541 INFO product searched
+2021-10-03 11:57:23,074 INFO Product found
+2021-10-03 11:57:34,878 INFO Add to cart is clicked
+2021-10-03 11:57:34,879 INFO Added to cart Sucessfully
+2021-10-03 11:57:46,854 INFO cart button clicked
+2021-10-03 11:57:53,864 INFO proceed to buy is clicked
+2021-10-03 11:58:06,348 INFO Address button is clicked
+2021-10-03 11:58:07,464 INFO Entering Setup
+2021-10-03 11:58:09,332 DEBUG navigating to url
+2021-10-03 11:58:34,636 INFO Exiting setup
+2021-10-03 11:58:40,421 INFO SignIn is Clicked
+2021-10-03 11:58:43,221 INFO email entered
+2021-10-03 11:58:55,358 INFO Password entered
+2021-10-03 11:59:11,347 INFO Login is clicked
+2021-10-03 11:59:17,608 INFO product searched
+2021-10-03 11:59:30,980 INFO Product found
+2021-10-03 11:59:47,586 INFO Add to cart is clicked
+2021-10-03 11:59:47,587 INFO Added to cart Sucessfully
+2021-10-03 12:00:01,047 INFO cart button clicked
+2021-10-03 12:00:10,203 INFO proceed to buy is clicked
+2021-10-03 12:00:18,668 INFO Address button is clicked
+2021-10-03 12:42:20,431 INFO Entering Setup
+2021-10-03 12:42:20,433 INFO Entering Setup
+2021-10-03 12:42:22,347 DEBUG navigating to url
+2021-10-03 12:42:37,475 DEBUG navigating to url
+2021-10-03 12:43:08,388 INFO Exiting setup
+2021-10-03 12:43:10,435 INFO Exiting setup
+2021-10-03 12:43:19,105 INFO SignIn is Clicked
+2021-10-03 12:44:54,837 INFO Entering Setup
+2021-10-03 12:44:54,839 INFO Entering Setup
+2021-10-03 12:44:56,302 DEBUG navigating to url
+2021-10-03 12:45:09,242 DEBUG navigating to url
+2021-10-03 12:45:49,528 INFO Exiting setup
+2021-10-03 12:45:51,600 INFO Exiting setup
+2021-10-03 13:15:07,230 INFO Entering Setup
+2021-10-03 13:15:07,231 INFO Entering Setup
+2021-10-03 13:15:09,009 DEBUG navigating to url
+2021-10-03 13:15:24,075 DEBUG navigating to url
+2021-10-03 13:15:57,521 INFO Exiting setup
+2021-10-03 13:15:59,614 INFO Exiting setup
+2021-10-03 13:21:02,533 INFO Entering Setup
+2021-10-03 13:21:03,877 DEBUG navigating to url
+2021-10-03 13:21:20,673 INFO Exiting setup
+2021-10-03 13:21:24,727 INFO SignIn is Clicked
+2021-10-03 13:21:28,303 INFO email entered
+2021-10-03 13:21:40,427 INFO Password entered
+2021-10-03 13:21:52,738 INFO Login is clicked
+2021-10-03 13:22:04,731 INFO Entering Setup
+2021-10-03 13:22:18,817 DEBUG navigating to url
+2021-10-03 13:22:42,313 INFO Exiting setup
+2021-10-03 13:22:51,677 INFO SignIn is Clicked
+2021-10-03 13:23:02,691 INFO email entered
+2021-10-03 13:23:18,937 INFO Password entered
+2021-10-03 13:23:43,665 INFO Login is clicked
+2021-10-03 14:49:00,740 INFO Entering Setup
+2021-10-03 14:49:02,598 DEBUG navigating to url
+2021-10-03 14:49:24,171 INFO Exiting setup
+2021-10-03 14:49:31,083 INFO SignIn is Clicked
+2021-10-03 14:49:34,288 INFO email entered
+2021-10-03 14:49:46,416 INFO Password entered
+2021-10-03 14:49:58,603 INFO Login is clicked
+2021-10-03 14:50:13,729 INFO Entering Setup
+2021-10-03 14:50:27,852 DEBUG navigating to url
+2021-10-03 14:51:28,368 INFO Exiting setup
+2021-10-03 14:51:38,653 INFO SignIn is Clicked
+2021-10-03 14:51:49,446 INFO email entered
+2021-10-03 14:52:05,667 INFO Password entered
+2021-10-03 14:52:37,428 INFO Login is clicked
+2021-10-03 14:53:40,950 INFO Entering Setup
+2021-10-03 14:53:42,850 DEBUG navigating to url
+2021-10-03 14:54:06,024 INFO Exiting setup
+2021-10-03 14:54:10,582 INFO SignIn is Clicked
+2021-10-03 14:54:14,029 INFO email entered
+2021-10-03 14:54:26,153 INFO Password entered
+2021-10-03 14:54:38,935 INFO Login is clicked
+2021-10-03 14:54:50,147 INFO Entering Setup
+2021-10-03 14:55:03,686 DEBUG navigating to url
+2021-10-03 14:55:22,347 INFO Exiting setup
+2021-10-03 14:55:31,329 INFO SignIn is Clicked
+2021-10-03 14:55:42,745 INFO email entered
+2021-10-03 14:55:58,945 INFO Password entered
+2021-10-03 14:56:28,278 INFO Login is clicked
+2021-10-03 14:57:18,230 INFO Entering Setup
+2021-10-03 14:57:20,168 DEBUG navigating to url
+2021-10-03 14:57:31,447 INFO Exiting setup
+2021-10-03 14:57:34,445 INFO SignIn is Clicked
+2021-10-03 14:57:37,419 INFO email entered
+2021-10-03 14:57:49,548 INFO Password entered
+2021-10-03 14:58:01,715 INFO Login is clicked
+2021-10-03 14:58:07,943 INFO product searched
+2021-10-03 14:58:20,798 INFO Product found
+2021-10-03 14:58:39,648 INFO Add to cart is clicked
+2021-10-03 14:58:39,648 INFO Added to cart Sucessfully
+2021-10-03 14:58:53,423 INFO cart button clicked
+2021-10-03 14:59:00,709 INFO proceed to buy is clicked
+2021-10-03 14:59:10,626 INFO Address button is clicked
+2021-10-03 14:59:11,859 INFO Entering Setup
+2021-10-03 14:59:13,772 DEBUG navigating to url
+2021-10-03 14:59:29,498 INFO Exiting setup
+2021-10-03 14:59:33,476 INFO SignIn is Clicked
+2021-10-03 14:59:36,012 INFO email entered
+2021-10-03 14:59:48,133 INFO Password entered
+2021-10-03 15:00:00,354 INFO Login is clicked
+2021-10-03 15:00:06,591 INFO product searched
+2021-10-03 15:00:18,444 INFO Product found
+2021-10-03 15:00:35,012 INFO Add to cart is clicked
+2021-10-03 15:00:35,012 INFO Added to cart Sucessfully
+2021-10-03 15:00:46,015 INFO cart button clicked
+2021-10-03 15:00:53,637 INFO proceed to buy is clicked
+2021-10-03 15:01:02,698 INFO Address button is clicked
+2021-10-03 15:01:03,703 INFO Entering Setup
+2021-10-03 15:01:17,293 DEBUG navigating to url
+2021-10-03 15:01:39,025 INFO Exiting setup
+2021-10-03 15:01:49,452 INFO SignIn is Clicked
+2021-10-03 15:02:01,215 INFO email entered
+2021-10-03 15:02:17,400 INFO Password entered
+2021-10-03 15:02:40,196 INFO Login is clicked
+2021-10-03 15:02:52,501 INFO product searched
+2021-10-03 15:03:15,007 INFO Product found
+2021-10-03 15:03:32,081 INFO Add to cart is clicked
+2021-10-03 15:03:32,081 INFO Added to cart Sucessfully
+2021-10-03 15:03:46,202 INFO cart button clicked
+2021-10-03 15:03:57,032 INFO proceed to buy is clicked
+2021-10-03 15:04:08,923 INFO Address button is clicked
+2021-10-03 15:04:17,096 INFO Entering Setup
+2021-10-03 15:04:30,119 DEBUG navigating to url
+2021-10-03 15:04:36,608 INFO Exiting setup
+2021-10-03 15:04:45,028 INFO SignIn is Clicked
+2021-10-03 15:04:55,795 INFO email entered
+2021-10-03 15:05:11,988 INFO Password entered
+2021-10-03 15:05:36,565 INFO Login is clicked
+2021-10-03 15:05:48,872 INFO product searched
+2021-10-03 15:06:10,681 INFO Product found
+2021-10-03 15:06:26,263 INFO Add to cart is clicked
+2021-10-03 15:06:26,263 INFO Added to cart Sucessfully
+2021-10-03 15:06:40,067 INFO cart button clicked
+2021-10-03 15:06:51,567 INFO proceed to buy is clicked
+2021-10-03 15:07:03,927 INFO Address button is clicked
+2021-10-03 15:23:03,354 INFO Entering Setup
+2021-10-03 15:23:05,390 DEBUG navigating to url
+2021-10-03 15:23:24,195 INFO Exiting setup
+2021-10-03 15:23:28,172 INFO SignIn is Clicked
+2021-10-03 15:23:30,711 INFO email entered
+2021-10-03 15:23:42,824 INFO Password entered
+2021-10-03 15:24:25,873 INFO Entering Setup
+2021-10-03 15:24:27,364 DEBUG navigating to url
+2021-10-03 15:24:42,267 INFO Exiting setup
+2021-10-03 15:24:49,055 INFO SignIn is Clicked
+2021-10-03 15:24:52,653 INFO email entered
+2021-10-03 15:25:04,782 INFO Password entered
+2021-10-03 15:25:19,028 INFO Login is clicked
+2021-10-03 15:25:25,317 INFO product searched
+2021-10-03 15:25:38,389 INFO Product found
+2021-10-03 15:25:52,953 INFO Add to cart is clicked
+2021-10-03 15:25:52,953 INFO Added to cart Sucessfully
+2021-10-03 15:26:07,210 INFO cart button clicked
+2021-10-03 15:26:17,758 INFO proceed to buy is clicked
+2021-10-03 15:26:27,857 INFO Address button is clicked
+2021-10-03 15:29:13,419 INFO Entering Setup
+2021-10-03 15:29:15,035 DEBUG navigating to url
+2021-10-03 15:29:35,049 INFO Exiting setup
+2021-10-03 15:29:40,749 INFO SignIn is Clicked
+2021-10-03 15:29:44,077 INFO email entered
+2021-10-03 15:29:56,212 INFO Password entered
+2021-10-03 15:30:08,772 INFO Login is clicked
+2021-10-03 15:30:15,266 INFO product searched
+2021-10-03 15:30:26,910 INFO Product found
+2021-10-03 15:30:42,613 INFO Add to cart is clicked
+2021-10-03 15:30:42,614 INFO Added to cart Sucessfully
+2021-10-03 15:30:57,016 INFO cart button clicked
+2021-10-03 15:31:04,194 INFO proceed to buy is clicked
+2021-10-03 15:31:13,536 INFO Address button is clicked
+2021-10-03 15:40:55,138 INFO Entering Setup
+2021-10-03 15:40:57,092 DEBUG navigating to url
+2021-10-03 15:41:04,500 INFO Exiting setup
+2021-10-03 15:41:07,859 INFO SignIn is Clicked
+2021-10-03 15:41:22,350 INFO email entered
+2021-10-03 15:42:32,558 INFO Entering Setup
+2021-10-03 15:42:34,430 DEBUG navigating to url
+2021-10-03 15:42:39,654 INFO Exiting setup
+2021-10-03 15:42:42,605 INFO SignIn is Clicked
+2021-10-03 15:42:46,130 INFO email entered
+2021-10-03 15:42:58,257 INFO Password entered
+2021-10-03 15:43:10,442 INFO Login is clicked
+2021-10-03 15:43:16,703 INFO product searched
+2021-10-03 15:43:28,971 INFO Product found
+2021-10-03 15:43:43,067 INFO Add to cart is clicked
+2021-10-03 15:43:43,067 INFO Added to cart Sucessfully
+2021-10-03 15:43:55,497 INFO cart button clicked
+2021-10-03 15:44:02,991 INFO proceed to buy is clicked
+2021-10-03 15:44:12,695 INFO Address button is clicked
+2021-10-03 15:49:01,579 INFO Entering Setup
+2021-10-03 15:49:03,466 DEBUG navigating to url
+2021-10-03 15:49:10,437 INFO Exiting setup
+2021-10-03 15:50:09,380 INFO Entering Setup
+2021-10-03 15:50:10,911 DEBUG navigating to url
+2021-10-03 15:50:18,049 INFO Exiting setup
+2021-10-03 15:50:21,053 INFO SignIn is Clicked
+2021-10-03 15:50:23,242 INFO email entered
+2021-10-03 15:50:35,391 INFO Password entered
+2021-10-03 15:50:47,595 INFO Login is clicked
+2021-10-03 15:50:53,828 INFO product searched
+2021-10-03 15:51:05,939 INFO Product found
+2021-10-03 15:51:17,886 INFO Add to cart is clicked
+2021-10-03 15:51:17,886 INFO Added to cart Sucessfully
+2021-10-03 15:51:28,875 INFO cart button clicked
+2021-10-03 15:51:36,003 INFO proceed to buy is clicked
+2021-10-03 15:51:44,352 INFO Address button is clicked
+2021-10-03 17:38:49,161 INFO Entering Setup
+2021-10-03 17:38:51,902 DEBUG navigating to url
+2021-10-03 17:38:56,496 INFO Exiting setup
+2021-10-03 17:38:59,894 INFO SignIn is Clicked
+2021-10-03 17:39:02,630 INFO email entered
+2021-10-03 17:39:14,797 INFO Password entered
+2021-10-03 17:39:27,455 INFO Login is clicked
+2021-10-03 17:39:34,124 INFO product searched
+2021-10-03 17:39:45,355 INFO Product found
+2021-10-03 17:39:57,666 INFO Add to cart is clicked
+2021-10-03 17:39:57,666 INFO Added to cart Sucessfully
+2021-10-03 17:40:09,115 INFO cart button clicked
+2021-10-03 17:40:18,513 INFO proceed to buy is clicked
+2021-10-03 17:40:29,656 INFO Address button is clicked
+2021-10-03 17:40:33,829 INFO Payment button is clicked
+2021-10-03 18:14:40,891 INFO Entering Setup
+2021-10-03 18:14:42,982 DEBUG navigating to url
+2021-10-03 18:14:53,733 INFO Exiting setup
+2021-10-03 18:14:57,252 INFO SignIn is Clicked
+2021-10-03 18:15:01,093 INFO email entered
+2021-10-03 18:15:13,240 INFO Password entered
+2021-10-03 18:15:25,618 INFO Login is clicked
+2021-10-03 18:15:31,914 INFO product searched
+2021-10-03 18:17:02,011 INFO Entering Setup
+2021-10-03 18:17:03,685 DEBUG navigating to url
+2021-10-03 18:17:19,365 INFO Exiting setup
+2021-10-03 18:17:23,708 INFO SignIn is Clicked
+2021-10-03 18:17:26,581 INFO email entered
+2021-10-03 18:17:38,723 INFO Password entered
+2021-10-03 18:17:53,062 INFO Login is clicked
+2021-10-03 18:17:59,430 INFO product searched
+2021-10-03 18:26:43,048 INFO Entering Setup
+2021-10-03 18:26:44,802 DEBUG navigating to url
+2021-10-03 18:26:54,141 INFO Exiting setup
+2021-10-03 18:26:57,643 INFO SignIn is Clicked
+2021-10-03 18:27:00,442 INFO email entered
+2021-10-03 18:27:12,595 INFO Password entered
+2021-10-03 18:27:28,837 INFO Login is clicked
+2021-10-03 18:27:35,249 INFO product searched
+2021-10-03 18:44:25,415 INFO Entering Setup
+2021-10-03 18:44:27,411 DEBUG navigating to url
+2021-10-03 18:44:39,759 INFO Exiting setup
+2021-10-03 18:44:43,702 INFO SignIn is Clicked
+2021-10-03 18:44:46,155 INFO email entered
+2021-10-03 18:44:58,334 INFO Password entered
+2021-10-03 18:45:10,545 INFO Login is clicked
+2021-10-03 18:45:16,959 INFO product searched
+2021-10-03 18:46:13,936 INFO Entering Setup
+2021-10-03 18:46:17,172 DEBUG navigating to url
+2021-10-03 18:46:28,969 INFO Exiting setup
+2021-10-03 18:46:32,659 INFO SignIn is Clicked
+2021-10-03 18:46:35,498 INFO email entered
+2021-10-03 18:46:47,682 INFO Password entered
+2021-10-03 18:47:02,053 INFO Login is clicked
+2021-10-03 18:47:08,704 INFO product searched
+2021-10-03 18:48:10,775 INFO Entering Setup
+2021-10-03 18:48:13,331 DEBUG navigating to url
+2021-10-03 18:48:35,057 INFO Exiting setup
+2021-10-03 18:48:38,934 INFO SignIn is Clicked
+2021-10-03 18:48:41,857 INFO email entered
+2021-10-03 18:48:54,003 INFO Password entered
+2021-10-03 18:49:09,420 INFO Login is clicked
+2021-10-03 18:49:15,827 INFO product searched
+2021-10-03 18:50:16,727 INFO Entering Setup
+2021-10-03 18:50:18,265 DEBUG navigating to url
+2021-10-03 18:50:32,961 INFO Exiting setup
+2021-10-03 18:50:36,357 INFO SignIn is Clicked
+2021-10-03 18:50:39,384 INFO email entered
+2021-10-03 18:50:51,490 INFO Password entered
+2021-10-03 18:51:27,768 INFO Entering Setup
+2021-10-03 18:51:29,258 DEBUG navigating to url
+2021-10-03 18:51:37,395 INFO Exiting setup
+2021-10-03 18:51:44,304 INFO SignIn is Clicked
+2021-10-03 18:51:47,034 INFO email entered
+2021-10-03 18:51:59,163 INFO Password entered
+2021-10-03 18:52:11,973 INFO Login is clicked
+2021-10-03 18:52:18,441 INFO product searched
+2021-10-03 19:02:12,251 INFO Entering Setup
+2021-10-03 19:02:14,034 DEBUG navigating to url
+2021-10-03 19:02:31,895 INFO Exiting setup
+2021-10-03 19:02:36,099 INFO SignIn is Clicked
+2021-10-03 19:02:39,559 INFO email entered
+2021-10-03 19:02:51,680 INFO Password entered
+2021-10-03 19:03:23,057 INFO Entering Setup
+2021-10-03 19:03:25,072 DEBUG navigating to url
+2021-10-03 19:03:38,577 INFO Exiting setup
+2021-10-03 19:03:43,671 INFO SignIn is Clicked
+2021-10-03 19:03:47,416 INFO email entered
+2021-10-03 19:03:59,578 INFO Password entered
+2021-10-03 19:04:11,856 INFO Login is clicked
+2021-10-03 19:04:18,139 INFO product searched
+2021-10-03 19:06:21,414 INFO Entering Setup
+2021-10-03 19:06:22,898 DEBUG navigating to url
+2021-10-03 19:06:31,686 INFO Exiting setup
+2021-10-03 19:06:35,605 INFO SignIn is Clicked
+2021-10-03 19:06:38,180 INFO email entered
+2021-10-03 19:06:50,311 INFO Password entered
+2021-10-03 19:07:15,244 INFO Entering Setup
+2021-10-03 19:07:17,067 DEBUG navigating to url
+2021-10-03 19:07:27,525 INFO Exiting setup
+2021-10-03 19:07:32,255 INFO SignIn is Clicked
+2021-10-03 19:07:34,827 INFO email entered
+2021-10-03 19:07:46,988 INFO Password entered
+2021-10-03 19:07:59,301 INFO Login is clicked
+2021-10-03 19:08:05,880 INFO product searched
+2021-10-03 19:08:20,532 INFO Product found
+2021-10-03 19:08:33,892 INFO Add to cart is clicked
+2021-10-03 19:08:33,893 INFO Added to cart Sucessfully
+2021-10-03 19:10:39,643 INFO Entering Setup
+2021-10-03 19:10:41,835 DEBUG navigating to url
+2021-10-03 19:11:03,331 INFO Entering Setup
+2021-10-03 19:11:06,231 DEBUG navigating to url
+2021-10-03 19:11:45,749 INFO Entering Setup
+2021-10-03 19:11:48,648 DEBUG navigating to url
+2021-10-03 19:11:56,627 INFO Exiting setup
+2021-10-03 19:12:00,896 INFO SignIn is Clicked
+2021-10-03 19:12:03,685 INFO email entered
+2021-10-03 19:12:15,856 INFO Password entered
+2021-10-03 19:12:28,092 INFO Login is clicked
+2021-10-03 19:12:34,369 INFO product searched
+2021-10-03 19:12:45,099 INFO Product found
+2021-10-03 19:12:58,912 INFO Add to cart is clicked
+2021-10-03 19:12:58,912 INFO Added to cart Sucessfully
+2021-10-03 19:13:09,618 INFO cart button clicked
+2021-10-03 19:13:16,093 INFO proceed to buy is clicked
+2021-10-03 19:17:29,401 INFO Entering Setup
+2021-10-03 19:17:31,419 DEBUG navigating to url
+2021-10-03 19:17:48,205 INFO Exiting setup
+2021-10-03 19:17:51,628 INFO SignIn is Clicked
+2021-10-03 19:17:56,038 INFO email entered
+2021-10-03 19:18:08,197 INFO Password entered
+2021-10-03 19:18:20,377 INFO Login is clicked
+2021-10-03 19:18:26,624 INFO product searched
+2021-10-03 19:18:41,507 INFO Product found
+2021-10-03 19:19:04,065 INFO Add to cart is clicked
+2021-10-03 19:19:04,065 INFO Added to cart Sucessfully
+2021-10-03 19:19:17,590 INFO cart button clicked
+2021-10-03 19:19:26,812 INFO proceed to buy is clicked
+2021-10-03 19:24:47,364 INFO Entering Setup
+2021-10-03 19:24:50,035 DEBUG navigating to url
+2021-10-03 19:24:57,713 INFO Exiting setup
+2021-10-03 19:25:00,762 INFO SignIn is Clicked
+2021-10-03 19:25:03,426 INFO email entered
+2021-10-03 19:25:15,517 INFO Password entered
+2021-10-03 19:25:28,608 INFO Entering Setup
+2021-10-03 19:25:30,405 DEBUG navigating to url
+2021-10-03 19:25:36,329 INFO Exiting setup
+2021-10-03 19:25:39,324 INFO SignIn is Clicked
+2021-10-03 19:25:42,028 INFO email entered
+2021-10-03 19:25:54,137 INFO Password entered
+2021-10-03 19:26:06,362 INFO Login is clicked
+2021-10-03 19:26:12,679 INFO product searched
+2021-10-03 19:26:37,021 INFO Entering Setup
+2021-10-03 19:26:38,904 DEBUG navigating to url
+2021-10-03 19:26:50,005 INFO Exiting setup
+2021-10-03 19:26:57,437 INFO SignIn is Clicked
+2021-10-03 19:27:02,797 INFO email entered
+2021-10-03 19:27:14,961 INFO Password entered
+2021-10-03 19:27:36,574 INFO Login is clicked
+2021-10-03 19:27:42,839 INFO product searched
+2021-10-03 19:27:56,017 INFO Product found
+2021-10-03 19:28:12,061 INFO Add to cart is clicked
+2021-10-03 19:28:12,061 INFO Added to cart Sucessfully
+2021-10-03 19:28:24,589 INFO cart button clicked
+2021-10-03 19:28:29,966 INFO Entering Setup
+2021-10-03 19:28:31,836 DEBUG navigating to url
+2021-10-03 19:28:40,148 INFO Exiting setup
+2021-10-03 19:28:46,035 INFO SignIn is Clicked
+2021-10-03 19:28:48,399 INFO email entered
+2021-10-03 19:29:00,522 INFO Password entered
+2021-10-03 19:29:12,753 INFO Login is clicked
+2021-10-03 19:29:19,017 INFO product searched
+2021-10-03 19:29:29,393 INFO Product found
+2021-10-03 19:29:46,413 INFO Add to cart is clicked
+2021-10-03 19:29:46,413 INFO Added to cart Sucessfully
+2021-10-03 19:29:58,556 INFO cart button clicked
+2021-10-03 19:30:06,131 INFO proceed to buy is clicked
+2021-10-03 19:30:11,704 INFO Entering Setup
+2021-10-03 19:30:13,644 DEBUG navigating to url
+2021-10-03 19:30:27,055 INFO Exiting setup
+2021-10-03 19:30:34,837 INFO Entering Setup
+2021-10-03 19:30:36,713 DEBUG navigating to url
+2021-10-03 19:30:45,645 INFO Exiting setup
+2021-10-03 19:30:55,331 INFO Entering Setup
+2021-10-03 19:30:57,133 DEBUG navigating to url
+2021-10-03 19:31:07,526 INFO Exiting setup
+2021-10-03 19:31:13,729 INFO SignIn is Clicked
+2021-10-03 19:31:16,165 INFO email entered
+2021-10-03 19:31:28,291 INFO Password entered
+2021-10-03 19:31:40,652 INFO Login is clicked
+2021-10-03 19:31:46,966 INFO product searched
+2021-10-03 19:31:57,830 INFO Product found
+2021-10-03 19:32:14,629 INFO Add to cart is clicked
+2021-10-03 19:32:14,629 INFO Added to cart Sucessfully
+2021-10-03 19:32:25,903 INFO cart button clicked
+2021-10-03 19:32:33,247 INFO proceed to buy is clicked
+2021-10-03 19:32:44,229 INFO Address button is clicked
+2021-10-03 19:32:49,498 INFO Entering Setup
+2021-10-03 19:32:51,371 DEBUG navigating to url
+2021-10-03 19:33:04,801 INFO Exiting setup
+2021-10-03 19:33:11,806 INFO SignIn is Clicked
+2021-10-03 19:33:15,568 INFO email entered
+2021-10-03 19:33:27,684 INFO Password entered
+2021-10-03 19:33:40,590 INFO Entering Setup
+2021-10-03 19:33:42,433 DEBUG navigating to url
+2021-10-03 19:33:55,792 INFO Exiting setup
+2021-10-03 19:33:59,655 INFO SignIn is Clicked
+2021-10-03 19:34:03,402 INFO email entered
+2021-10-03 19:34:15,530 INFO Password entered
+2021-10-03 19:34:27,757 INFO Login is clicked
+2021-10-03 19:34:33,815 INFO email entered
+2021-10-03 19:36:49,649 INFO Entering Setup
+2021-10-03 19:36:51,262 DEBUG navigating to url
+2021-10-03 19:36:58,646 INFO Exiting setup
+2021-10-03 19:37:01,843 INFO SignIn is Clicked
+2021-10-03 19:37:05,695 INFO email entered
+2021-10-03 19:37:17,824 INFO Password entered
+2021-10-03 19:37:30,038 INFO Login is clicked
+2021-10-03 19:37:43,022 INFO Entering Setup
+2021-10-03 19:37:44,945 DEBUG navigating to url
+2021-10-03 19:37:52,340 INFO Exiting setup
+2021-10-03 19:37:55,306 INFO SignIn is Clicked
+2021-10-03 19:37:59,115 INFO email entered
+2021-10-03 19:38:11,234 INFO Password entered
+2021-10-03 19:38:23,418 INFO Login is clicked
+2021-10-03 19:38:29,702 INFO product searched
+2021-10-03 19:38:42,530 INFO Product found
+2021-10-03 19:38:56,823 INFO Add to cart is clicked
+2021-10-03 19:38:56,824 INFO Added to cart Sucessfully
+2021-10-03 19:39:09,118 INFO cart button clicked
+2021-10-03 19:39:16,100 INFO proceed to buy is clicked
+2021-10-03 19:39:24,197 INFO Address button is clicked
+2021-10-03 19:39:28,297 INFO Payment button is clicked
+2021-10-03 20:40:56,418 INFO Entering Setup
+2021-10-03 20:40:56,414 INFO Entering Setup
+2021-10-03 20:40:56,416 INFO Entering Setup
+2021-10-03 20:41:03,030 DEBUG navigating to url
+2021-10-03 20:41:03,231 DEBUG navigating to url
+2021-10-03 20:41:03,259 DEBUG navigating to url
+2021-10-03 20:41:22,279 INFO Exiting setup
+2021-10-03 20:41:23,733 INFO Exiting setup
+2021-10-03 20:41:23,919 INFO Exiting setup
+2021-10-04 11:00:33,365 INFO Entering Setup
+2021-10-04 11:00:35,745 DEBUG navigating to url
+2021-10-04 11:00:54,253 INFO Exiting setup
+2021-10-04 11:00:58,720 INFO SignIn is Clicked
+2021-10-04 11:01:01,754 INFO email entered
+2021-10-04 11:01:13,900 INFO Password entered
+2021-10-04 11:01:26,293 INFO Login is clicked
+2021-10-04 11:01:39,413 INFO Entering Setup
+2021-10-04 11:01:41,457 DEBUG navigating to url
+2021-10-04 11:01:58,820 INFO Exiting setup
+2021-10-04 11:02:02,314 INFO SignIn is Clicked
+2021-10-04 11:02:06,383 INFO email entered
+2021-10-04 11:02:18,530 INFO Password entered
+2021-10-04 11:02:40,549 INFO Login is clicked
+2021-10-04 11:02:46,905 INFO product searched
+2021-10-04 11:03:08,352 INFO Entering Setup
+2021-10-04 11:03:10,255 DEBUG navigating to url
+2021-10-04 11:03:31,878 INFO Exiting setup
+2021-10-04 11:03:37,550 INFO SignIn is Clicked
+2021-10-04 11:03:41,503 INFO email entered
+2021-10-04 11:03:53,622 INFO Password entered
+2021-10-04 11:04:10,393 INFO Login is clicked
+2021-10-04 11:04:16,640 INFO product searched
+2021-10-04 11:04:27,850 INFO Product found
+2021-10-04 11:04:39,736 INFO Add to cart is clicked
+2021-10-04 11:04:39,736 INFO Added to cart Sucessfully
+2021-10-04 11:04:52,573 INFO cart button clicked
+2021-10-04 11:05:02,043 INFO Entering Setup
+2021-10-04 11:05:03,993 DEBUG navigating to url
+2021-10-04 11:05:21,319 INFO Exiting setup
+2021-10-04 11:05:25,934 INFO SignIn is Clicked
+2021-10-04 11:05:29,625 INFO email entered
+2021-10-04 11:05:41,738 INFO Password entered
+2021-10-04 11:05:53,898 INFO Login is clicked
+2021-10-04 11:06:00,466 INFO product searched
+2021-10-04 11:06:12,519 INFO Product found
+2021-10-04 11:06:24,559 INFO Add to cart is clicked
+2021-10-04 11:06:24,559 INFO Added to cart Sucessfully
+2021-10-04 11:06:35,754 INFO cart button clicked
+2021-10-04 11:06:43,070 INFO proceed to buy is clicked
+2021-10-04 11:06:52,404 INFO Entering Setup
+2021-10-04 11:06:54,256 DEBUG navigating to url
+2021-10-04 11:07:01,447 INFO Exiting setup
+2021-10-04 11:07:04,251 INFO SignIn is Clicked
+2021-10-04 11:07:06,725 INFO email entered
+2021-10-04 11:07:18,842 INFO Password entered
+2021-10-04 11:07:31,898 INFO Entering Setup
+2021-10-04 11:07:33,924 DEBUG navigating to url
+2021-10-04 11:07:42,495 INFO Exiting setup
+2021-10-04 11:07:45,282 INFO SignIn is Clicked
+2021-10-04 11:07:47,777 INFO email entered
+2021-10-04 11:07:59,911 INFO Password entered
+2021-10-04 11:08:12,147 INFO Login is clicked
+2021-10-04 11:08:18,390 INFO product searched
+2021-10-04 11:08:30,852 INFO Product found
+2021-10-04 11:08:44,508 INFO Add to cart is clicked
+2021-10-04 11:08:44,508 INFO Added to cart Sucessfully
+2021-10-04 11:08:57,023 INFO cart button clicked
+2021-10-04 11:09:03,900 INFO proceed to buy is clicked
+2021-10-04 11:09:12,097 INFO Address button is clicked
+2021-10-04 11:09:16,243 INFO Payment button is clicked
+2021-10-04 11:09:25,617 INFO Entering Setup
+2021-10-04 11:09:27,453 DEBUG navigating to url
+2021-10-04 11:09:43,211 INFO Exiting setup
+2021-10-04 11:09:47,312 INFO SignIn is Clicked
+2021-10-04 11:09:49,952 INFO email entered
+2021-10-04 11:10:02,043 INFO Password entered
+2021-10-04 11:10:14,225 INFO Login is clicked
+2021-10-04 11:10:22,076 INFO email entered
+2021-10-04 11:10:27,051 INFO Entering Setup
+2021-10-04 11:10:28,921 DEBUG navigating to url
+2021-10-04 11:10:39,085 INFO Exiting setup
+2021-10-04 11:10:50,247 INFO Entering Setup
+2021-10-04 11:10:52,118 DEBUG navigating to url
+2021-10-04 11:11:01,728 INFO Exiting setup
+2021-10-04 11:11:33,567 INFO Entering Setup
+2021-10-04 11:11:35,294 DEBUG navigating to url
+2021-10-04 11:11:42,062 INFO Exiting setup
+2021-10-04 11:11:46,436 INFO SignIn is Clicked
+2021-10-04 11:11:48,753 INFO email entered
+2021-10-04 11:12:00,873 INFO Password entered
+2021-10-04 11:12:24,568 INFO Entering Setup
+2021-10-04 11:12:26,449 DEBUG navigating to url
+2021-10-04 11:12:30,055 INFO Exiting setup
+2021-10-04 11:12:33,539 INFO SignIn is Clicked
+2021-10-04 11:12:37,027 INFO email entered
+2021-10-04 11:12:49,159 INFO Password entered
+2021-10-04 11:13:01,420 INFO Login is clicked
+2021-10-04 11:13:07,777 INFO product searched
+2021-10-04 11:13:20,508 INFO Product found
+2021-10-04 11:13:41,668 INFO Add to cart is clicked
+2021-10-04 11:13:41,668 INFO Added to cart Sucessfully
+2021-10-04 11:13:56,412 INFO cart button clicked
+2021-10-04 11:14:03,818 INFO proceed to buy is clicked
+2021-10-04 11:14:13,512 INFO Address button is clicked
+2021-10-04 12:38:57,498 INFO Entering Setup
+2021-10-04 12:39:02,355 DEBUG navigating to url
+2021-10-04 12:39:09,599 INFO Exiting setup
+2021-10-04 12:39:15,573 INFO SignIn is Clicked
+2021-10-04 12:39:19,316 INFO email entered
+2021-10-04 12:39:31,441 INFO Password entered
+2021-10-04 12:39:44,502 INFO Login is clicked
+2021-10-04 12:39:58,620 INFO Entering Setup
+2021-10-04 12:40:02,752 DEBUG navigating to url
+2021-10-04 12:40:15,152 INFO Exiting setup
+2021-10-04 12:41:49,204 INFO Entering Setup
+2021-10-04 12:41:52,848 DEBUG navigating to url
+2021-10-04 12:42:21,083 INFO Exiting setup
+2021-10-04 12:42:25,120 INFO SignIn is Clicked
+2021-10-04 12:42:28,240 INFO email entered
+2021-10-04 12:42:40,359 INFO Password entered
+2021-10-04 12:42:53,415 INFO Entering Setup
+2021-10-04 12:42:57,662 DEBUG navigating to url
+2021-10-04 12:43:08,446 INFO Exiting setup
+2021-10-04 12:44:07,019 INFO Entering Setup
+2021-10-04 12:44:10,664 DEBUG navigating to url
+2021-10-04 12:44:19,253 INFO Exiting setup
+2021-10-04 12:44:23,147 INFO SignIn is Clicked
+2021-10-04 12:44:26,523 INFO email entered
+2021-10-04 12:44:38,629 INFO Password entered
+2021-10-04 12:44:51,711 INFO Entering Setup
+2021-10-04 12:44:55,607 DEBUG navigating to url
+2021-10-04 12:45:10,334 INFO Exiting setup
+2021-10-04 12:45:33,676 INFO Entering Setup
+2021-10-04 12:45:37,262 DEBUG navigating to url
+2021-10-04 12:45:47,381 INFO Exiting setup
+2021-10-04 12:45:52,261 INFO SignIn is Clicked
+2021-10-04 12:45:56,497 INFO email entered
+2021-10-04 12:46:08,632 INFO Password entered
+2021-10-04 12:46:21,721 INFO Entering Setup
+2021-10-04 12:46:25,637 DEBUG navigating to url
+2021-10-04 12:46:32,374 INFO Exiting setup
+2021-10-04 12:46:53,132 INFO Entering Setup
+2021-10-04 12:46:56,925 DEBUG navigating to url
+2021-10-04 12:47:07,907 INFO Exiting setup
+2021-10-04 12:47:12,780 INFO SignIn is Clicked
+2021-10-04 12:47:15,807 INFO email entered
+2021-10-04 12:47:27,927 INFO Password entered
+2021-10-04 12:47:40,127 INFO Login is clicked
+2021-10-04 12:47:46,719 INFO product searched
+2021-10-04 12:48:11,626 INFO Entering Setup
+2021-10-04 12:48:15,633 DEBUG navigating to url
+2021-10-04 12:48:22,215 INFO Exiting setup
+2021-10-04 12:49:59,467 INFO Entering Setup
+2021-10-04 12:50:02,997 DEBUG navigating to url
+2021-10-04 12:50:35,463 INFO Exiting setup
+2021-10-04 12:50:41,353 INFO SignIn is Clicked
+2021-10-04 12:50:45,629 INFO email entered
+2021-10-04 12:50:57,788 INFO Password entered
+2021-10-04 12:51:11,865 INFO Login is clicked
+2021-10-04 12:51:18,157 INFO product searched
+2021-10-04 12:51:31,265 INFO Product found
+2021-10-04 12:51:43,975 INFO Add to cart is clicked
+2021-10-04 12:51:43,976 INFO Added to cart Sucessfully
+2021-10-04 12:51:57,203 INFO cart button clicked
+2021-10-04 12:52:13,069 INFO Entering Setup
+2021-10-04 12:52:17,286 DEBUG navigating to url
+2021-10-04 12:52:37,572 INFO Exiting setup
+2021-10-04 12:54:09,064 INFO Entering Setup
+2021-10-04 12:54:12,744 DEBUG navigating to url
+2021-10-04 12:54:25,364 INFO Exiting setup
+2021-10-04 12:54:32,735 INFO SignIn is Clicked
+2021-10-04 12:54:35,603 INFO email entered
+2021-10-04 12:54:47,773 INFO Password entered
+2021-10-04 12:55:00,879 INFO Entering Setup
+2021-10-04 12:55:05,100 DEBUG navigating to url
+2021-10-04 12:55:15,808 INFO Exiting setup
+2021-10-04 12:55:39,371 INFO Entering Setup
+2021-10-04 12:55:43,033 DEBUG navigating to url
+2021-10-04 12:55:57,457 INFO Exiting setup
+2021-10-04 12:56:04,326 INFO SignIn is Clicked
+2021-10-04 12:56:06,678 INFO email entered
+2021-10-04 12:56:18,832 INFO Password entered
+2021-10-04 12:56:37,817 INFO Login is clicked
+2021-10-04 12:56:44,132 INFO product searched
+2021-10-04 12:56:59,172 INFO Product found
+2021-10-04 12:57:16,291 INFO Add to cart is clicked
+2021-10-04 12:57:16,291 INFO Added to cart Sucessfully
+2021-10-04 12:57:27,180 INFO cart button clicked
+2021-10-04 12:57:35,814 INFO proceed to buy is clicked
+2021-10-04 12:57:52,127 INFO Entering Setup
+2021-10-04 12:57:56,089 DEBUG navigating to url
+2021-10-04 12:58:20,751 INFO Exiting setup
+2021-10-04 12:59:37,114 INFO Entering Setup
+2021-10-04 12:59:40,998 DEBUG navigating to url
+2021-10-04 12:59:54,290 INFO Exiting setup
+2021-10-04 12:59:59,684 INFO SignIn is Clicked
+2021-10-04 13:00:03,712 INFO email entered
+2021-10-04 13:00:15,821 INFO Password entered
+2021-10-04 13:00:28,919 INFO Entering Setup
+2021-10-04 13:00:32,986 DEBUG navigating to url
+2021-10-04 13:00:40,691 INFO Exiting setup
+2021-10-04 13:01:55,921 INFO Entering Setup
+2021-10-04 13:01:59,562 DEBUG navigating to url
+2021-10-04 13:02:05,281 INFO Exiting setup
+2021-10-04 13:02:09,542 INFO SignIn is Clicked
+2021-10-04 13:02:13,103 INFO email entered
+2021-10-04 13:02:25,258 INFO Password entered
+2021-10-04 13:02:37,467 INFO Login is clicked
+2021-10-04 13:02:43,711 INFO product searched
+2021-10-04 13:02:56,311 INFO Product found
+2021-10-04 13:03:11,448 INFO Add to cart is clicked
+2021-10-04 13:03:11,448 INFO Added to cart Sucessfully
+2021-10-04 13:03:23,017 INFO cart button clicked
+2021-10-04 13:03:30,382 INFO proceed to buy is clicked
+2021-10-04 13:03:39,914 INFO Address button is clicked
+2021-10-04 13:03:56,231 INFO Entering Setup
+2021-10-04 13:04:00,244 DEBUG navigating to url
+2021-10-04 13:04:09,760 INFO Exiting setup
+2021-10-04 13:06:43,535 INFO Entering Setup
+2021-10-04 13:06:47,586 DEBUG navigating to url
+2021-10-04 13:06:53,356 INFO Exiting setup
+2021-10-04 13:06:56,568 INFO SignIn is Clicked
+2021-10-04 13:07:02,491 INFO email entered
+2021-10-04 13:07:14,686 INFO Password entered
+2021-10-04 13:07:27,777 INFO Entering Setup
+2021-10-04 13:07:31,678 DEBUG navigating to url
+2021-10-04 13:07:40,545 INFO Exiting setup
+2021-10-04 13:08:32,733 INFO Entering Setup
+2021-10-04 13:08:36,360 DEBUG navigating to url
+2021-10-04 13:08:42,837 INFO Exiting setup
+2021-10-04 13:08:47,473 INFO SignIn is Clicked
+2021-10-04 13:08:50,870 INFO email entered
+2021-10-04 13:09:03,026 INFO Password entered
+2021-10-04 13:09:15,217 INFO Login is clicked
+2021-10-04 13:09:21,447 INFO product searched
+2021-10-04 13:09:33,361 INFO Product found
+2021-10-04 13:09:45,268 INFO Add to cart is clicked
+2021-10-04 13:09:45,268 INFO Added to cart Sucessfully
+2021-10-04 13:09:56,779 INFO cart button clicked
+2021-10-04 13:10:05,102 INFO proceed to buy is clicked
+2021-10-04 13:10:14,601 INFO Address button is clicked
+2021-10-04 13:10:18,782 INFO Payment button is clicked
+2021-10-04 13:10:35,042 INFO Entering Setup
+2021-10-04 13:10:39,003 DEBUG navigating to url
+2021-10-04 13:10:46,094 INFO Exiting setup
+2021-10-04 13:11:44,002 INFO Entering Setup
+2021-10-04 13:11:47,635 DEBUG navigating to url
+2021-10-04 13:11:52,864 INFO Exiting setup
+2021-10-04 13:11:55,902 INFO SignIn is Clicked
+2021-10-04 13:12:00,453 INFO email entered
+2021-10-04 13:12:12,593 INFO Password entered
+2021-10-04 13:12:24,808 INFO Login is clicked
+2021-10-04 13:12:31,033 INFO product searched
+2021-10-04 13:12:43,350 INFO Product found
+2021-10-04 13:12:58,342 INFO Add to cart is clicked
+2021-10-04 13:12:58,342 INFO Added to cart Sucessfully
+2021-10-04 13:13:11,767 INFO cart button clicked
+2021-10-04 13:13:19,729 INFO proceed to buy is clicked
+2021-10-04 13:13:28,342 INFO Address button is clicked
+2021-10-04 13:13:32,474 INFO Payment button is clicked
+2021-10-04 13:13:51,081 INFO Entering Setup
+2021-10-04 13:13:55,336 DEBUG navigating to url
+2021-10-04 13:14:01,586 INFO Exiting setup
+2021-10-04 13:14:05,521 INFO SignIn is Clicked
+2021-10-04 13:14:08,823 INFO email entered
+2021-10-04 13:14:20,964 INFO Password entered
+2021-10-04 13:14:33,127 INFO Login is clicked
+2021-10-04 13:14:39,761 INFO email entered
+2021-10-04 13:14:44,720 INFO Entering Setup
+2021-10-04 13:14:48,562 DEBUG navigating to url
+2021-10-04 13:14:56,092 INFO Exiting setup
+2021-10-04 13:15:59,777 INFO Entering Setup
+2021-10-04 13:16:03,527 DEBUG navigating to url
+2021-10-04 13:16:08,408 INFO Exiting setup
+2021-10-04 13:16:26,769 INFO Entering Setup
+2021-10-04 13:16:30,695 DEBUG navigating to url
+2021-10-04 13:16:35,244 INFO Exiting setup
+2021-10-04 13:18:38,590 INFO Entering Setup
+2021-10-04 13:18:42,454 DEBUG navigating to url
+2021-10-04 13:18:54,216 INFO Exiting setup
+2021-10-04 13:18:59,245 INFO SignIn is Clicked
+2021-10-04 13:19:01,610 INFO email entered
+2021-10-04 13:19:13,788 INFO Password entered
+2021-10-04 13:19:26,815 INFO Login is clicked
+2021-10-04 13:19:40,287 INFO Entering Setup
+2021-10-04 13:19:44,388 DEBUG navigating to url
+2021-10-04 13:19:57,868 INFO Exiting setup
+2021-10-04 13:20:03,162 INFO SignIn is Clicked
+2021-10-04 13:20:07,227 INFO email entered
+2021-10-04 13:20:19,332 INFO Password entered
+2021-10-04 13:20:31,666 INFO Login is clicked
+2021-10-04 13:20:38,017 INFO product searched
+2021-10-04 13:20:56,202 INFO Entering Setup
+2021-10-04 13:21:00,074 DEBUG navigating to url
+2021-10-04 13:21:18,085 INFO Exiting setup
+2021-10-04 13:21:24,259 INFO SignIn is Clicked
+2021-10-04 13:21:26,895 INFO email entered
+2021-10-04 13:21:39,009 INFO Password entered
+2021-10-04 13:21:52,290 INFO Entering Setup
+2021-10-04 13:21:56,405 DEBUG navigating to url
+2021-10-04 13:22:13,616 INFO Exiting setup
+2021-10-04 13:22:18,767 INFO SignIn is Clicked
+2021-10-04 13:22:23,346 INFO email entered
+2021-10-04 13:22:35,444 INFO Password entered
+2021-10-04 13:22:48,326 INFO Entering Setup
+2021-10-04 13:22:52,131 DEBUG navigating to url
+2021-10-04 13:23:11,291 INFO Exiting setup
+2021-10-04 13:23:17,888 INFO SignIn is Clicked
+2021-10-04 13:23:21,841 INFO email entered
+2021-10-04 13:23:33,985 INFO Password entered
+2021-10-04 13:23:51,014 INFO Login is clicked
+2021-10-04 13:23:57,296 INFO product searched
+2021-10-04 13:24:11,991 INFO Product found
+2021-10-04 13:24:41,388 INFO Add to cart is clicked
+2021-10-04 13:24:41,388 INFO Added to cart Sucessfully
+2021-10-04 13:25:00,467 INFO cart button clicked
+2021-10-04 13:25:11,297 INFO proceed to buy is clicked
+2021-10-04 13:25:21,506 INFO Address button is clicked
+2021-10-04 13:25:30,883 INFO Entering Setup
+2021-10-04 13:25:34,758 DEBUG navigating to url
+2021-10-04 13:25:52,127 INFO Exiting setup
+2021-10-04 13:25:56,808 INFO SignIn is Clicked
+2021-10-04 13:26:00,502 INFO email entered
+2021-10-04 13:26:12,609 INFO Password entered
+2021-10-04 13:26:25,503 INFO Login is clicked
+2021-10-04 13:26:31,752 INFO product searched
+2021-10-04 13:26:46,282 INFO Product found
+2021-10-04 13:27:04,652 INFO Add to cart is clicked
+2021-10-04 13:27:04,652 INFO Added to cart Sucessfully
+2021-10-04 13:27:17,252 INFO cart button clicked
+2021-10-04 13:27:26,631 INFO proceed to buy is clicked
+2021-10-04 13:27:35,431 INFO Address button is clicked
+2021-10-04 13:27:39,535 INFO Payment button is clicked
+2021-10-04 13:27:48,811 INFO Entering Setup
+2021-10-04 13:27:52,878 DEBUG navigating to url
+2021-10-04 13:28:19,002 INFO Exiting setup
+2021-10-04 13:28:24,303 INFO SignIn is Clicked
+2021-10-04 13:28:27,882 INFO email entered
+2021-10-04 13:28:40,012 INFO Password entered
+2021-10-04 13:29:04,979 INFO Login is clicked
+2021-10-04 13:29:13,551 INFO email entered
+2021-10-04 13:29:18,607 INFO Entering Setup
+2021-10-04 13:29:22,511 DEBUG navigating to url
+2021-10-04 13:29:49,547 INFO Exiting setup
+2021-10-04 13:30:04,725 INFO Entering Setup
+2021-10-04 13:30:09,084 DEBUG navigating to url
+2021-10-04 13:30:40,389 INFO Exiting setup

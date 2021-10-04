@@ -8,7 +8,7 @@ namespace AmazonApp.NegativeTestCase
 {
     public class NegativeDoAction:BaseClass.BaseClass
     {
-        public static void InvalidData(IWebDriver driver)
+        public static void InvalidData()
         {
             try
             {

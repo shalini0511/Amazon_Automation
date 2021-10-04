@@ -28,7 +28,7 @@ namespace AmazonApp.Pages
         
         public static void PriceList()
         {
-            //Product items
+            //Product Price List
             Console.WriteLine("-----------------------------PRICE LIST------------------------------");
             IList<IWebElement> price = driver.FindElements(By.XPath("//span[@class='a-price-whole']"));
             foreach (IWebElement amount in price)

@@ -14,11 +14,11 @@ namespace AmazonApp.Pages
         [CacheLookup]
         public IWebElement search;
 
-        /*[FindsBy(How = How.XPath, Using = "//img[@class='s-image']")]
+        [FindsBy(How = How.Id, Using = "nav-search-submit-button")]
         [CacheLookup]
-        public IWebElement dress;*/
-
+        public IWebElement searchIcon;
         
+
 
     }
 }
